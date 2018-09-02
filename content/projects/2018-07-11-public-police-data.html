@@ -1,0 +1,11 @@
+
+
+<p>+++ title = ‘2018 07 11 Public Police Data’ date = 2018-07-11T22:53:40-04:00 draft = true meta_img = “/images/image.jpg” tags = [“tags”] description = “Desc” hacker_news_id = “” lobsters_id = “” +++</p>
+<pre class="r"><code>library(&quot;RSocrata&quot;)
+
+baltimore_911 &lt;- read.socrata(
+  url = &quot;https://data.baltimorecity.gov/resource/m8g9-abgb.json&quot;,
+  app_token = Sys.getenv(&quot;socrata_token&quot;),
+  email     = Sys.getenv(&quot;socrata_email&quot;),
+  password  = Sys.getenv(&quot;socrata_pw&quot;)
+)</code></pre>

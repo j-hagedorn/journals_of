@@ -1,0 +1,35 @@
+---
+title: Genetic Structure as Generative Poetic Form
+author: J. Hagedorn
+date: '2018-05-20'
+slug: genetic-structure-as-generative-poetic-form
+categories: []
+tags: []
+---
+
+
+
+To do:
+
+1.  Get the human genome
+2.  Identify portions to use in poetic form
+3.  Define the various ways in which sequences will be transformed into poem patterns
+4.  Create the set of words (and n-grams) to use to create the clusters for repetition
+5.  Create output pattens to use as references in (oral/manual) composition
+
+# Get the human genome
+
+There are a few different options to read in the human genome for use in constructing patterns, each with their own pros and cons:
+
+- The [org.Hs.eg.db](10.18129/B9.bioc.org.Hs.eg.db) package *Genome wide annotation for Human*, primarily based on mapping using Entrez Gene identifiers.  This requires working with the data as a `biostrings` object, but does include association data which will be helpful in locating the nucleotide sequences for use in specific portions of the poem.
+- The [BSgenome.Hsapiens.UCSC.hg19](10.18129/B9.bioc.BSgenome.Hsapiens.UCSC.hg19) *Full genome sequences for Homo sapiens (UCSC version hg19)*
+- The [`biomartr`](https://ropensci.github.io/biomartr/index.html) package^[Drost HG, Paszkowski J. Biomartr: genomic data retrieval with R. *Bioinformatics* (2017) 33(8): 1216-1217. doi:10.1093/bioinformatics/btw821], which allows for retrieval of all available kingdoms stored in the `NCBI RefSeq`, `NCBI Genbank`, `ENSEMBL`, and `ENSEMBLGENOMES` sources.  It also allows for download as either `biostrings` or `data.table` object.
+- The [`rentrez`](https://github.com/ropensci/rentrez) package, which allows querying the NCBI Entrez Eutils API to search, download data from, and interact with databases.
+
+
+
+
+
+
+# Identify portions of the genome to use
+
