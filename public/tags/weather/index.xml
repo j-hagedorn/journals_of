@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Weather on J. Hagedorn</title>
-    <link>/j-hagedorn.com/tags/weather/</link>
+    <link>/www.j-hagedorn.com/tags/weather/</link>
     <description>Recent content in Weather on J. Hagedorn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 05 Jun 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/j-hagedorn.com/tags/weather/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/www.j-hagedorn.com/tags/weather/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Weathering</title>
-      <link>/j-hagedorn.com/projects/weathering/</link>
+      <link>/www.j-hagedorn.com/projects/weathering/</link>
       <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/j-hagedorn.com/projects/weathering/</guid>
+      <guid>/www.j-hagedorn.com/projects/weathering/</guid>
       <description>As a way to potentially incorporate weather data into poems and as a way to better get to know the forest and meadows by my house, I wanted to find a way to pull in historical weather information for a specific set of geographical coordinates.
 I’m using the darksky package in R:
 library(darksky); library(tidyverse);library(plotly)First, I’ll set my API key, available by signing up for a DarkSky developer account.</description>
