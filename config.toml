@@ -1,4 +1,4 @@
-baseurl = "https://j-hagedorn.netlify.com"
+baseurl = "https://j-hagedorn.com"
 theme = "cocoa-eh-hugo-theme"
 builddrafts = true
 canonifyurls = true
