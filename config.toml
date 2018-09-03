@@ -19,7 +19,7 @@ blog = "blog/:slug/"
 dateform = "Jan 2, 2006"
 dateformfull = "Mon Jan 2 2006 15:04:05 MST"
 description = "Thoughts, works and days"
-copyright = "Copyright © 2018 Joshua Hagedorn"
+copyright = "© 2018 Joshua Hagedorn"
 copyrightUrl = "https://creativecommons.org/licenses/by-sa/4.0/"
 logofile = "img/wall.PNG"
 faviconfile = "img/pic.jpg"
@@ -33,14 +33,12 @@ latestpostcount = 5
 github = "j-hagedorn"
 linkedin = "joshhagedorn"
 twitter = "JoshuaHagedorn"
-share_on_googleplus = false
-share_on_facebook = false
 social_banner = "img/banner.png"
 usesmallsummarycard = true
 posts_navigation = true
 # issoHost = "comments.domain.tld:1234"
 # githubRepo = "githubUsername/repositoryName/tree/master"
-small_banner_logo = false
+small_banner_logo = true
 
 [params.colors]
 identifier = "#527fc1f"
