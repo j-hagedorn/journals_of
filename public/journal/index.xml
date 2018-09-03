@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Journal on J. Hagedorn</title>
-    <link>/j-hagedorn.netlify.com/journal/</link>
+    <link>/j-hagedorn.com/journal/</link>
     <description>Recent content in Journal on J. Hagedorn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 20 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/j-hagedorn.netlify.com/journal/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/j-hagedorn.com/journal/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Genetic Structure as Generative Poetic Form</title>
-      <link>/j-hagedorn.netlify.com/journal/genetic-structure-as-generative-poetic-form/</link>
+      <link>/j-hagedorn.com/journal/genetic-structure-as-generative-poetic-form/</link>
       <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/j-hagedorn.netlify.com/journal/genetic-structure-as-generative-poetic-form/</guid>
+      <guid>/j-hagedorn.com/journal/genetic-structure-as-generative-poetic-form/</guid>
       <description>To do:
 Get the human genomeIdentify portions to use in poetic formDefine the various ways in which sequences will be transformed into poem patternsCreate the set of words (and n-grams) to use to create the clusters for repetitionCreate output pattens to use as references in (oral/manual) compositionGet the human genomeThere are a few different options to read in the human genome for use in constructing patterns, each with their own pros and cons:</description>
     </item>
     
     <item>
       <title>Tools Toward Sublimity</title>
-      <link>/j-hagedorn.netlify.com/journal/tools-toward-sublimity/</link>
+      <link>/j-hagedorn.com/journal/tools-toward-sublimity/</link>
       <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/j-hagedorn.netlify.com/journal/tools-toward-sublimity/</guid>
+      <guid>/j-hagedorn.com/journal/tools-toward-sublimity/</guid>
       <description>Looking at the way that the Self, Nature and the Sublime are framed in Romantic-era science, it is intriguing to see how (even in fields supposedly untinged by subjectivity), the medium conveys and marinades the message. It is difficult to imagine any scientist today, for instance, voicing the lines from William Herschel:1
 This method of viewing the heavens seems to throw them into a new kind of light. They are now seen to resemble a luxuriant garden, which contains the greatest variety of productions in different flourishing beds… we can, as it were, extend the range of our experience to an immense duration</description>
     </item>
