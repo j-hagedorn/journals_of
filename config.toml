@@ -1,4 +1,4 @@
-baseurl = "www.j-hagedorn.com"
+baseurl = "https://j-hagedorn.com"
 theme = "cocoa-eh-hugo-theme"
 builddrafts = true
 canonifyurls = true
@@ -8,7 +8,7 @@ layoutdir = "layouts"
 publishdir = "public"
 author = "J. Hagedorn"
 title = "J. Hagedorn"
-disqusshortname = ""
+# disqusshortname = ""
 pluralizelisttitles = false
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
