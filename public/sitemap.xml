@@ -3,84 +3,88 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/projects/weathering/</loc>
+    <loc>https://j-hagedorn.com/projects/weathering/</loc>
     <lastmod>2018-06-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/journal/genetic-structure-as-generative-poetic-form/</loc>
+    <loc>https://j-hagedorn.com/journal/genetic-structure-as-generative-poetic-form/</loc>
     <lastmod>2018-05-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/journal/tools-toward-sublimity/</loc>
+    <loc>https://j-hagedorn.com/journal/tools-toward-sublimity/</loc>
     <lastmod>2018-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/projects/small-project/</loc>
+    <loc>https://j-hagedorn.com/projects/small-project/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://j-hagedorn.com/about/</loc>
     <lastmod>2015-08-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/projects/projects/</loc>
+    <loc>https://j-hagedorn.com/projects/projects/</loc>
     <lastmod>2015-08-19T20:29:37-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/home/</loc>
+    <loc>https://j-hagedorn.com/home/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://j-hagedorn.com/projects/2018-07-11-public-police-data/</loc>
+  </url>
+  
+  <url>
+    <loc>https://j-hagedorn.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/home/</loc>
+    <loc>https://j-hagedorn.com/home/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://j-hagedorn.com/</loc>
     <lastmod>2018-06-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/journal/</loc>
+    <loc>https://j-hagedorn.com/journal/</loc>
     <lastmod>2018-05-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/license/</loc>
+    <loc>https://j-hagedorn.com/license/</loc>
   </url>
   
   <url>
-    <loc>/projects/</loc>
+    <loc>https://j-hagedorn.com/projects/</loc>
     <lastmod>2018-06-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/projects/</loc>
+    <loc>https://j-hagedorn.com/tags/projects/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://j-hagedorn.com/tags/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/weather/</loc>
+    <loc>https://j-hagedorn.com/tags/weather/</loc>
     <lastmod>2018-06-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
