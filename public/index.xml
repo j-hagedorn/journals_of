@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>J. Hagedorn</title>
-    <link>/www.j-hagedorn.com/</link>
+    <link>/j-hagedorn.netlify.com/</link>
     <description>Recent content on J. Hagedorn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 05 Jun 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/www.j-hagedorn.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/j-hagedorn.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Weathering</title>
-      <link>/www.j-hagedorn.com/projects/weathering/</link>
+      <link>/j-hagedorn.netlify.com/projects/weathering/</link>
       <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/www.j-hagedorn.com/projects/weathering/</guid>
+      <guid>/j-hagedorn.netlify.com/projects/weathering/</guid>
       <description>As a way to potentially incorporate weather data into poems and as a way to better get to know the forest and meadows by my house, I wanted to find a way to pull in historical weather information for a specific set of geographical coordinates.
 I’m using the darksky package in R:
 library(darksky); library(tidyverse);library(plotly)First, I’ll set my API key, available by signing up for a DarkSky developer account.</description>
@@ -24,30 +24,30 @@ library(darksky); library(tidyverse);library(plotly)First, I’ll set my API ke
     
     <item>
       <title>Genetic Structure as Generative Poetic Form</title>
-      <link>/www.j-hagedorn.com/journal/genetic-structure-as-generative-poetic-form/</link>
+      <link>/j-hagedorn.netlify.com/journal/genetic-structure-as-generative-poetic-form/</link>
       <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/www.j-hagedorn.com/journal/genetic-structure-as-generative-poetic-form/</guid>
+      <guid>/j-hagedorn.netlify.com/journal/genetic-structure-as-generative-poetic-form/</guid>
       <description>To do:
 Get the human genomeIdentify portions to use in poetic formDefine the various ways in which sequences will be transformed into poem patternsCreate the set of words (and n-grams) to use to create the clusters for repetitionCreate output pattens to use as references in (oral/manual) compositionGet the human genomeThere are a few different options to read in the human genome for use in constructing patterns, each with their own pros and cons:</description>
     </item>
     
     <item>
       <title>Tools Toward Sublimity</title>
-      <link>/www.j-hagedorn.com/journal/tools-toward-sublimity/</link>
+      <link>/j-hagedorn.netlify.com/journal/tools-toward-sublimity/</link>
       <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/www.j-hagedorn.com/journal/tools-toward-sublimity/</guid>
+      <guid>/j-hagedorn.netlify.com/journal/tools-toward-sublimity/</guid>
       <description>Looking at the way that the Self, Nature and the Sublime are framed in Romantic-era science, it is intriguing to see how (even in fields supposedly untinged by subjectivity), the medium conveys and marinades the message. It is difficult to imagine any scientist today, for instance, voicing the lines from William Herschel:1
 This method of viewing the heavens seems to throw them into a new kind of light. They are now seen to resemble a luxuriant garden, which contains the greatest variety of productions in different flourishing beds… we can, as it were, extend the range of our experience to an immense duration</description>
     </item>
     
     <item>
       <title>A small project example : add yours !</title>
-      <link>/www.j-hagedorn.com/projects/small-project/</link>
+      <link>/j-hagedorn.netlify.com/projects/small-project/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/www.j-hagedorn.com/projects/small-project/</guid>
+      <guid>/j-hagedorn.netlify.com/projects/small-project/</guid>
       <description>Along with Ford Prefect, Dent barely escapes the Earth&amp;rsquo;s destruction as it is demolished to make way for a hyperspace bypass. Arthur spends the next several years, still wearing his dressing gown, helplessly launched from crisis to crisis while trying to straighten out his lifestyle.
  He rather enjoys tea, but seems to have trouble obtaining it in the far reaches of the galaxy.
  In time, he learns how to fly and carves a niche for himself as a sandwich-maker.</description>
@@ -55,58 +55,58 @@ Get the human genomeIdentify portions to use in poetic formDefine the various 
     
     <item>
       <title>About</title>
-      <link>/www.j-hagedorn.com/about/</link>
+      <link>/j-hagedorn.netlify.com/about/</link>
       <pubDate>Sat, 22 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>/www.j-hagedorn.com/about/</guid>
+      <guid>/j-hagedorn.netlify.com/about/</guid>
       <description>With this theme, it is possible to add small sections that only contains one page like this. It will automatically appears in the header, at the end.
 Along with Ford Prefect, Dent barely escapes the Earth&amp;rsquo;s destruction as it is demolished to make way for a hyperspace bypass. Arthur spends the next several years, still wearing his dressing gown, helplessly launched from crisis to crisis while trying to straighten out his lifestyle.</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>/www.j-hagedorn.com/projects/projects/</link>
+      <link>/j-hagedorn.netlify.com/projects/projects/</link>
       <pubDate>Wed, 19 Aug 2015 20:29:37 -0700</pubDate>
       
-      <guid>/www.j-hagedorn.com/projects/projects/</guid>
+      <guid>/j-hagedorn.netlify.com/projects/projects/</guid>
       <description>In this theme, it is possible to add sections like a Projects one for example. You can add plenty of articles about your projects and a presentation page that will be displayed before the list. All is modulable, if you don&amp;rsquo;t want something.
 A Hollywood-funded film version, produced and filmed in the UK, was released in April 2005, and radio adaptations of the third, fourth, and fifth novels were broadcast from 2004 to 2005.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/www.j-hagedorn.com/home/</link>
+      <link>/j-hagedorn.netlify.com/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/www.j-hagedorn.com/home/</guid>
+      <guid>/j-hagedorn.netlify.com/home/</guid>
       <description>code{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/www.j-hagedorn.com/projects/2018-07-11-public-police-data/</link>
+      <link>/j-hagedorn.netlify.com/projects/2018-07-11-public-police-data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/www.j-hagedorn.com/projects/2018-07-11-public-police-data/</guid>
+      <guid>/j-hagedorn.netlify.com/projects/2018-07-11-public-police-data/</guid>
       <description>+++ title = ‘2018 07 11 Public Police Data’ date = 2018-07-11T22:53:40-04:00 draft = true meta_img = “/images/image.jpg” tags = [“tags”] description = “Desc” hacker_news_id = “” lobsters_id = “” +++
 library(&amp;quot;RSocrata&amp;quot;)baltimore_911 &amp;lt;- read.socrata(url = &amp;quot;https://data.baltimorecity.gov/resource/m8g9-abgb.json&amp;quot;,app_token = Sys.getenv(&amp;quot;socrata_token&amp;quot;),email = Sys.getenv(&amp;quot;socrata_email&amp;quot;),password = Sys.getenv(&amp;quot;socrata_pw&amp;quot;))</description>
     </item>
     
     <item>
       <title>Home</title>
-      <link>/www.j-hagedorn.com/home/</link>
+      <link>/j-hagedorn.netlify.com/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/www.j-hagedorn.com/home/</guid>
+      <guid>/j-hagedorn.netlify.com/home/</guid>
       <description>home. page. &amp;lt; &amp;gt; ~ &amp;gt;=</description>
     </item>
     
     <item>
       <title>License</title>
-      <link>/www.j-hagedorn.com/license/</link>
+      <link>/j-hagedorn.netlify.com/license/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/www.j-hagedorn.com/license/</guid>
+      <guid>/j-hagedorn.netlify.com/license/</guid>
       <description>You can use this page to put a license on the contents of your blog, like so:
  The MIT License (MIT)
 Copyright &amp;copy; 2015 Nishanth Shanmughamnishanth.gerrard@gmail.com
