@@ -2,7 +2,4 @@
 title = "Home"
 +++
 
-*home.  page.*
-< > 
-~
->= 
+*home ~ page.*

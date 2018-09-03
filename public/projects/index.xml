@@ -1,57 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Projects on J. Hagedorn</title>
-    <link>/projects/</link>
-    <description>Recent content in Projects on J. Hagedorn</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <lastBuildDate>Tue, 05 Jun 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Weathering</title>
-      <link>/projects/weathering/</link>
-      <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/weathering/</guid>
-      <description>As a way to potentially incorporate weather data into poems and as a way to better get to know the forest and meadows by my house, I wanted to find a way to pull in historical weather information for a specific set of geographical coordinates.
-I’m using the darksky package in R:
-library(darksky); library(tidyverse);library(plotly)First, I’ll set my API key, available by signing up for a DarkSky developer account.</description>
-    </item>
-    
-    <item>
-      <title>A small project example : add yours !</title>
-      <link>/projects/small-project/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/small-project/</guid>
-      <description>Along with Ford Prefect, Dent barely escapes the Earth&amp;rsquo;s destruction as it is demolished to make way for a hyperspace bypass. Arthur spends the next several years, still wearing his dressing gown, helplessly launched from crisis to crisis while trying to straighten out his lifestyle.
- He rather enjoys tea, but seems to have trouble obtaining it in the far reaches of the galaxy.
- In time, he learns how to fly and carves a niche for himself as a sandwich-maker.</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>/projects/projects/</link>
-      <pubDate>Wed, 19 Aug 2015 20:29:37 -0700</pubDate>
-      
-      <guid>/projects/projects/</guid>
-      <description>In this theme, it is possible to add sections like a Projects one for example. You can add plenty of articles about your projects and a presentation page that will be displayed before the list. All is modulable, if you don&amp;rsquo;t want something.
-A Hollywood-funded film version, produced and filmed in the UK, was released in April 2005, and radio adaptations of the third, fourth, and fifth novels were broadcast from 2004 to 2005.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/projects/2018-07-11-public-police-data/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/2018-07-11-public-police-data/</guid>
-      <description>+++ title = ‘2018 07 11 Public Police Data’ date = 2018-07-11T22:53:40-04:00 draft = true meta_img = “/images/image.jpg” tags = [“tags”] description = “Desc” hacker_news_id = “” lobsters_id = “” +++
-library(&amp;quot;RSocrata&amp;quot;)baltimore_911 &amp;lt;- read.socrata(url = &amp;quot;https://data.baltimorecity.gov/resource/m8g9-abgb.json&amp;quot;,app_token = Sys.getenv(&amp;quot;socrata_token&amp;quot;),email = Sys.getenv(&amp;quot;socrata_email&amp;quot;),password = Sys.getenv(&amp;quot;socrata_pw&amp;quot;))</description>
-    </item>
-    
-  </channel>
-</rss>

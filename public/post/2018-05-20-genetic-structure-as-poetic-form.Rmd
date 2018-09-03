@@ -1,9 +1,0 @@
----
-title: Genetic Structure as Poetic Form
-author: J. Hagedorn
-date: '2018-05-20'
-slug: genetic-structure-as-poetic-form
-categories: []
-tags: []
----
-
