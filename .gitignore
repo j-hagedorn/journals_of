@@ -2,6 +2,7 @@
 .Rproj.user
 .RData
 .Ruserdata
+.Renviron
 *.zip
 /public/*
 /blogdown/*
