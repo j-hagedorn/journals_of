@@ -1,7 +1,7 @@
 +++
-date = "2015-08-22"
+date = "2018-09-04"
 title = "About"
 +++
 
-_With this theme, it is possible to add small sections that only contains one page like this. It will automatically appears in the header, at the end._
+Patterner, patterned.
 
