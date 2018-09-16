@@ -25,13 +25,13 @@ seq(Sys.Date()-365, Sys.Date(), "1 day") %>%
   map(~get_forecast_for(42.996041, -85.738570, .x)) %>% 
   map_df("hourly") 
 
-write_csv(blandford,"../projects/blandford.csv")
+write_csv(blandford,"../../static/data/blandford.csv")
 ```
 
 In order to avoid calling the API multiple times, the above code chunk is not run and the data set is saved locally as a `.csv` file and loaded in the following script:
 
 ```{r echo=TRUE, message=FALSE, warning=FALSE, paged.print=FALSE}
-blandford <- read_csv("../projects/blandford.csv")
+blandford <- read_csv("../../static/data/blandford.csv")
 ```
 
 Below is an interactive plot of hourly temperature for an entire year, colored by % cloud cover.
