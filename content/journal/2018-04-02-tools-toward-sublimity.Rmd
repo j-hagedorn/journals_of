@@ -11,6 +11,14 @@ Looking at the way *Self*, *Nature* and the *Sublime* are framed in Romantic-era
 
 > This method of viewing the heavens seems to throw them into a new kind of light. They are now seen to resemble a luxuriant garden, which contains the greatest variety of productions in different flourishing beds... we can, as it were, extend the range of our experience to an immense duration
 
+I don’t think that the poetic or mystical the strain has left scientific publication merely because of mechanization or because of a loss of faith.  As science becomes more technical and complex, it requires more equipment and more people. Mystical impressions have most often been personal, individual affairs, and the less would be strange and ill-fitting in a paper written by a team.
+
+As it is so many domains, the greater the number of people, the greater the number of rules.  Even unwritten ones. Genre and style guidelines provide such a set of rules and allow for common language even while they impose a bland uniformity. See for instance, the article on slime molds navigating mazes which could well be filled with exclamation marks and photos of people doing cartwheels. 
+
+The question may not be one having to do with countering some conspiracy to overthrow religious experience, but a more practical one: How can we retain a poetic sensibility while (A) seeking sublimity in pastures that are ever farther from daily experience, such as the quantum? (B) writing as a collective group when the fundamental unit of experience and choice is believed to be individual person?
+
+[...]
+
 The converse is also true, and some media are inimical to conveying certain types of messages or subjects.  For instance, 
 
 Oil           | Vinegar 
@@ -23,7 +31,7 @@ This is not to say that one couldn't rastle these subjects into these forms; but
 
 I can't help think (or hope, at least) that much of the erasure of the *Sublime* from scientific discourse following the Romantic period was due to a greater mechanization of method rather than any failure to experimentally verify the *Sublime*.^[Or perhaps not a mechanization of method, but a myopic focus on method ["as if the tidings were the things"](https://www.bartleby.com/101/406.html), with no built in longing for the mysteries referenced.]
 
-In some ways, the humility woven into the scientific method itself might be said to have a kind of sublime ratio of *self::other* at its base.^[It seems sometimes that with each discovery, the new whole of knowledge corresponds to a proportionally greater ignorance.  Ignorance grows exponentially to knowledge.]  The scientific method carries an implicit admission of the sublime baked into it, so that all theories and hypotheses are not considered 'true' so much as 'not yet disproved'. A kind of *via negativa*, through which we know only by approaching, by almost knowing. This recalls the myth of Tantalus, where the fruit of the tree recedes as soon as he grasps it. Or perhaps more aptly that of Apollo and Daphne, in which she turns into a laurel tree as soon as Apollo (*god of rationality and logic*) approaches.
+In some ways, the humility woven into the scientific method itself might be said to have a kind of sublime ratio of *self::other* at its base.^[It seems sometimes that with each discovery, the new whole of knowledge corresponds to a proportionally greater ignorance.  Ignorance grows exponentially to knowledge. That great flowering ignorance, hydra-like, sprouts seven unknowns for each fact we learn.]  The scientific method carries an implicit admission of the sublime baked into it, so that all theories and hypotheses are not considered 'true' so much as 'not yet disproved'. A kind of *via negativa*, through which we know only by approaching, by almost knowing. This recalls the myth of Tantalus, where the fruit of the tree recedes as soon as he grasps it. Or perhaps more aptly that of Apollo and Daphne, in which she turns into a laurel tree as soon as Apollo (*god of rationality and logic*) approaches.
 
 So what kind of tool enables one to approach the sublime? I'll fess up that I want the answer to be something simple... like a pen, descendant of the feathery quill, with its freight of metaphors. After all, one can only approach that which is infinitely weighty if one is unencumbered. Right?  In the case of Humboldt and Hershchel, this appears to be far from the case.
 
