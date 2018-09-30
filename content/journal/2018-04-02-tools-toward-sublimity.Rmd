@@ -44,13 +44,15 @@ The humility woven into the scientific method might be said to have a kind of su
 
 So what kind of tools enable one to approach the sublime?  I want the answer to be something simple... like a pen, descendant of the feathery quill, with all its freight of metaphors. After all, one can only approach the infinitely weighty if one is unencumbered. Pack light, right?  In the case of Romantic-era scientists, no.
 
+![*Cyanometer*](/img/journal/cyanometer.jpg){width=50%}
+
 ### The weight of sight
 
 Alexander von Humboldt drags large cases of scientific instruments up Mount Chimborazo in the Peruvian Andes, and the native people of Venezuela joke about the 'cyanometer' which he uses to measure the blue of the sky at regular intervals. Herschel constructs gigantic lenses for his observatory in the countryside outside of London.  There he spends long nights polishing them with a monkish focus on the physical medium which will re-present the stars to him.  
 
-![Herschel's 40 foot telescope at Slough ](/journal/2018-04-02-tools-toward-sublimity_files/PSM_V09_D079_Herschel_40_foot_telescope_at_slough.jpg)
+![*Herschel's 40 foot telescope at Slough* ](/img/journal/PSM_V09_D079_Herschel_40_foot_telescope_at_slough.jpg){width=50%}
 
-The tool itself is far from weightless.  A tool becomes slight only with use.  One gains proficiency, which is to say that it gets harder to distinguish one's own sight from the tool's lens.  Herschel comes to his notion of the universe as a garden after years (and years and years) of nightly observation.  And the compactness of his metaphor should be seen as suffused with the full flavor of his process and [data](http://www.klima-luft.de/steinicke/ngcic/Expl_Hist_WH.htm)^[*see* Steinicke, W., & Jakiel, R. (2006). Galaxies and how to Observe Them. Springer Science & Business Media.].
+The tool itself is far from weightless.  It becomes slight only with use.  One gains proficiency, which is to say that it gets harder to distinguish one's own sight from the tool's lens.  Herschel comes to his notion of the universe as a garden after years (and years and years) of nightly observation.  And the compactness of his metaphor should be seen as suffused with the full flavor of his process and [data](http://www.klima-luft.de/steinicke/ngcic/Expl_Hist_WH.htm)^[*see* Steinicke, W., & Jakiel, R. (2006). Galaxies and how to Observe Them. Springer Science & Business Media.].
 
 Perhaps all tools can be oriented toward sublimity, held in the service of something greater.  In fact, I am beginning to think that sublimity may *only* be approachable through this intensive use of tools.  All experience is *mediated*, which is not to say that reality is imprecise, but just that I am partial: I occupy a single facet, and my view is scupted by glasses, by phrases I have lathed about my heart, by the tools I have chosen.  
 
