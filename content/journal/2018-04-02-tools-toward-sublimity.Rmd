@@ -7,9 +7,13 @@ categories: []
 tags: []
 ---
 
+### Why so serious?
+
 Looking at the way *Self*, *Nature* and the *Sublime* are framed in Romantic-era science, it is intriguing to see how (even in fields supposedly untinged by subjectivity), the medium marinades the message.  It is difficult to imagine any peer-reviewed journal today, for instance, voicing these lines from William Herschel:^[See [Darwin, G. H. (1912). Sir William Herschel. Science.](https://archive.org/stream/jstor-1637819/1637819#page/n9/mode/2up/search/luxuriant+garden)]
 
 > This method of viewing the heavens seems to throw them into a new kind of light. They are now seen to resemble a luxuriant garden, which contains the greatest variety of productions in different flourishing beds... we can, as it were, extend the range of our experience to an immense duration
+
+I don’t think that the poetic or mystical the strain has left scientific publication merely because of mechanization or because of a loss of faith.  As science becomes more technical and complex, it requires more equipment and more people. Mystical impressions have most often been personal, individual affairs, and the less would be strange and ill-fitting in a paper written by a team.
 
 The converse is also true, and some media are inimical to conveying certain types of messages or subjects.  For instance, 
 
@@ -19,36 +23,49 @@ Syllogisms    | Mysticism
 Koans         | Empirical experiments    
 Tweets        | Dramatic monologues
 
-This is not to say that one couldn't rastle these subjects into these forms; but the result would smack more of incongruity, and be read as a *pomo* commentary on the dilution of meaning itself (or some such well-worn theme).
+This is not to say that one couldn't wrastle these subjects into these forms; but the incongruous result would read like a *pomo* commentary on the dilution of meaning itself (or some such well-worn theme).
 
-I can't help think (or hope, at least) that much of the erasure of the *Sublime* from scientific discourse following the Romantic period was due to a greater mechanization of method rather than any failure to experimentally verify the *Sublime*.^[Or perhaps not a mechanization of method, but a myopic focus on method ["as if the tidings were the things"](https://www.bartleby.com/101/406.html), with no built in longing for the mysteries referenced.]
+I suspect that much of the erasure of the *Sublime* from scientific discourse following the Romantic period was due to a greater mechanization of method rather than any failure to experimentally verify the *Sublime*.^[Or perhaps not a mechanization of method, but a myopic focus on method ["as if the tidings were the things"](https://www.bartleby.com/101/406.html), with no built in longing for the mysteries referenced.]
 
-In some ways, the humility woven into the scientific method itself might be said to have a kind of sublime ratio of *self::other* at its base.^[It seems sometimes that with each discovery, the new whole of knowledge corresponds to a proportionally greater ignorance.  Ignorance grows exponentially to knowledge.]  The scientific method carries an implicit admission of the sublime baked into it, so that all theories and hypotheses are not considered 'true' so much as 'not yet disproved'. A kind of *via negativa*, through which we know only by approaching, by almost knowing. This recalls the myth of Tantalus, where the fruit of the tree recedes as soon as he grasps it. Or perhaps more aptly that of Apollo and Daphne, in which she turns into a laurel tree as soon as Apollo (*god of rationality and logic*) approaches.
+More collaborators, more ground rules; including unwritten ones. *Example*: Genre and style guidelines provide a set of rules and allow for common language even while they impose a bland uniformity. [This article](https://www.ncbi.nlm.nih.gov/pubmed/11763236) about slime molds navigating mazes would be filled with exclamation marks and photos of people doing cartwheels, if not for style guidelines. 
 
-So what kind of tool enables one to approach the sublime? I'll fess up that I want the answer to be something simple... like a pen, descendant of the feathery quill, with its freight of metaphors. After all, one can only approach that which is infinitely weighty if one is unencumbered. Right?  In the case of Humboldt and Herschel, this appears to be far from the case.
+So, what if we don't have to thwart an anti-religious conspiracy, but instead deal with a more practical concern: 
 
-![*Cyanometer*](/img/journal/cyanometer.jpg){width=60%}
+What does a poetic sensibility look like when it seeks sublimity...
 
-Humboldt drags large cases of scientific instruments up mountains, and the native people of Venezuela joke with him about the 'cyanometer' which he uses to measure the blue of the sky on his way up to Mount Chimborazo in the Peruvian Andes. Herschel constructs gigantic lenses for his observatory in the countryside outside of London, where he spent long nights polishing them with a kind of ascetic focus on the medium of understanding.  
+a.  in pastures that are ever farther from tangible experience 
+b.  which require teams of people to investigate
+c.  and must be communicated as a collective group, 
+d.  when the fundamental unit of experience is the individual person?
 
+### Science as penitential posture
 
+The humility woven into the scientific method might be said to have a kind of sublime ratio of *self::other* at its base.^[With each discovery, the body of knowledge corresponds to an exponentially greater ignorance.  That great flowering ignorance, hydra-like, sprouts seven unknowns for each fact we learn.]  The method carries an implicit admission of the sublime baked into it, so that all theories and hypotheses are not considered 'true' so much as 'not yet disproved'. A kind of *via negativa*, through which we know only by approaching, by *almost knowing*. This recalls the myth of Tantalus, where the fruit of the tree recedes as soon as he grasps it. Or perhaps more aptly that of Apollo and Daphne, in which she turns into a laurel tree as soon as Apollo (*god of rationality and logic*) approaches.
 
-![*Herschel's 40 foot telescope at Slough* ](/img/journal/PSM_V09_D079_Herschel_40_foot_telescope_at_slough.jpg){width=60%}
+So what kind of tools enable one to approach the sublime?  I want the answer to be something simple... like a pen, descendant of the feathery quill, with all its freight of metaphors. After all, one can only approach the infinitely weighty if one is unencumbered. Pack light, right?  In the case of Romantic-era scientists, no.
 
-The tool itself is far from weightless.  And Herschel comes to his notion of the universe as a garden after years and years (and years) of patient observation. The tool becomes slight only with use.  Which is to say that one gains dexterity in using the tool. Which is to say that one begins to have trouble differentiating ones own seeing from the seeing of the tool.  
+![*Cyanometer*](/img/journal/cyanometer.jpg){width=50%}
 
-Perhaps all tools can be tools toward sublimity, provided that they are held in the service of something greater.  Sublimity may *only* be approachable through this intensive use of tools. In poetry, for instance, through pattern and repetition.  It is easy to invoke the Muse, but harder to construct a song. Without attention to the medium, broader claims are untrustworthy; vatic utterances are mere ideology.  I only ever trusted the only opening sentences of Whitman’s song once I had read the lists and tallies.
+### The weight of sight
 
-This happens when we become impatient, when we begin to confuse our tools with the thing that they seek. So we get p-hacking^[Head, M. L., Holman, L., Lanfear, R., Kahn, A. T., & Jennions, M. D. (2015). *The extent and consequences of p-hacking in science.* PLoS biology, 13(3)] in research studies, and an aversion to publishing null results^[Mlinarić, A., Horvat, M., & Šupak Smolčić, V. (2017). *Dealing with the positive publication bias: Why you should really publish your negative results.* Biochemia medica: 27(3), 1-6.], when it is the finding that is valued and not the search.  One might note a similar cheapening of the sublime in the narrative and valuing of conversion experiences in contemporary evangelical Christians, where conversion and assent to a dogmatic "party line" is valued at the expense of walking naked into the infinite. 
+Alexander von Humboldt drags large cases of scientific instruments up Mount Chimborazo in the Peruvian Andes, and the native people of Venezuela joke about the 'cyanometer' which he uses to measure the blue of the sky at regular intervals. Herschel constructs gigantic lenses for his observatory in the countryside outside of London.  There he spends long nights polishing them with a monkish focus on the physical medium which will re-present the stars to him.  
 
-Celebrating the triumph of orthodoxy, the survival of icons as tools, or the triumph of science against so I’m not mystery, are both opportunities for hubris.  They must always be seen as tentative, their tension played out in each individual life.
+![*Herschel's 40 foot telescope at Slough* ](/img/journal/PSM_V09_D079_Herschel_40_foot_telescope_at_slough.jpg){width=50%}
 
-Think of John Donne at the end of his life: *"I tune the instrument here at the door, / And what I must do then, think here before."*^[from ["Hymn to God, My God, in My Sickness"](www.poetryfoundation.org/poems/44114), one of Donne's last poems.]  Here, an instrument is a rehearsal for some unimaginable way of seeing up at some higher frequency.  He did not succumb to listening to his own instrument as though it were the world beyond.^[Similarly, Herbert's "church windowes"" both allow and block a view beyond, prefiguring McLuhan's dictum that the *medium is the message* by a few centuries.]  
+The tool itself is far from weightless.  It becomes slight only with use.  One gains proficiency, which is to say that it gets harder to distinguish one's own sight from the tool's lens.  Herschel comes to his notion of the universe as a garden after years (and years and years) of nightly observation.  And the compactness of his metaphor should be seen as suffused with the full flavor of his process and [data](http://www.klima-luft.de/steinicke/ngcic/Expl_Hist_WH.htm)^[*see* Steinicke, W., & Jakiel, R. (2006). Galaxies and how to Observe Them. Springer Science & Business Media.].
 
-All tools are infernal machines, which is to say but they are machines to escape her self-centeredness and to mediate the world. Yet we fall in love with the machines themselves and fall back down as in prelest, or delusion.  For example, Giordano Bruno’s ars memoria which was a kind of combination lock to break out of the self.  
+Perhaps all tools can be oriented toward sublimity, held in the service of something greater.  In fact, I am beginning to think that sublimity may *only* be approachable through this intensive use of tools.  All experience is *mediated*, which is not to say that reality is imprecise, but just that I am partial: I occupy a single facet, and my view is scupted by glasses, by phrases I have lathed about my heart, by the tools I have chosen.  
 
-Today we are all trapped in with the ancients would have called hell, between the isolation of ourselves in and see the outside world which we hear is only partial and mediated, not merely because of the fallibility of our senses but because it is mediated in its essence, whatever that may be by now.
+In poetry, for instance, through pattern and repetition.  It is easy to invoke the Muse, but harder to construct a song. "The pen is too light", writes Bunting, "take a chisel to write."  Without attention to the medium, broader claims are untrustworthy; vatic utterances are mere ideology if we are not attentive to their syllables, their unfolding across the substance of our days.  I only ever trusted the opening celebration of Whitman’s song once I had read the lists and tallies.  
 
-I want what is greater than all tools, all emotions or medications, all rites and rituals, all images, all maths, all interpretation, formulation, words and music. What holds these in its eye like a dust mote.  And yet I know that I too am perhaps only a tool, a poorly calibrated device which may catch the fleeting reflection of a corner.  
+To blindly abandon granular, Hydra-headed reality for some simple proxy is a constant temptation.   It arises through impatience, when we begin to confuse our tools with the thing that they seek. So we get p-hacking^[Head, M. L., Holman, L., Lanfear, R., Kahn, A. T., & Jennions, M. D. (2015). *The extent and consequences of p-hacking in science.* PLoS biology, 13(3)] in research studies, and an aversion to publishing null results^[Mlinarić, A., Horvat, M., & Šupak Smolčić, V. (2017). *Dealing with the positive publication bias: Why you should really publish your negative results.* Biochemia medica: Biochemia medica, 27(3), 1-6.], when the finding is valued and not the search.  One might note a similar cheapening of the sublime in the narrative and valuing of conversion experiences in contemporary evangelical Christians, where arrival at a dogmatic "party line" is valued at the expense of silent rigor and prayer. 
 
-Our tools must show their seams and wires, must carry the coal they use for electricity. Without guile, with all artifice they concoct and none other.
+Whether we celebrate the triumph of orthodoxy (the survival of icons as tools), or the triumph of science against mystery (the success of tools in mapping the material world), each celebration can become an opportunity for hubris.  Entering the world must always be seen as tentative act, the tension of each doorway held in relationship to the great spaces it separates.
+
+As he nears death, John Donne sings: *"I tune the instrument here at the door, / And what I must do then, think here before."*^[from ["Hymn to God, My God, in My Sickness"](https://www.poetryfoundation.org/poems/44114/hymn-to-god-my-god-in-my-sickness), one of Donne's last poems.]  His instrument is a rehearsal for some unimaginable way of seeing up at some higher frequency.  Yet he does not succumb to listening to his own instrument as though it were the world beyond.^[Similarly, Herbert's "church windowes" both allow and block a view beyond, prefiguring McLuhan's dictum that the *medium is the message* by a few centuries.]  
+
+All tools are infernal machines, constructed to escape our limitations and to mediate the world.  These tools may have a spiritual aim (prayer ropes, prayer wheels) or a material one (astrolabe, glucometer), or both (e.g. Giordano Bruno’s *ars memoria*).  Each is a kind of combination lock to break out of the self. Only when we fall in love with the machines themselves do we fall into what Russian spirituality calls prelest, or delusion.^[I think of the myth of Icarus, so often interpreted as a warning against "flying too high", instead as a caution against excess trust in tools.  In his case, the waxen wings of Daedalus.]  
+
+I want what is greater than all tools, all emotions or medications, all rites and rituals, all images, all maths, all interpretation, formulation, words and music. What holds these in its eye like a dust mote.  And yet I know that I too am perhaps only a tool, albeit a poorly calibrated device, which may catch the fleeting reflection of some odd edge of earth.  
+
+My tools must show their seams and wires, must carry the coal they use for electricity. Without guile, with all the artifice they concoct and none other.
