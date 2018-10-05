@@ -1,0 +1,18 @@
+---
+title: Starplots
+author: J. Hagedorn
+date: '2018-09-30'
+slug: starplots
+categories: []
+tags:
+  - astronomy
+meta_img: /images/image.jpg
+---
+
+
+
+<p><a href="http://www.klima-luft.de/steinicke/ngcic/Expl_Hist_WH.htm" class="uri">http://www.klima-luft.de/steinicke/ngcic/Expl_Hist_WH.htm</a></p>
+<p>Column Explanation Class Herschel designation: class (I…VIII) and running number in each class Cat Herschel-catalogue (1, 2 or 3) which contains the object H Herschel object number (1…2500) Sw Number of discovery sweep Y, M, D Discovery date as given in Herschel’s published catalogues. Note: In the Historic NGC there can be given an earlier dat for some cases, based on his manuscripts. Ap Aperture of discovery telescope (inch) Foc Focus: N = Newtonian, F = front view Loc Observing site: D = Datchet, C = Clay Hall (Old Winsor), S = Slough Obs Number of observations (in different sweeps) Identity Identity with other class object(s) N Catalogue identifier: N = NGC, I = IC NI NGC-/IC-number h No. in John Herschel’s Slough and Cape Catalogues GC No. in John Herschel’s General Catalogue Discoverer Name of discoverer (and date if not W. Herschel) Observer Independent (later) discoverer RH … DS Rect. &amp; Decl. for 2000.0 (from Revised NGC/IC) Vmag Visual magnitude (from Revised NGC/IC) Con Constellation (from Revised NGC/IC) Type Object type (from Revised NGC/IC) S Object status: 1 = galaxy, 2 = galactic nebula, 3 = planetary nebula, 4 = open cluster, 5 = globular cluster, 6 = part of nebula, 7 = NGC dublicate, 9 = star(s), 10 = not found ID1, ID2, ID3 Messier number; double identifications in NGC or IC</p>
+<pre class="r"><code>observed_stars &lt;- readxl::read_excel(&quot;../../static/data/Historic_WH.xls&quot;)</code></pre>
+<pre><code>## Warning in read_fun(path = path, sheet_i = sheet, limits = limits, shim =
+## shim, : Expecting logical in AF2020 / R2020C32: got &#39;IC 2624&#39;</code></pre>
