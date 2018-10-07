@@ -1,6 +1,6 @@
 ---
 title: The Construction of the Heavens
-author: 'J. Hagedorn / W. Herschel'
+author: 'J. Hagedorn / Wm. Herschel'
 date: '2017-11-10'
 slug: the-construction-of-the-heavens
 categories: []
