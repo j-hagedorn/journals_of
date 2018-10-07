@@ -13,17 +13,14 @@ meta_img: /images/image.jpg
 Bones creaking, I will move  
 into the house you drew for me.
 
-We will swim through books  
-whose words are waves of a sea.  
-wvwvvwvwvwwvwvwvvw
+We'll swim through books  
+whose words are a scrawling sea.  
 
-Under the roof like a letter *A*  
-a storm of small feet echoing in  
-the ceiling  
+Beneath that roof like a letter *A*,  
+a storm of small feet on the ceiling.  
 
 Your face a bright, erratic round  
-of hope exceeding details,  
-starker than.  
+of hope exceeding details, starker than.  
 
 My eyes all pupil, smile  
 eking past my cheeks.  
