@@ -8,6 +8,10 @@ tags: []
 meta_img: /images/image.jpg
 ---
 
+Under the moon, the meadow screams.
+Skunk pungent, poignant, sick smell of the core of something.
+The crickets raise their million legs, and rain falls again and again from leaf to leaf. A prolonged, punctuated storm.
+
 Oils from fingers will seep into 
 mothwings, making it unable to rudder the great winds precisely. 
 
@@ -27,3 +31,4 @@ Or they will eat the sun. Galloping, and eating the mornings. At dusk, settling 
 The first few winters were the hardest. Without a place to rest, clawing at the door of birth, I came to me that back they die in the cold with their seeds inside of them.
 
 The entire Meadow, planes, landscape: held together by a net of grass roots. If these fail, lakes will drop away, tree lines crumble into earths mouth. Or worse: shopping malls will rise up through the gap’s.
+
