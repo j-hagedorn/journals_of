@@ -62,3 +62,10 @@ We think of the Italian *certo*, which is often used similarly to the word *sure
 We have been taught that the Absolute is distant, that truer means farther.
 
 To become certain, suffused with the thing which one gives oneself to, is to become camouflaged: the background of the story showing through so that one's self is hardly seen at all, except as a part of that scenery.
+
+
+---
+
+
+
+
