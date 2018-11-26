@@ -8,19 +8,21 @@ tags: []
 meta_img: /images/image.jpg
 ---
 
-### The Lukewarm, The Liars
+### The Lukewarm, the Liars
 
 There is a difference between not meaning what I say, and saying something contrary to what I mean.  Such an apparently small distinction in terms (*not meaning what I say vs. speaking contrary to what I mean*), such a vast gap in the result.  And the difference between these two states lies in a single element: certainty.  This single line contrasts the insincere with liars, the lukewarm against the cold-hearted.  In the first case one lacks certainty; in the second case one has certainty but does not share it.
 
-The first are the inhabitants of Limbo, that "train of souls, so long..." which Dante encounters mulling about hell's gates, and which Eliot witnesses on the daily commute across London Bridge,^[see Dante's *Inferno 3.46*, Eliot's *Burial of the Dead l. 63*] a crowd large enough to include, on many days, me.
+The first are the inhabitants of Limbo, that "train of souls, so long..." which Dante encounters mulling about hell's gates, and which Eliot witnesses on the daily commute across London Bridge.^[see Dante's *Inferno 3.46*, Eliot's *Burial of the Dead l. 63*]  A crowd large enough to include, on many days, me.
 
-The second are the Liars, denizens of a more remote darkness: false counselors, politicians, betrayers, marketing executives.  Dante finds them approaching the center of the pit of Hell, and there at the center, where Satan chomps perpetually on one who used a kiss to mark a killing.
+The second are the Liars, denizens of a more remote darkness: false counselors, politicians, betrayers, marketing executives.  Dante finds them approaching the central funnel of Hell, and even at the epicenter, where Satan chomps perpetually on one who used a kiss to mask a killing.
 
----
+### In Limbo our myths are fictional
 
-In Limbo our words dissolve in our mouths.  We explain our motives with studied myths, stories made routine, institutional, and tame: the Ragnarök [of Marvel Studios](https://www.imdb.com/title/tt3501632/) rather than the Ragnarök of the Völuspá's harrowed poet, starving amid a [volcanic winter](https://en.wikipedia.org/wiki/Ragnar%C3%B6k#Volcanic_eruptions).  In Limbo we talk about the dance's context, choreography, etc., yet we do not dance.^[The liar orchestrates the dance, but believes in the power which this orchestration gives him; not in the dance itself.]
+In Limbo our words dissolve in our mouths.  We explain our motives with studied myths, stories made routine, institutional, and tame: the Ragnarök [of Marvel Studios](https://www.imdb.com/title/tt3501632/) rather than the Ragnarök of the Völuspá's harrowed poet, starving amid a [volcanic winter](https://en.wikipedia.org/wiki/Ragnar%C3%B6k#Volcanic_eruptions).  
 
-We can hold up our stories like a beaded timeline, strung from one end to another.  We can mark the turns, climax, resolution; yet in order to do this we stand outside the story and it ceases to be ours.  It becomes a museum-piece: remarkable yet unbelievable.^[This is an aftermath of the death of tradition as the hands of history, the replacement of cyclical with linear time.  After all, if time is linear we can only look backward at our stories, and we are irrevocably cut off from them.  If time is circular, we tread and re-tread it.  If spiral, our story moves forward but with themes woven in and out.]
+Similar to the Greek word for the act of *liturgy*, which means the "work of the people"^[The Greek λειτουργία (leitourgía) derives from λειτ- (leit-, from 'people') and -ουργός (-ourgós, from 'work')], Jane Harrison recounts that "among the Tarahumares of Mexico the word *nolavoa* means both 'to work' and 'to dance'" and that rather than betraying a sentimentality for the past, this participation in a collective story made one more fully present.  In fact, she relates that "in extreme old age [a man] ceases to exist, because he cannot dance; his dance, and with it his social status, passes to another and a younger."^[Harrison, J. E.  Ancient Art and Ritual. New York: H. Holt & Co. 1913. p. 31]  In Limbo we may talk about the dance's context, choreography, etc.  We do not dance.  The liar may orchestrate the dance or even dance himself, but he believes in the power which this act gives him; not in the dance itself.
+
+We can hold up our stories like a beaded timeline, strung from one end to another like books on a shelf or in a digitized collection.  We can mark the turns, climax, resolution; yet in order to do this we stand outside the story and it ceases to be ours.  It becomes a museum-piece: remarkable yet unbelievable.^[This is an aftermath of the death of tradition as the hands of history, the replacement of cyclical with linear time.  After all, if time is linear we can only look backward at our stories, and we are irrevocably cut off from them.  If time is circular, we tread and re-tread it.  If spiral, our story proceeds but with themes woven in and out.]
 
 
 ### Certainty and Humility
@@ -45,7 +47,7 @@ Each day we are becoming more and more precise, more and more certain, regarding
 
 
 
-Between the person who does not believe what they say and the person who lies: the first has a low view of the truth, A numbed sense of reality, wow the second it’s out of fear, the fear that there is not enough for both of us, and that I must disassemble in order to obtain power, vet power is more important than truth.
+Between the person who does not believe what they say and the person who lies: the first has a low view of the truth, a numbed sense of reality, while the second acts out of a fear that there is not enough for both of us, that I must dissemble in order to obtain power, that power is truer than truth.
 
 If we have believed that there was enough world for each of us, there would be no need for lying.
 
@@ -53,7 +55,7 @@ If we quenched our desires, there would be no need for lying. Or if we spread ou
 
 And if Satan is the great liar, perhaps his lie is based on this fundamental misconception: that God‘s goodness is not distributed equally everywhere and to everyone.
 
-How can we allow our full weight to rest on this partial, albeit enamored, certainty?  The beauty and completeness of a corner.
+How can we allow our full weight to rest on this partial, albeit enamored, certainty?  The beauty and completeness of a corner.  The number of sacraments is without end.
 
 Being certain is not the same as being correct, which each side of a debate will tell you (about their opponent). 
 
