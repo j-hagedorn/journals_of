@@ -47,8 +47,6 @@ It has to do with closeness - pressing one's face into a view, standing so close
 
 The world is not grey, but granular, sifting black and white.  Uncertainty seeks a disembodied, broader view and then complains that it is blurry.
 
-
-
 ---
 
 Being certain is not the same as being correct, which opponents gladly agree on. 
@@ -72,11 +70,7 @@ How can we allow our full weight to rest on this partial, albeit enamored, certa
 
 We want to confer the weight of the absolute on what is near at hand.  Because we do not have the power for this, we can merely confer the weight of our whole will. To inhabit a thought or gaze with all of our self: to attend. 
 
-
-
-
-
-
+---
 
 To become certain, suffused with the thing which one gives oneself to, is to become camouflaged: the background of the story showing through so that one's self is hardly seen at all, except as a part of that scenery.
 
