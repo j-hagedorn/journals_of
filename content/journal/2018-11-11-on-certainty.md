@@ -41,7 +41,6 @@ Think of the Italian *certo*, used similarly to the word *sure*: as in 'sure-foo
 
 Certainty pursues ardor before order, embracing the finite with such focus that it does not seek to systematize.  
 
-all your thoughts are owned by you - thoughts in something greater are conceited - assent to anything beyond fact is an overreach (unless it uses the diction of facts)
 
 Certainty as kindred to presence.  We have been taught that the Absolute is distant, that truer means farther.  Nothing could be further from the truth.
 
