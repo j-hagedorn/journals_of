@@ -37,12 +37,9 @@ We may be tempted by our suspicion of certainty to make the inverse assumption a
 
 To be certain is to embrace being partial.  Even the word, *partial*, holds the promise of a greater whole, and this whole hints at connection, an escape from solipsism's eclipse.
 
-Think of the Italian *certo*, used similarly to the word *sure*: as in 'sure-footed', or balanced upon what is here.  Settled, fixed.
+Think of the Italian *certo*, used similarly to the word *sure*: as in 'sure-footed', or balanced upon what is here.  Settled, fixed.  And of course we can only ever be finite.  To be otherwise is hallucinatory.  We are all blind-seers: seers of our blindnesses, and have contented ourselves with this dark panorama.
 
-Certainty pursues ardor before order, embracing the finite with such focus that it does not seek to systematize.  
-
-
-Certainty as kindred to presence.  We have been taught that the Absolute is distant, that truer means farther.  Nothing could be further from the truth.
+Certainty is kindred to presence.  Know this.  We have been taught that the Absolute is distant, that truer means farther.  Nothing could be further from the truth.
 
 It has to do with closeness - pressing one's face into a view, standing so close to the static that we are certain the world is black or white.
 
@@ -67,7 +64,9 @@ If we...
 
 ---
 
-How can we allow our full weight to rest on this partial, albeit enamored, certainty?  The beauty and completeness of a corner.  The number of sacraments is without end.
+Certainty pursues ardor before order, embracing the finite with such focus that it does not seek to systematize.  
+
+How can we allow our full weight to rest on this partial, albeit enamored, certainty?  "To see a World in a Grain of Sand", with William Blake, "...And Eternity in an hour"?^[from [*Auguries of Innocence*](https://www.poetryfoundation.org/poems/43650/auguries-of-innocence).]  To give oneself to the beauty and completeness of a small fringe of the earth and trust that it matters?  To taste this sacrament before me, even while knowing that the number of sacraments is without end?   
 
 We want to confer the weight of the absolute on what is near at hand.  Because we do not have the power for this, we can merely confer the weight of our whole will. To inhabit a thought or gaze with all of our self: to attend. 
 
