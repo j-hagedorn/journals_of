@@ -39,7 +39,7 @@ To be certain is to embrace being partial.  Even the word, *partial*, holds the 
 
 Think of the Italian *certo*, used similarly to the word *sure*: as in 'sure-footed', or balanced upon what is here.  Settled, fixed.  And of course we can only ever be finite.  To be otherwise is hallucinatory.  We are all blind-seers: seers of our blindnesses, and have contented ourselves with this dark panorama.
 
-Certainty is kindred to presence.  Know this.  We have been taught that the Absolute is distant, that truer means farther.  Nothing could be further from the truth.
+Certainty is kindred to presence.  I know *this*.  We have been taught that the Absolute is distant, that truer means farther.  Nothing could be further from the truth.
 
 It has to do with closeness - pressing one's face into a view, standing so close to the static that we are certain the world is black or white.
 
