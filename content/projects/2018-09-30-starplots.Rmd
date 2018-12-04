@@ -11,6 +11,48 @@ meta_img: /images/image.jpg
 
 http://www.klima-luft.de/steinicke/ngcic/Expl_Hist_WH.htm
 
+https://www.packtpub.com/mapt/book/web_development/9781787281776/32/ch11lvl1sec0048/creating-an-interactive-star-map
+
+
+
+```{r}
+library(tidyverse)
+
+observed_stars <- 
+  readxl::read_excel("../../static/data/Historic_WH.xls") %>%
+  rename_all(funs(str_replace_all)," ","_") %>%
+  rename(
+    class = Class,
+    catalogue = Cat,
+    herschel_obj_n = H,
+    sweep = Sw,
+    year = Y,
+    month = M,
+    day = D,
+    aperture = Ap,
+    focus = Fo,
+    observing_site = Loc,
+    n_observations = Obs,
+    catalogue_id = N,
+    ngc_ic = NI,
+    slough_catalog_id = h,
+    general_catalog_id = GC
+  )
+
+```
+
+
+```{r}
+library(plotly)
+
+observed_stars %>%
+  plot_ly(
+    x = ~RH,
+    y = ~RM,
+    z = ~RS
+  ) 
+
+```
 
 Column  Explanation
 Class 	Herschel designation: class (I...VIII) and running number in each class
@@ -41,9 +83,3 @@ Type
 S
 	Object status: 1 = galaxy, 2 = galactic nebula, 3 = planetary nebula, 4 = open cluster, 5 = globular cluster, 6 = part of nebula, 7 = NGC dublicate, 9 = star(s), 10 = not found
 ID1, ID2, ID3 	Messier number; double identifications in NGC or IC
-
-
-```{r}
-observed_stars <- readxl::read_excel("../../static/data/Historic_WH.xls")
-```
-
