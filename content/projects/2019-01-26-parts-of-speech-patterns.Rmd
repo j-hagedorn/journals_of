@@ -1,0 +1,47 @@
+---
+title: Parts of speech patterns
+author: J. Hagedorn
+date: '2019-01-26'
+slug: parts-of-speech-patterns
+tags:
+  - prosody
+meta_img: /images/image.jpg
+---
+
+```{r libs, echo=FALSE}
+library(tidyverse); library(gutenbergr); library(cleanNLP); library(DT)
+cnlp_init_udpipe()
+```
+
+
+
+```{r}
+corpus <- feather::read_feather("../../static/data/corpus.feather")
+```
+
+```{r}
+
+milton <-
+  corpus %>%
+  filter(title == "Paradise Lost") %>%
+  select(text) %>%
+  slice(1:75) %>%
+  cnlp_annotate(.$text, as_strings = TRUE)
+
+keats <-
+  corpus %>%
+  filter(author == "Keats, John") %>%
+  select(text) %>%
+  slice(5:18) %>%
+  cnlp_annotate(.$text, as_strings = TRUE)
+
+```
+
+```{r}
+
+cnlp_get_token(keats) %>%
+  
+  View()
+
+```
+
