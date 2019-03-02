@@ -31,12 +31,25 @@ OF EARTH ANOTHER SKIN WE ENTER
 </font>
 
 What will be left of 'us', divided up into  
-the mulching stars apart?  What un-hand tends  
-the loom of mute facts, generating?  
+those mulching stars apart?  What un-hand tends  
+the loom of mute facts, ever generating?  
 
 I need it to be human, to remember  
 us, because even more than to control  
 I want to be known, within these hollows.  
+
+Through sensual labyrinths I speed  
+inattentive, which is deathward, pursued  
+between the level bleak where feeling blends.  
+
+Limits focus.  What few touches I've devoted  
+let me attend entire, kissing  
+together our divided smiles, let me continue  
+
+to breathe incense from our childrens' hair, preserve  
+the space through which I reach toward embrace.  
+Without this distance, where else would I honor?  
+
 
 
 
