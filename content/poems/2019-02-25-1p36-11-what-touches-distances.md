@@ -38,7 +38,7 @@ I need it to be human, to remember
 us, because even more than to control  
 I want to be known, within these hollows.  
 
-Through sensual labyrinths I speed  
+Through sensual labyrinths we speed  
 inattentive, which is deathward, pursued  
 between the level bleak where feeling blends.  
 
@@ -46,9 +46,22 @@ Limits focus.  What few touches I've devoted
 let me attend entire, kissing  
 together our divided smiles, let me continue  
 
-to breathe incense from our childrens' hair, preserve  
+breathing incense from our childrens' hair, preserve  
 the space through which I reach toward embrace.  
 Without this distance, where else would I honor?  
+
+<font size="2">
+IS THAT WHY YOU STILL TRY TO KEEP  
+YOURSELF IN DIAMOND DISTANCE, ABLE TO REFLECT  
+BUT NOT TO BURN?  
+ONLY ACROSS THE FEVERED BORDERS OF THE FLESH  
+WE LONG, REACH, SAMPLE, MIX & MAKE, BECOME.  
+YOU ARE NOT ENOUGH.  
+</font>
+
+
+
+
 
 
 
