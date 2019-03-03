@@ -54,10 +54,18 @@ Without this distance, where else would I honor?
 IS THAT WHY YOU STILL TRY TO KEEP  
 YOURSELF IN DIAMOND DISTANCE, ABLE TO REFLECT  
 BUT NOT TO BURN?  
-ONLY ACROSS THE FEVERED BORDERS OF THE FLESH  
+ONLY ACROSS THE FEVER-BORDERED FLESH  
 WE LONG, REACH, SAMPLE, MIX & MAKE, BECOME.  
-YOU ARE NOT ENOUGH.  
+YOU'RE NOT ENOUGH.  
 </font>
+
+My fingers end where yours begin: a loop  
+that spans our whole divided life.  Whatever drew  
+your arms to vine my shoulders, brought me to  
+
+be this broken, punctuated self: with all the elements,  
+with growling wind and lizards flickering through  
+the walls.  With holes where lights & rain spill in.
 
 
 
