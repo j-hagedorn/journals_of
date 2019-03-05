@@ -36,9 +36,9 @@ the loom of mute facts, ever generating?
 
 I need it to be human, to remember  
 us, because even more than to control  
-I want to be known, within these hollows.  
+I want to be known.  Within these hollows,  
 
-Through sensual labyrinths we speed  
+through sensual labyrinths we speed  
 inattentive, which is deathward, pursued  
 between the level bleak where feeling blends.  
 
@@ -57,19 +57,27 @@ BUT NOT TO BURN?
 
 ONLY ACROSS THE FEVER-BORDERED FLESH  
 WE LONG, REACH, SAMPLE, MIX & MAKE, BECOME.  
-ALONE YOU'RE NOT ENOUGH.  
+YOU'RE NOT ENOUGH.  
 </font>
 
 My fingers end where yours begin: a loop  
 that spans our whole divided life.  Whatever drew  
 your arms to vine my shoulders, brought me to  
 
-be this broken, punctuated self: with all the elements,  
-with growling wind and lizards flickering through  
-its walls, and holes where lights & rain spill in.
+be this broken, punctuated man: with all the elements,  
+and growling wind, and lizards flickering through  
+its walls.  With holes where lights & rain spill in.  
 
+If we'll select our remade bodies then,  
+wherever this biology extends,  
+I want to share with you: enlarge  
 
+this single cell to be all entrance,  
+greeting you  
+ever again, again  
 
-
+coming to and going  
+<font size="2">TOUCHING OUR SKIN</font>, delighted  
+<font size="2">TO FIND</font> you in.
 
 
