@@ -8,9 +8,8 @@ tags: []
 meta_img: /images/image.jpg
 ---
 
-*...and morning came and showed Snow the prism hidden in his sharded heart.*  
-*And Snow thought to himself: *  
-*"How can one become light without first embodying each color?"*  
+> *...and morning came and showed Snow the prism hidden in his sharded heart.  And Snow thought to himself:*  
+> *"How can one become light without first embodying each color?"*  
 
 ---
 
