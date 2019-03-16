@@ -1,4 +1,16 @@
-{Orange Notebook}
+---
+title: Notebook (Scapoli 2017, Orange)
+author: J. Hagedorn
+date: '2017-12-31'
+slug: notebook-scapoli-2017-orange
+categories: []
+tags:
+  - notes
+description: Desc
+hacker_news_id: ''
+lobsters_id: ''
+meta_img: /images/image.jpg
+---
 
 The mountain reddens; chickens call
 acorns down from a tree.
@@ -812,3 +824,174 @@ discord; in the first I observed a unity, but in the other, a sort
 of division."
 
 ---
+
+It is painful to act on behalf of a family, since I am fused to each other person, and any collective good is only gained at the cost of visceral tugging and pain.
+
+---
+
+You can't have everything.
+Every you can't have a thing.
+
+---
+
+Faced with complexity, we focus and separate.
+
+---
+
+Research:
+
+- gestalt
+- chiarascuro
+- definition by difference
+- Augustine and Piaget on perception, differentiation
+
+---
+
+The mind is a meaning-making machine (cf. someone)
+
+& one of the characteristics of 'meaning' is coherence
+which is the ability of a thing to cling together,
+to be distinguished from others
+- i.e. to have boundaries (e.g. my hand, this pen, this table)
+
+BUT in order for coherence, we need differences (creases of mountains and clouds, horizons)
+without difference, I sink into meaninglessness, so...
+
+so what is the balance
+of difference to integrity/coherence...
+of the family/tribe to the agora/commons
+
+---
+
+cf. Eleusinian mysteries:
+
+synonyms: *die, marry the earth, mature, ripen the fruit*
+
+"Except a grain of wheat fall
+into the ground and die
+it abides alone, but if it dies,
+it brings forth much fruit" (ICXC, John 12:24)
+
+"If sick men dream of marriage it is a foreboding of death... all the accompaniments of marriage are the same as those of death" - Artemidorus
+
+Greek for 'initiation' == 'fulfilment', NOT 'entering',
+the implication being that we leave a space because we have filled it,
+that all about our current homes are entrances we grow into
+
+We grow into, but never leave - the children we were,
+the houses we lived in - we fill and are filled
+
+hence, ghosts
+
+---
+
+When we have grace for another person, we concede
+that the cosmos is not as we wish it was (and that our wishes may be off-kilter)
+
+Grace is an antidote against delusion,
+relinquishing the nightmare of utopia, our own control
+
+Grace carries an implicit (and paradoxical) admission
+that I am not in a position to give grace -
+that we are both flawed actors 
+tethered together in a sublimely complex world
+
+---
+
+the door of the mouth
+
+("The Hebrew word for 'good' meant originally good to eat... primarily applied to ripe fruits... luscious, succulent" - Harrison)
+
+---
+
+Periphery
+
+Bright bell of sight
+the round sky
+
+we walk around the year, as about
+the edge of something,
+
+hugging the lip --
+
+Is it a flower or volcano
+whose rim we walk?
+
+(black soil, white petals, pollen plumes)
+
+---
+
+"...da quelle cerchie etterne ci partimmo." - Inferno 18.72
+
+The fraudulent in Hell walk in circles, like a hamster-wheel of constant, manufactured want.
+
+A perverse cycle, the dark side of Spring blooming.
+
+The circle is complete.  A refuge and a trap.
+
+From the plain the circle appears to be a line: ______________
+
+(The circle needs to be reinvented)
+
+---
+
+A tunnel is a door of walls.
+
+---
+
+Pop-music is goal-driven, teleological -
+it does not saunter or stroll.
+
+It desires and moves with tunnel vision: tunnel tempo
+
+In this, it is like ritual, before it has been frilled, elaborated.
+
+---
+
+Beauty will save the world, but it will not feed my children, or give them an education to provide them with opportunities to pay mortgages and feed their own children, &c.
+
+I am in the business of security and familiarity until beauty comes like tree roots to clutch my ankles.
+
+Beauty will save the world, but maybe not us.
+
+---
+
+C. says that it is too late to change the trajectory of our lives, to build new foundations, & I feel like I am living in the long anemic shadow of my past choices: the meagre, fearful me that I have been trying to crawl from underneath..
+
+I am compelled to live, full-bodied and dark-blooded in the shallowshadows he has left.
+
+I the problem is that I slip so easily back into those shallows.  Though my head and arms and chest have become flesh, my feet are still plastic - I will fall back and wait out my half-life.
+
+And I cannot even rage against the meager, fearful me: like fighting quicksand, there is NO BODY there.
+
+---
+
+In the Inferno, I would be placed among the hoarders, who build up barns for security.  A flat plain full of adequate homes in middle America, with sturdy roofs, protecting from the burning rain.
+
+---
+
+Hell is always the absence of mystery, which is to say that it is right around us but we have become acclimated to it.  But I can choose.
+
+---
+
+Each mountaintop town is an offering,
+bringing stones from the rivers,
+hauling colors and doors,
+glass for the windows,
+chimneys unfurling the forest's incense.
+
+---
+
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+
+is a guard against worry
+is deaf to the future
+carries the past into now
+the valley spilling rain
+sky in the tunnel
+is sun-sopped flight
+
+
