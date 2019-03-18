@@ -130,9 +130,9 @@ it came to stay, it came to pass
 
 Caserta Gardens
 
-Even with my discussion with the kids about control of nature and centralized power, and with their hearts for the poor, my children couldn't help but fall in love with Reggia Caserta.  It is a monument to what people can make: the miles-long garden promenade and fountains, the rooms gilded, large enough to hold our entire home.
+Even after my discussion with the kids about control of nature and centralized power, and with their hearts ardent for the poor, the children couldn't help but fall in love with Reggia Caserta.  It is a monument to what people can make: the miles-long garden promenade and fountains, the rooms gilded, large enough to hold our entire home.
 
-Their eyes were filled with what was possible (E: "It would take my whole life."), because the place is so clearly made
+Their eyes were filled with what was possible (E: "It would take my whole life."), because the place is so clearly made.
 
 The older man's 'however' which I enjoin to this sense of wonder is secondary, a morality tale which can only be told after the construction of the thing.
 
