@@ -138,5 +138,82 @@ The older man's 'however' which I enjoin to this sense of wonder is secondary, a
 
 Not a church, not a gesture outward of worship, but an inward-focused monument to control, to modulated power over people and materials.  SO stunning it is difficult to wrench one's eyes away toward the tenements, the city-crammed hills.
 
-The angles radiate, rebound, as thoughts within a mind we meet
+The angles radiate, rebound, as thoughts within a mind, each mind we encounter traipsing through cragged alleys
+
+is such a palace, has made such a home,
+
+each of us is a gardener, rooting out invasive species, tending the geometry we have made.
+
+--- 
+
+Yet walls are partial.  Spores blow in, ornamental moss.  Time whittles the starkest angles.
+
+---
+
+Isotherms.  All borders cradle, alienate.
+
+---
+
+If the motions of religion (cf. Harrison) are:
+
+- gather good
+- dispel bad
+
+thankfulness is a curious motion.  Thankfulness is a response to the cosmos from the barest core of being.  Deeper than 'living' with its regulation of in/out, good/bad, etc.
+
+---
+
+Left and right hand of ICXC
+
+"I must decrease, that he may increase" - John
+"Let it be unto me" - Theotokos
+
+---
+
+On not seeing the relics of St. Bartholomew in Benevento
+
+Just here, the bulge in the alley wall, graffiti and trash.
+
+For all of POMO's juxtaposition of high/low, the cell continues to barricade virus
+
+---
+
+The holes in bread.  Like tissue, flesh, yet nothing!  Substantially insubstantial.  
+
+Air bubbles crept into this rock so we could eat it!
+
+---
+
+Somewhere along the line I realize  
+that I may be in heaven  
+and never know  
+since I never understood  
+how to be anywhere.  
+
+---
+
+Trees: synapses shocked up
+
+Birches: veins of bone
+
+---
+
+Needless to say that ideas fat-finger reality
+
+but why do we seek, again and again, this correspondence
+
+(beyond mere perception)
+
+Patterns, coming and going.  Some distillation.
+
+---
+
+River water fastens molecules  
+to flowering ice awhile
+
+Change not a betrayal, but a trait, of form.
+
+---
+
+
 
