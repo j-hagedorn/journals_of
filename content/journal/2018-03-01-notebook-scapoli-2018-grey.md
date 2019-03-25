@@ -272,5 +272,22 @@ Personhood is tangled up with truth.
 
 ---
 
+Trentmunn ("Empire of Things") makes the case that the opening of supermarkets was felt as liberating b/c people did not have to feel judged by e.g. the local butcher, who knew them.  They could be anonymous - equating anonymity with freedom.  Certainly, butchers could have had more grace in these circumstances, but anonymity removes the imperative and the circumstances for us to practice grace/forgiveness.  We now live in a world (virtual at least), with pervasive anonymity, & we are less & less gracious.
+
+---
+
+The erosion of authority is an erosion of trust.
+
+---
+
+"creeds have become all but insignificant... not living expressions... but ancient barriers... the whole centre of gravity has in fact shifted from authority to experience." - Harrison, *Epilegomena...*
+
+Creeds are barriers because they are brittle, contra experience.
+
+Yet experience requires form, grows latticed upon the scaffolding of the world it encounters:  
+a world of teachers, of stone paths, of brands and forms.
+
+---
+
 
 
