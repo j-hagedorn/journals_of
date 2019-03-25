@@ -215,5 +215,62 @@ Change not a betrayal, but a trait, of form.
 
 ---
 
+Recall: things exist beyond my reckoning,  
+as the dark tree-stalk sifts up  
+(through white noise, winter windshield),  
+has roots stretching back into spring.  
+
+As blind snow itself is made of springtime.  Of clear waters.  
+
+---
+
+Earliest religion/magic comes from the spear, from transcending distance.
+
+Each time we threw the spear we wounded ourselves as well.
+
+Opened up holes, distances that we can never, would never, untangle --  
+taste of the sun in oily orangeskins
+
+---
+
+It is possible to reside in a house but not to live there.  
+
+It is possible to be in heaven but not to know it.  
+
+It is possible that heaven is a way of not being here. (a spear)
+
+
+The thing came from afar, trailing strands, wiht one end still afar.
+
+As each thing has a side in shadow.
+
+Mystery compels us, which is to say that we both love and fear our blindness.  
+
+---
+
+Our partial-ness,  
+our being bound to death.  
+
+It is death that rests in each blindspot,  
+our halfness,  
+near as a half-remembered thought.  
+
+There is no here that is not a there.  
+We live in one another's beyond.  
+Distances bound up in  
+each cupped handful of water (read the report!)
+
+The snow crossed with tracks.
+
+---
+
+There is no "Gospel of the Molecular Description of the Material Events of IC + XC"
+
+Personhood is tangled up with truth.
+
+"Science is personal" - M. Polanyi
+
+---
+
 
 
