@@ -289,5 +289,102 @@ a world of teachers, of stone paths, of brands and forms.
 
 ---
 
+Winter piazza, yellow and shadow.
 
+Silver olive petals gusting up.
+
+The air is thick with distances and thus no longer distant.
+
+How, in Zeno's paradox, one can never get anywhere but closer.
+
+---
+
+A leaf falls  
+through leaves  
+
+rasping
+once, again, once
+
+(footfalls on the branches)
+
+There is no away but toward.
+
+No greeting other than the unwound tail of a departure.
+No novelties but hand-me-downs.
+
+Blown into vistas by the tradewinds.
+
+---
+
+Being solitary is a kind of death-within-life, a prefiguring of death.  Silence, which is a necessity for living with others to occur ("Unless it die...")
+
+In-breath and out-breath.
+
+But there is no true being alone.  Absolute zero alone.
+
+I am accompanied by light and the trees' silver praise and the dense dark -- loneliness is an illusion, like the many which surround me.
+
+There is only the commerce with people and stones and air and other beings.  I am one.
+
+---
+[Castelnuovo]
+
+Humorous world
+
+Long stalk bent by an invisible finger
+and sprung back --  
+metronome.
+
+Silly I think the world needs hands and an idea of time
+to lave the shade-shaped  
+frost on the far sides of rocks.
+
+---
+
+Since it takes 8 minutes for sunlight to reach us,
+the sun has already risen over the wall of hills
+when I first glimpse it.
+
+It threw itself toward me even before I arrived.
+
+---
+
+windy carapace  
+green felt melody  
+
+verted  
+
+slanted plains
+shafts and spines
+
+shattered horizons, mid revolution
+
+verdure   ruck    fold
+mist-tangled
+
+brittle spindle
+
+folded shadow crumpled
+
+---
+
+Many of the protective walls of Pompeii  
+are made of volcanic rocks.
+
+---
+
+"The heavenly wielder of the keys,  
+who throws open the gates of heaven."
+
+St. Peter (cf. Aldhelm, *Carmina Ecclesiastica*)
+//  
+Janus (cf. Ovid, *Fasti*)
+
+2 keys, 2 faces, 2 directions
+
+---
+
+
+
+---
 
