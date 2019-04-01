@@ -384,6 +384,65 @@ Janus (cf. Ovid, *Fasti*)
 
 ---
 
+In Rome, I encounter IC+XC made tangible 
+- in the bones of hands that touched him, in the steps he walked up -  
+but always through the institution of the Church (its buildings, janitors, scholars, etc.)
+
+Of course we only know history, what has happened, through the institutions which were a result of that 'happening'.
+
+Institutions/traditions abide and carry through time
+
+but how is, and is, it possible to sift back through the accreted stories to the Divine Word?
+
+---
+
+MONUMENT--and edifice large and clear enough that time's storm of static cannot erode it.
+
+OR
+
+CITY--with corners where people live, that people maintain, prone to local variations but alive
+
+---
+
+St. Thomas is so often equated with the skeptic, the scientist... why not the lover?
+
+---
+
+this rift, between the CITY & the MOUNTAINTOP has always been impassable for me.
+
+---
+
+Not the voice saying "Come and find my meaning", but "Come and play with me in the fields of meaning"
+
+---
+
+*They fraudulently protected themselves for the sake of enjoying the light of this brief life*
+- Augustine, Civ. Dei Ch. 1
+
+*He who has no tomb has the sky for a vault.*
+- Lucan, Pharsalia vii. 819
+
+*The body is... a apart of man's very nature.*  - Augustine, CD, ch. 13
+
+*So material a difference does it make, not what ills are suffered, but what kind of man suffers them.  For, stirred up with the saem movement, mud exhales a horrible stench & ointment emits a fragrant odor.* - Aug, CD, Ch. 8
+
+*The poor-spirited fear which prompts us to choose rather to live long in fear of so many deaths, than to die once...* - Aug, CD, Ch. 11
+
+---
+
+With a focus on (and metrics for) "Views", "Return visits", etc., marketers and start-ups understand the primacy of a resource which I too often throw away: *ATTENTION*
+
+I give attention to junk mail, to gossip, to memes -- that is to say, I let those things steal my attention, rather than purposefully using it.
+
+The power of attention is that it lays one stone on another: makes homes, cultures, cities.
+
+Attention is to direct the energy of one's intelligence (always entwined with ones Love) on the world outside of oneself.
+
+When I attend to the natural world in this way, it rewards me with beauty, breath, life--slow growth.
+
+We are nourished by reality because it is substantial.  When we attend to ourselves by feeding our split-second hungers, or propping up our superficial advert identities, we come away hungry--but we keep going back because that's what we're fed.
+
+---
 
 
 ---
