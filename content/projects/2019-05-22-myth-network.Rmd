@@ -1,0 +1,72 @@
+---
+title: Myth network
+author: J. Hagedorn
+date: '2019-05-22'
+slug: myth-network
+categories: []
+tags:
+  - myth
+  - network
+description: Desc
+hacker_news_id: ''
+lobsters_id: ''
+meta_img: /images/image.jpg
+---
+
+Dataset used in [Miranda PJ, Baptista MS, de Souza Pinto SE (2018) The Odyssey’s mythological network. PLoS ONE 13(7): e0200703.](https://doi.org/10.1371/journal.pone.0200703), available [here](https://abdn.pure.elsevier.com/en/datasets/odysseys-mythological-network)
+
+```{r load, message=FALSE, warning=FALSE}
+library(tidyverse); library(tidygraph)
+url <- "https://pure.abdn.ac.uk/ws/portalfiles/portal/126193001/Odyssey.txt"
+df <- read_delim(url,delim = "\ ",col_names = F,skip = 1) %>% select(from = X2,to = X3)
+ntwk <- df %>% as_tbl_graph(directed = F) %>% activate(edges) %>% filter(!edge_is_multiple())
+```
+
+In order to explore, we'll begin by computing some measures.  First with the ranking metrics for the *nodes* of the graph (see `?node_rank` for all options):
+
+```{r}
+ntwk %<>%
+  activate(nodes) %>% 
+  mutate(
+    node_travel = node_rank_traveller(),
+    node_anneal = node_rank_anneal(),
+    node_visual = node_rank_visual()
+  )
+
+```
+
+Next, with measures of *centrality* (see `?centrality` for all options)
+
+```{r}
+tst <-
+  ntwk %>%
+  activate(nodes) %>% 
+  mutate(
+    neighbors = centrality_degree(),
+    betweenness = centrality_betweenness(),
+    bridging = node_bridging_score(),
+    # diversity = node_diversity(),
+    eigen_center = centrality_eigen(),
+    close_impact = node_closeness_impact(),
+    connect_impact = node_connectivity_impact(),
+    gap_access = node_effective_network_size()
+  )
+  
+
+```
+
+Node measures:
+
+- *Betweenness*: Betweenness is (roughly) defined by the number of geodesics (shortest paths) going through a vertex or an edge.
+- *Bridging*:  Valente and Fujimoto’s metric, where a node’s bridging score is the average decrease in cohesiveness if each of its edges were removed from the graph.  Edges that reduces distances in a network are important structural bridges.
+- *Diversity*: Calculates a measure of diversity for all vertices of the node.  The diversity of a vertex is defined as the (scaled) Shannon entropy of the weights of its incident edges.
+- *Eigenvector centrality*: Scores correspond to the values of the first eigenvector of the graph adjacency matrix; the centrality of each actor is proportional to the sum of the centralities of those actors to whom he or she is connected. In general, vertices with high eigenvector centralities are those which are connected to many other vertices which are, in turn, connected to many others (and so on).
+- *Closeness impact*: The closeness equation as the sum of inverse distances to all other nodes (instead of the inverse of the sum of distances to all other nodes).  This closeness measure shows the change in the sum of the inverse of distances between all node pairs when excluding that node.
+- *Connectivity impact*: Connectivity loss indices quantify the decrease in the number of relationships between each node when one or several components are removed. This connectivity measure shows the loss of connectivity when excluding a node.
+- *Gap access*: Measures the node actors’ access to structural holes in a network. Structural holes "provide opportunities to broker connections between people" ([Burt 2008](http://faculty.chicagobooth.edu/ronald.burt/research/files/NNappB.pdf)).
+- *Neighbors*: The degree of a vertex is its most basic structural property, the number of its adjacent edges.
+
+```{r}
+tst %>% as_tibble() %>% View()
+```
+
