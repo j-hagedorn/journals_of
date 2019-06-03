@@ -24,7 +24,7 @@ ntwk <- df %>% as_tbl_graph(directed = F) %>% activate(edges) %>% filter(!edge_i
 
 In order to explore, we'll begin by computing some measures.  First with the ranking metrics for the *nodes* of the graph (see `?node_rank` for all options):
 
-```{r}
+```{r rank}
 ntwk %<>%
   activate(nodes) %>% 
   mutate(
@@ -37,11 +37,13 @@ ntwk %<>%
 
 Next, with measures of *centrality* (see `?centrality` for all options)
 
-```{r}
-tst <-
-  ntwk %>%
+```{r centrality}
+ntwk %<>%
   activate(nodes) %>% 
   mutate(
+    center = node_is_center(),
+    keyplayer = node_is_keyplayer(k = 10),
+    dist_to_center = node_distance_to(node_is_center()),
     neighbors = centrality_degree(),
     betweenness = centrality_betweenness(),
     bridging = node_bridging_score(),
@@ -52,7 +54,6 @@ tst <-
     gap_access = node_effective_network_size()
   )
   
-
 ```
 
 Node measures:
@@ -67,6 +68,59 @@ Node measures:
 - *Neighbors*: The degree of a vertex is its most basic structural property, the number of its adjacent edges.
 
 ```{r}
-tst %>% as_tibble() %>% View()
+ntwk %>% as_tibble() %>% View()
 ```
+
+# Edge metrics
+
+```{r}
+ntwk %<>%
+  activate(edges) %>%
+  mutate(edge_center = centrality_edge_betweenness())
+```
+
+
+
+# Making constellations
+
+Few visualizations seem more fitting for Greek myths than network diagrams; indeed, what pastime did the brds engage in night after night but connecting the dots of the cosmos into stories.  Now, we're unweaving a story into dots.
+
+```{r}
+library(ggraph)
+
+layouts <- c('star','circle','gem','dh','graphopt','grid','mds','randomly','fr','kk','drl','lgl')
+
+ntwk_kk <- create_layout(ntwk, layout = "kk")
+ntwk_dh <- create_layout(ntwk, layout = "dh")
+ntwk_mds <- create_layout(ntwk, layout = "mds")
+
+```
+
+
+```{r}
+ggraph(ntwk_mds) +
+  geom_edge_link(aes(alpha = edge_center)) +
+  geom_node_point(
+    aes(
+      colour = close_impact, 
+      size = betweenness
+    )
+  )  + 
+  scale_color_viridis(option = "A") +
+  geom_node_text(aes(label = enc2utf8(as.character(name)))) +
+  theme_graph(base_family = "sans") + 
+  theme(legend.position = "none")
+```
+
+
+
+```{r}
+ntwk %>% 
+  ggraph(layout = "linear", circular = T) +
+  geom_edge_arc(alpha = 0.25) + 
+  coord_fixed() +
+  theme_graph()
+```
+
+
 
