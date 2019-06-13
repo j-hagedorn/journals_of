@@ -79,8 +79,6 @@ ntwk %<>%
   mutate(edge_center = centrality_edge_betweenness())
 ```
 
-
-
 # Making constellations
 
 Few visualizations seem more fitting for Greek myths than network diagrams; indeed, what pastime did the brds engage in night after night but connecting the dots of the cosmos into stories.  Now, we're unweaving a story into dots.
@@ -123,4 +121,14 @@ ntwk %>%
 ```
 
 
+Making a network constellation of Greek mythical figures and characters seems fitting, given the hours the Greeks spent connecting the dots of stars.
 
+A complete network graph is more like the overlaying of multiple constellations, since a single star (or dart) is drawn through multiple times as it connects with various others.  Perhaps we can display single routes through a set of nodes at a time, corresponding to constellations.
+
+Drawing lines between such rich and varied characters as those of the odyssey underscores the reductive nature of any analysis (*We murder to dissect*). Consider the start line connecting Menelaus to Odysseus in comparison to the following phrases, which the former speaks about the latter: “…“
+
+Consider also the lines between Odysseus, Penelope, and the suitors. We could graph these as directed lines, but even so the liner tells us nothing of the difference between the amorous intentions of the suitors to Penelope, or the murderous rage of Odysseus to the suitors.
+
+Another instructive relationship to look at is Poseidon. In the network graph, Poseidon is it 815 node with my neck do you know just like any other know. Yep in the odyssey, Poseidon launch every message. In a poem which takes place, the god of the sea is underneath every relationship. Depicting such a figure with in a network of relationships in the same manner as others call to illustrates the limitations of our visualization, and of the conceptual framework which structure.  Modern day visualizations and models fall into the same trap queen trying to depict environmental variables. Or, entities which have an on known environmental over at Beach in nomad components. (Think about the connections and grab me the fire GE some years back which shows the connection between different diagnoses).
+
+Because God and goddesses are so often and body man of environmental and natural source, it makes sense that they would it not fit, or accurately be detected, in this framework. In studies of the relationship in structure between portions of the network and the marvel comics universe have shown that similarities, and in each of these what is being depicted is a power.
