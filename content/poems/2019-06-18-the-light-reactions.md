@@ -32,7 +32,7 @@ I feel that way, warm
 approaching You--  
 
 this bright, this  
-playfull and this doomed.  
+playful and this doomed.  
 
 
 Arise my love, O petalled Yawn  
@@ -46,8 +46,8 @@ over ground wet mouths.
 Desire the rising  
 tongue and hungry  
 insects grazing gazing  
-down earth's dissolve,  
 
+down earth's dissolve,  
 that dark inverted sun.  
 
 
