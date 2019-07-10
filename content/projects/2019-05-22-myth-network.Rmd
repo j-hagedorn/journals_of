@@ -18,7 +18,7 @@ Dataset used in [Miranda PJ, Baptista MS, de Souza Pinto SE (2018) The Odysseyâ€
 ```{r load, message=FALSE, warning=FALSE}
 library(tidyverse); library(tidygraph)
 url <- "https://pure.abdn.ac.uk/ws/portalfiles/portal/126193001/Odyssey.txt"
-df <- read_delim(url,delim = "\ ",col_names = F,skip = 1) %>% select(from = X2,to = X3)
+df <- read.delim(url,sep = "\ ",encoding = "latin1") %>% select(from = var1,to = var2)
 ntwk <- df %>% as_tbl_graph(directed = F) %>% activate(edges) %>% filter(!edge_is_multiple())
 ```
 
@@ -105,7 +105,7 @@ ggraph(ntwk_mds) +
     )
   )  + 
   scale_color_viridis(option = "A") +
-  geom_node_text(aes(label = enc2utf8(as.character(name)))) +
+  geom_node_text(aes(label = name)) +
   theme_graph(base_family = "sans") + 
   theme(legend.position = "none")
 ```
@@ -131,4 +131,4 @@ Consider also the lines between Odysseus, Penelope, and the suitors. We could gr
 
 Another instructive relationship to look at is Poseidon. In the network graph, Poseidon is it 815 node with my neck do you know just like any other know. Yep in the odyssey, Poseidon launch every message. In a poem which takes place, the god of the sea is underneath every relationship. Depicting such a figure with in a network of relationships in the same manner as others call to illustrates the limitations of our visualization, and of the conceptual framework which structure.  Modern day visualizations and models fall into the same trap queen trying to depict environmental variables. Or, entities which have an on known environmental over at Beach in nomad components. (Think about the connections and grab me the fire GE some years back which shows the connection between different diagnoses).
 
-Because God and goddesses are so often and body man of environmental and natural source, it makes sense that they would it not fit, or accurately be detected, in this framework. In studies of the relationship in structure between portions of the network and the marvel comics universe have shown that similarities, and in each of these what is being depicted is a power.
+Because gods and goddesses are so often and body man of environmental and natural source, it makes sense that they would it not fit, or accurately be detected, in this framework. In studies of the relationship in structure between portions of the network and the marvel comics universe have shown that similarities, and in each of these what is being depicted is a power.
