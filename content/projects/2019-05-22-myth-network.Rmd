@@ -22,6 +22,8 @@ df <- read.delim(url,sep = "\ ",encoding = "latin1") %>% select(from = var1,to =
 ntwk <- df %>% as_tbl_graph(directed = F) %>% activate(edges) %>% filter(!edge_is_multiple())
 ```
 
+# Node metrics
+
 In order to explore, we'll begin by computing some measures.  First with the ranking metrics for the *nodes* of the graph (see `?node_rank` for all options):
 
 ```{r rank}
@@ -52,13 +54,15 @@ ntwk %<>%
     close_impact = node_closeness_impact(),
     connect_impact = node_connectivity_impact(),
     gap_access = node_effective_network_size()
-  )
+  ) %>%
+  # Make char subset
+  mutate(keyplayer_name = if_else(keyplayer,name,NA_character_))
   
 ```
 
-Node measures:
+Non-statsy definitions for node measures:
 
-- *Betweenness*: Betweenness is (roughly) defined by the number of geodesics (shortest paths) going through a vertex or an edge.
+- *Betweenness*: Betweenness is (roughly) defined by the number of geodesics (shortest paths) going through a vertex or an edge. If St. Sebastian was a node, he would have a high betweenness score when relationships were depicted by arrow shots.
 - *Bridging*:  Valente and Fujimoto’s metric, where a node’s bridging score is the average decrease in cohesiveness if each of its edges were removed from the graph.  Edges that reduces distances in a network are important structural bridges.
 - *Diversity*: Calculates a measure of diversity for all vertices of the node.  The diversity of a vertex is defined as the (scaled) Shannon entropy of the weights of its incident edges.
 - *Eigenvector centrality*: Scores correspond to the values of the first eigenvector of the graph adjacency matrix; the centrality of each actor is proportional to the sum of the centralities of those actors to whom he or she is connected. In general, vertices with high eigenvector centralities are those which are connected to many other vertices which are, in turn, connected to many others (and so on).
@@ -67,8 +71,24 @@ Node measures:
 - *Gap access*: Measures the node actors’ access to structural holes in a network. Structural holes "provide opportunities to broker connections between people" ([Burt 2008](http://faculty.chicagobooth.edu/ronald.burt/research/files/NNappB.pdf)).
 - *Neighbors*: The degree of a vertex is its most basic structural property, the number of its adjacent edges.
 
+# Node groups 
+
 ```{r}
-ntwk %>% as_tibble() %>% View()
+
+ntwk %<>%
+  activate(nodes) %>% 
+  mutate(
+    grp_infomap = group_infomap(),
+    grp_between = group_edge_betweenness(),
+    grp_louvain = group_louvain(),
+    grp_anneal  = group_spinglass()
+  )
+
+```
+
+
+```{r}
+ntwk %>% activate(nodes) %>% as_tibble() %>% View()
 ```
 
 # Edge metrics
@@ -96,16 +116,17 @@ ntwk_mds <- create_layout(ntwk, layout = "mds")
 
 
 ```{r}
-ggraph(ntwk_mds) +
+ntwk_mds  %>%
+  ggraph() +
   geom_edge_link(aes(alpha = edge_center)) +
   geom_node_point(
     aes(
-      colour = close_impact, 
+      colour = grp_louvain, 
       size = betweenness
     )
   )  + 
   scale_color_viridis(option = "A") +
-  geom_node_text(aes(label = name)) +
+  geom_node_text(aes(label = keyplayer_name), repel = TRUE) +
   theme_graph(base_family = "sans") + 
   theme(legend.position = "none")
 ```
@@ -132,3 +153,8 @@ Consider also the lines between Odysseus, Penelope, and the suitors. We could gr
 Another instructive relationship to look at is Poseidon. In the network graph, Poseidon is it 815 node with my neck do you know just like any other know. Yep in the odyssey, Poseidon launch every message. In a poem which takes place, the god of the sea is underneath every relationship. Depicting such a figure with in a network of relationships in the same manner as others call to illustrates the limitations of our visualization, and of the conceptual framework which structure.  Modern day visualizations and models fall into the same trap queen trying to depict environmental variables. Or, entities which have an on known environmental over at Beach in nomad components. (Think about the connections and grab me the fire GE some years back which shows the connection between different diagnoses).
 
 Because gods and goddesses are so often and body man of environmental and natural source, it makes sense that they would it not fit, or accurately be detected, in this framework. In studies of the relationship in structure between portions of the network and the marvel comics universe have shown that similarities, and in each of these what is being depicted is a power.
+
+```{r}
+
+```
+
