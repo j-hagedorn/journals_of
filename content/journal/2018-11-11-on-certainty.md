@@ -22,22 +22,22 @@ Who hazards that certainty is tenable anymore; now that knowing has been reduced
 
 In Limbo our words dissolve in our mouths.  We explain our motives with textbook myths: stories made routine, institutional, and tame. The Ragnarök [of Marvel Studios](https://www.imdb.com/title/tt3501632/) rather than the Ragnarök of the Völuspá's harrowed poet, starving amid a [volcanic winter](https://en.wikipedia.org/wiki/Ragnar%C3%B6k#Volcanic_eruptions).  
 
-In parallel to the Greek word for the act of *liturgy*, the "work of the people"^[The Greek λειτουργία (leitourgía) derives from λειτ- (leit-, from 'people') and -ουργός (-ourgós, from 'work')], Jane Harrison recounts that "among the Tarahumares of Mexico the word *nolavoa* means both 'to work' and 'to dance'" and that rather than betraying a sentimentality for the past, this participation in a collective story made one more fully present.  In fact, she relates that "in extreme old age [a man] ceases to exist, because he cannot dance; his dance, and with it his social status, passes to another and a younger."^[Harrison, J. E.  Ancient Art and Ritual. New York: H. Holt & Co. 1913. p. 31]  
+In parallel to the Greek word for the act of *liturgy*, the "work of the people"^[The Greek λειτουργία (leitourgía) derives from λειτ- (leit-, from 'people') and -ουργός (-ourgós, from 'work')], Jane Harrison recounts that "among the Tarahumares of Mexico the word *nolavoa* means both *to work* and *to dance*." Far from betraying a sentimentality for the past, this participation in a collective story cements them in the present.  In fact, Harrison relates that "in extreme old age [a man] ceases to exist, because he cannot dance; his dance, and with it his social status, passes to another and a younger."^[Harrison, J. E.  *Ancient Art and Ritual*. New York: H. Holt & Co. 1913. p. 31]  
 
-In Limbo we lecture about the dance's context, choreography, etc.  We do not, however, dance.  We hold up our stories like a beaded timeline, strung from one end to another like books on a shelf or in a digitized collection.  We can mark the turns, climax, resolution; yet in order to do this we stand outside the story and it ceases to be ours.  It becomes a museum-piece: remarkable yet unbelievable.^[This is an aftermath of the death of tradition at the hands of history, the replacement of cyclical with linear time.  If time is linear we can only look backward at our stories.  We are irrevocably cut off from them.  If time is circular, we tread and re-tread it.  If spiral, our story proceeds but with themes woven in and out.]
+Here in Limbo we lecture about the dance's context, choreography, etc.  We do not, however, dance.  We hold up our stories like a beaded timeline, strung from one end to another like books on a shelf or in a digitized collection.  We can mark the turns, climax, resolution; yet in order to do this we stand outside the story and it ceases to be ours.  It becomes a museum-piece: remarkable yet unbelievable.^[This is an aftermath of the death of tradition at the hands of history, the replacement of cyclical with linear time.  If time is linear we can only look backward at our stories.  We are irrevocably cut off from them.  If time is circular, we tread and re-tread it.  If spiral, our story proceeds but with themes woven in and out.]
 
-The liar may orchestrate the dance or even dance himself, but he believes in the power which this act gives him; not in the dance itself.  It remains a currency.
+The liar may orchestrate the dance or even dance himself, but he believes in the power which this act gives him; not in the dance itself.  It remains a currency to gather rather than a current pulsing through.
 
 
 ### A humble certainty
 
-Surrounded by marketing and punditry, we might be forgiven for thinking that 'certainty' involves the use of words for either manipulation or weaponization.  A gleaming-toothed money-back guarantee.  A manifest destiny.  Limbo dwellers crave certainty, and liars throughout history have been all too willing to offer it.  We allow a shallow confidence to masquerade as a synonym for certainty: "You just have to have confidence", in what is not so clear.  Self-confidence, the long-con.
+Surrounded by marketing and punditry, we might be forgiven for thinking that 'certainty' involves the use of words for either manipulation or weaponization.  A gleaming-toothed money-back guarantee.  A manifest destiny.  Limbo-dwellers crave certainty, and liars throughout history have been all too willing to offer it.  We allow a shallow confidence to masquerade as a synonym for certainty: "You just have to have confidence", in what is not so clear.  Self-confidence, that long-con.
 
-We may be tempted by our suspicion of certainty to make the inverse assumption as well, but *un*-certainty is not the same as humility.  Humility concedes that one can only occupy one place and one focus at one time. One puts one's full weight into each step of the dance.  Humility entails that we acknowledge ourselves as partial, guttering out unless we join others.  The phrase "I'm partial to..." retains this flavor: of one's taste as tangible, peculiar and firmly held.  
+We may be tempted by our suspicion of certainty to make the inverse assumption as well, but *un*-certainty is not the same as humility.  Humility concedes that one can only occupy one place and one focus at one time. One puts one's full weight into each step of the dance.  Humility entails that we acknowledge ourselves as partial, guttering out unless we join others.  The phrase "I'm partial to..." retains this flavor: of one's taste as tangible, peculiar, and firmly held.  
 
 To be certain is to embrace being partial.  Even the word, *partial*, holds the promise of a greater whole, and this whole hints at connection, an escape from solipsism's eclipse.
 
-Think of the Italian *certo*, used similarly to the word *sure*: as in 'sure-footed', or balanced upon what is here.  Settled, fixed.  And of course we can only ever be finite.  To be otherwise is hallucinatory.  We are all blind-seers: seers of our blindnesses, and have contented ourselves with this dark panorama.
+Think of the Italian *certo*, used similarly to the word *sure*: as in 'sure-footed', or balanced upon what is here.  Settled, fixed.  And of course we can only ever be finite.  To be otherwise is a hallucination.  We are all blind-seers: seers, that is, of our blindnesses.  And we have contented ourselves with this dark panorama.
 
 Certainty is kindred to presence.  I know *this*.  We have been taught that the Absolute is distant, that truer means farther.  Nothing could be further from the truth.
 
@@ -73,7 +73,6 @@ We want to confer the weight of the absolute on what is near at hand.  Because w
 ---
 
 To become certain, suffused with the thing which one gives oneself to, is to become camouflaged: the background of the story showing through so that one's self is hardly seen at all, except as a part of that scenery.
-
 
 ---
 
