@@ -10,47 +10,74 @@ meta_img: /images/image.jpg
 
 ```{r libs, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
 knitr::opts_chunk$set(echo = FALSE,message=FALSE,warning=FALSE)
-library(tidyverse); library(gutenbergr); library(cleanNLP); library(DT); library(sunburstR)
-cnlp_init_udpipe()
+library(tidyverse); library(gutenbergr); library(DT); library(sunburstR)
 
-corpus <- feather::read_feather("../../static/data/corpus.feather")
 ```
 
-Walter J. Ong writes that, immersed in our hearing, we "gather sound simultaneously from every directions at once; I am at the center of my auditory world, which envelopes me, establishing me at a kind of core of sensation and existence..."^[from Ong, Walter J. *Orality and Literacy*. Routledge, 2013.]
+### Caveat: 'We murder to dissect'
 
-"Interiority and harmony are characteristics of human consciousness. The consciousness of each human person is totally interiorized, known to the person from the inside and inaccessible to any other person directly from the inside. Everyone who says 'I' means something different by it from what every other person means. What is 'I' to me is only 'you' to you... In a primary oral culture, where the word has its existence only in sound... the phenomenology of sound enters deeply into human beings' feel for existence, as processed by the spoken word."
+Voice is both a center, pouring from a single mouth, and also an environment: surrounding, echoing, reverberating, jarring, saturating. Walter J. Ong writes that, immersed in our hearing, we "gather sound simultaneously from every direction at once; I am at the center of my auditory world, which envelopes me, establishing me at a kind of core of sensation and existence..."^[from Ong, Walter J. *Orality and Literacy: The Technologizing of the Word*. Routledge, 2013.]
 
-In the curled pause of a comma, at the hinge of a sentence, what comes next?
+Ong cautions that writing turns speech into a static, constrained and coffined thing.  I can commiserate.  At times, feeling for a phrase, I have summoned sounds and nonsense words merely to detach words from the written characters to which they have been twined.  So it's strange that the honor he imparts to voice was echoing in my mind when I became intrigued the other day with parsing patterns of poetic sentences.
 
-Approaching the mouth of the compound poet, pieced together out of all the works attributed to him/her, what patterns soothe us?  
+Yet poetry is perhaps one of few places which bear investigation.  Ong opines that "[Rhythmically balanced, formulaic expressions] can be found occasionally in print but in oral cultures they...are incessant. They form the substance of thought itself."  Written poems are a late remnant of this music.
 
-"Human society first formed itself with the aid of oral speech, becoming literate very late in its history, and at first only in certain groups. Homo sapiens has been in existence for between 30,000 and 50,000 years. The earliest script dates from only 6000 years ago."
-― Walter J. Ong, Orality and Literacy: The Technologizing of the Word 
+### Hopeful lepidopterists
 
-§35 "[Rhythmically balanced, formulaic expressions] can be found occasionally in print but in oral cultures they are not occasional. They are incessant. They form the substance of thought itself. Thought in any extended form is impossible without them, for it consists in them."
+Written language is ubiquitous, despite the urgency that we acknowledge what we have lost in branching away from an oral culture.  And one of the things that written language can give us, with its static wings, is a preserved body to stare into, beyond the expiration of inter-personal awkwardness.
 
-§55 "An oral culture simply does not deal in such items as geometrical figures, abstract categorization, formally logical reasoning processes, definitions, or even comprehensive descriptions, or articulated self-analysis, all of which derive not simply from thought itself but from text-formed thought."
+Just as Ramon y Cahal segmented and sketch out neuronal cells, making drawings which were both accurate and lovely, we might sketch out the patterns of utterance: not to be useful, or to prove some theory, but merely to observe the unintentional patterns that a voice accumulates across the duration of its expeditions.
 
-```{r get_poets}
+We might even hold out hope that they continue to hold the sparks of personhood. As Coleridge proposes: "...if words are not THINGS, they are LIVING POWERS, by which the things of most importance to mankind are actuated, combined, and humanized."^[Coleridge, S.T. *Aids to Reflection*, ed. John Beer (1993), p. 10] 
+
+### Seeing the hinges of speech
+
+Nothing so ambitious is attempted here, though.  Just a sketch of the patterns lying latent in the collected works of some beloved companions.^[By doing this, I am perhaps proving Ong's point that "An oral culture simply does not deal in such items as geometrical figures, abstract categorization, formally logical reasoning processes, definitions, or even comprehensive descriptions, or articulated self-analysis, all of which derive not simply from thought itself but from text-formed thought."]
+
+The sunburst plot below resembles a flower's corolla, a liturgical fan, a geometric sun-flare.  Its petals are the patterns of parts of speech, those which follow each turn of a phrase, as signalled by a punctuation mark.^[We could also break up the pattern using line breaks or stanzas, but that will have to wait for another exploration.]  In the curled pause of a comma, at the hinge of a sentence, how does one coax the next thought?  Approaching the utterances of a poet as a compound mouth, pieced together out of all their works, we can ask what patterns accompany the summoning.
+
+```{r annotate_poets, eval=FALSE}
+library(cleanNLP)
+cnlp_init_udpipe()
+corpus <- feather::read_feather("../../static/data/corpus.feather")
+
 milton <-
   corpus %>%
   filter(title == "Paradise Lost") %>%
   select(text) %>%
-  slice(1:1500) %>%
-  cnlp_annotate(.$text, as_strings = TRUE)
+  cnlp_annotate(.$text, as_strings = TRUE) %>%
+  cnlp_get_token()
 
 keats <-
   corpus %>%
   filter(author == "Keats, John") %>%
   select(text) %>%
-  slice(c(5:18,38:289,297:365,375:546)) %>%
-  cnlp_annotate(.$text, as_strings = TRUE)
+  slice(
+    c(
+      5:18,38:289,297:365,375:546,554:587,596:649,
+      657:725,733:787,797:882,903:999,1008:1152,
+      1162:1294,4104:4113,4117:4126,4130:4139,
+      4143:4152,4156:4165,4169:4178,4182:4191,
+      4195:4204
+    )
+  ) %>%
+  cnlp_annotate(.$text, as_strings = TRUE) %>%
+  cnlp_get_token()
+
+feather::write_feather(milton,"../../static/data/milton.feather")
+feather::write_feather(keats,"../../static/data/keats.feather")
 ```
 
-```{r milton_sunburst, fig.cap= "POS sequences from Milton's Paradise Lost"}
+```{r get_annotations}
+milton <- feather::read_feather("../../static/data/milton.feather")
+keats <- feather::read_feather("../../static/data/keats.feather")
+```
+
+
+```{r fig.cap= "POS sequences from Milton's Paradise Lost"}
 
 df <-
-  cnlp_get_token(milton) %>%
+  milton %>%
   mutate(
     sentence = cumsum(str_detect(word, regex("^\\.$"))) + 1,
     punct = cumsum(upos == "PUNCT")
@@ -78,9 +105,9 @@ In Milton's *Paradise Lost*, the most common patterns, if we move outward from t
 - `verb-det-noun`, found in phrases like *`r df %>% ungroup() %>% filter(str_detect(path,"^verb-det-noun")) %>% .$phrase`*
 
 
-```{r keats_sunburst, fig.cap= "POS sequences from Keats' selected poems"}
+```{r fig.cap = "POS sequences from Keats' selected poems"}
 df <-
-  cnlp_get_token(keats) %>%
+  keats %>%
   mutate(
     sentence = cumsum(str_detect(word, regex("^\\.$"))) + 1,
     punct = cumsum(upos == "PUNCT")
@@ -115,3 +142,8 @@ In Keats' poems the most common patterns, if we move outward from the largest se
 - `cconj-adp-det`, from phrases such as `r df %>% filter(str_detect(path,"^cconj-adp-det")) %>% .$phrase`
 - `pron-det-noun`, found in phrases like `r df %>% ungroup() %>% filter(str_detect(path,"^pron-det-noun")) %>% .$phrase`
 
+---
+
+In one of Borges’ short pieces, he speculates that all of the wanderings which a person makes eventually trace the shape of his identity. I cannot accept this anymore then I can accept that a footprint in the dust is equal to a foot. And yet the traces that we leave hold some remnant of us, I beyond our intentions and our desire to win a lasting memory.
+
+And if the momentary accident of a single phrase can delight with a striking analogy, perhaps the accidental/unintentional patterns of phrasing over the course of one’s life may also carry some delight.
