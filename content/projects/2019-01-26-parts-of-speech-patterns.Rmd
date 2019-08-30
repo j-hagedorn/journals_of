@@ -9,23 +9,34 @@ meta_img: /images/image.jpg
 ---
 
 ```{r libs, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
-library(tidyverse); library(gutenbergr); library(cleanNLP); library(DT)
+knitr::opts_chunk$set(echo = FALSE,message=FALSE,warning=FALSE)
+library(tidyverse); library(gutenbergr); library(cleanNLP); library(DT); library(sunburstR)
 cnlp_init_udpipe()
-```
 
-
-
-```{r}
 corpus <- feather::read_feather("../../static/data/corpus.feather")
 ```
 
-```{r}
+Walter J. Ong writes that, immersed in our hearing, we "gather sound simultaneously from every directions at once; I am at the center of my auditory world, which envelopes me, establishing me at a kind of core of sensation and existence..."^[from Ong, Walter J. *Orality and Literacy*. Routledge, 2013.]
 
+"Interiority and harmony are characteristics of human consciousness. The consciousness of each human person is totally interiorized, known to the person from the inside and inaccessible to any other person directly from the inside. Everyone who says 'I' means something different by it from what every other person means. What is 'I' to me is only 'you' to you... In a primary oral culture, where the word has its existence only in sound... the phenomenology of sound enters deeply into human beings' feel for existence, as processed by the spoken word."
+
+In the curled pause of a comma, at the hinge of a sentence, what comes next?
+
+Approaching the mouth of the compound poet, pieced together out of all the works attributed to him/her, what patterns soothe us?  
+
+"Human society first formed itself with the aid of oral speech, becoming literate very late in its history, and at first only in certain groups. Homo sapiens has been in existence for between 30,000 and 50,000 years. The earliest script dates from only 6000 years ago."
+― Walter J. Ong, Orality and Literacy: The Technologizing of the Word 
+
+§35 "[Rhythmically balanced, formulaic expressions] can be found occasionally in print but in oral cultures they are not occasional. They are incessant. They form the substance of thought itself. Thought in any extended form is impossible without them, for it consists in them."
+
+§55 "An oral culture simply does not deal in such items as geometrical figures, abstract categorization, formally logical reasoning processes, definitions, or even comprehensive descriptions, or articulated self-analysis, all of which derive not simply from thought itself but from text-formed thought."
+
+```{r get_poets}
 milton <-
   corpus %>%
   filter(title == "Paradise Lost") %>%
   select(text) %>%
-  slice(1:75) %>%
+  slice(1:1500) %>%
   cnlp_annotate(.$text, as_strings = TRUE)
 
 keats <-
@@ -34,47 +45,73 @@ keats <-
   select(text) %>%
   slice(c(5:18,38:289,297:365,375:546)) %>%
   cnlp_annotate(.$text, as_strings = TRUE)
-
 ```
 
-```{r}
+```{r milton_sunburst, fig.cap= "POS sequences from Milton's Paradise Lost"}
 
-library(sunburstR)
-
-cnlp_get_token(keats) %>%
-  mutate(sentence = cumsum(str_detect(word, regex("^\\.$")))) %>%
-  filter(word != ".") %>%
-  group_by(sentence) %>%
-  summarize(path = paste(tolower(upos), collapse = "-")) %>%
+df <-
+  cnlp_get_token(milton) %>%
+  mutate(
+    sentence = cumsum(str_detect(word, regex("^\\.$"))) + 1,
+    punct = cumsum(upos == "PUNCT")
+  ) %>%
+  filter(upos != "PUNCT") %>%
+  group_by(punct) %>%
+  summarize(
+    path = paste(tolower(upos), collapse = "-"),
+    phrase = paste(word, collapse = " ")
+  ) %>%
   group_by(path) %>%
-  summarize(score = n()) %>%
+  mutate(score = n()) %>%
   arrange(score) %>% 
-  sunburst(
-    # colors = list(
-    #   range=cols,
-    #   domain=legend_items
-    # )
-  )
+  ungroup() 
+
+df %>% select(path,score) %>% distinct() %>% sunburst()
+
+# sund2b(df)
 
 ```
 
-```{r}
-cols <- 
-  c(
-    colorRampPalette(RColorBrewer::brewer.pal(9, 'Blues'))(length(personal_items)),
-    colorRampPalette(RColorBrewer::brewer.pal(9, 'Oranges'))(length(interpersonal_items)),
-    colorRampPalette(RColorBrewer::brewer.pal(9, 'Greens'))(length(environment_items))
-  )
+In Milton's *Paradise Lost*, the most common patterns, if we move outward from the largest segments at the center, include: 
 
-sunburst_df %>%
-  ungroup() %>%
-  select(path,score) %>%
+- `cconj-noun-adp`, from phrases such as *`r df %>% filter(str_detect(path,"^cconj-noun-adp")) %>% .$phrase`*
+- `verb-det-noun`, found in phrases like *`r df %>% ungroup() %>% filter(str_detect(path,"^verb-det-noun")) %>% .$phrase`*
+
+
+```{r keats_sunburst, fig.cap= "POS sequences from Keats' selected poems"}
+df <-
+  cnlp_get_token(keats) %>%
+  mutate(
+    sentence = cumsum(str_detect(word, regex("^\\.$"))) + 1,
+    punct = cumsum(upos == "PUNCT")
+  ) %>%
+  filter(upos != "PUNCT") %>%
+  group_by(punct) %>%
+  summarize(
+    path = paste(tolower(upos), collapse = "-"),
+    phrase = paste(word, collapse = " ")
+  ) %>%
+  group_by(path) %>%
+  mutate(score = n()) %>%
   arrange(score) %>% 
-  sunburst(
-    colors = list(
-      range=cols,
-      domain=legend_items
-    )
-  )
+  ungroup() 
+
+df %>% select(path,score) %>% distinct() %>% sunburst()
+
+# legend_items <- unique(unlist(strsplit(df1$path, '-')))
+# cols <- viridis::viridis_pal(option = "inferno")(length(legend_items))
+# 
+# df %>% sunburst(
+#     # colors = list(
+#     #   range=cols,
+#     #   domain=legend_items
+#     # )
+#   )
+
 ```
+
+In Keats' poems the most common patterns, if we move outward from the largest segments at the center, include: 
+
+- `cconj-adp-det`, from phrases such as `r df %>% filter(str_detect(path,"^cconj-adp-det")) %>% .$phrase`
+- `pron-det-noun`, found in phrases like `r df %>% ungroup() %>% filter(str_detect(path,"^pron-det-noun")) %>% .$phrase`
 
