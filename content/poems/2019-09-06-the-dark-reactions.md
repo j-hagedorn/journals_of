@@ -106,3 +106,9 @@ the rim my sight
 is a sunken bowl,
 inverted valley of my skull
 
+---
+
+You can walk through the same stream once
+and when you do, it is the sky
+
+
