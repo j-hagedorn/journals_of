@@ -164,13 +164,13 @@ In Keats' poems the most common patterns, if we move outward from the largest se
 
 I'm tempted to find in these phrases something typically "Keatsian", and in the previous ones something "Miltonic", but minds are quick to latch onto a good story in the absence of evidence.  Nor do I think that there's anything particular like "evidence" for the phenomenon I'm interested in: personhood, and its manifestation in language.  That said, I do love patterns.  Reductive and lovely as they are, when they are made visible...
 
-To get an inkling of whether there are patterns that are peculiar to one poet more than another, I did a little sequential association rule mining.^[This analysis uses the association rule mining package referenced in Hahsler M, et al. (2005a). *"arules – A Computational Environment for Mining Association Rules and Frequent Item Sets."* Journal of Statistical Software, 14(15), 1–25.]  With this approach, pattern sequences are scored using the following characteristics for each body of work (Milton & Keats):
+To get an inkling of whether there are patterns that are peculiar to one poet more than another, I did a little sequential association rule mining.^[This analysis uses the association rule mining package referenced in Hahsler M, et al. (2005a). *"arules – A Computational Environment for Mining Association Rules and Frequent Item Sets."* Journal of Statistical Software, 14(15), 1–25.  It also uses `arulessequences`, an add-on for `arules` to handle and mine frequent sequences.Provides interfaces to the C++ implementation of cSPADE byMohammed J. Zaki.]  With this approach, pattern sequences are scored using the following characteristics for each body of work (Milton & Keats):
 
 - *How common?*: Often referred to as the `support` for an associated bundle, this is the percentage of all times that this bundle of services occurred somewhere in a person's service history.
 - *Strength*: This is the strength of the association between the bundle of services. Specifically, it tells us what percent of the time that the service on the right hand side (or column) is provided if the service(s) on the left side are provided.
 - *How much more likely?*: Seeing the patterns on the left hand side makes it this many times more likely that we'll see the pattern on the right occur next. More specifically, it is the probability that we actually see the patterns in sequence compared to the probability that we would see them together if they were unrelated.  Technically, it's called `lift`.
 
-In the plot below, each dot stands for a rule/pattern which is found in both poets' work, using the `lift` measure described just above. The colors are based on differnce, so that yellow means "this pattern is pretty similar between both" and purple means "this pattern differs most between them".
+In the plot below, each dot stands for a rule/pattern which is found in both poets' work, using the `lift` measure described just above. The colors are based on difference, so that yellow means "this pattern is pretty similar between both" and purple means "this pattern differs most between them".  Some of those sequential part-of-speech patterns are shown for reference.
 
 ```{r fun_seq_rules}
 get_seq_rules <- function(df,support = 0.5,confidence = 0.5){
@@ -244,7 +244,9 @@ seq_rules_df <-
 rm(seq_rules_keats); rm(seq_rules_milton)
 ```
 
-```{r rule_scatter,fig.showtext=TRUE,fig.retina=1}
+```{r rule_scatter,fig.showtext=TRUE,dpi=300,fig.retina=1}
+# Note: sizing needs to be larger for high DPI
+
 showtext_auto()
 
 seq_rules_df %>%
@@ -263,7 +265,7 @@ seq_rules_df %>%
     )
   ) +
   geom_point(alpha = 0.5) +
-  ggrepel::geom_label_repel(size = 3) +
+  ggrepel::geom_label_repel(size = 6) +
   scale_color_viridis_c(direction = -1) +
   labs(
     title = "Comparative part-of-speech sequencing",
@@ -272,15 +274,16 @@ seq_rules_df %>%
     y = "...in Keats' collected poems?"
   ) +
   theme_minimal() +
-  theme(text=element_text(size = 8,family="merriweather"))
+  theme(text=element_text(size = 25,family="merriweather"))
 
 # Open device to print with font
 # windows(); print(p); dev.off()
 ```
 
+Not much yet for this introductory exploration.  We could pour in more poets, and include comparisons to instruction manuals, Audobon guides, religious texts, etc.  And with all this, any pattern found would still likely have only a tinny resonance.  
 
 In the afterword to his collection *Museum*, Jorge Luis Borges speculates that all of the wanderings which a person makes eventually trace a recognizable shape:
 
 > "A man sets out to draw the world.  As the years go by, he peoples a space with images of provinces, kingdoms, mountains, bays, ships, islands, fishes, rooms, instruments, stars, horses, and individuals.  A short time before he dies, he discovers that that patient labyrinth of lines traces the lineaments of his own face."^[Borges, J.L. *Collected Fictions*. trans. Andrew Hurley. New York: Penguin, 1998.]
 
-A footprint in the dust is not equal to a foot. And yet the traces that we leave hold some remnant of us, beyond our intentions and our desire to trace any particular legacy.  And if the momentary accident of a single phrase can delight with a striking analogy, perhaps the accidental/unintentional patterns of phrasing over the course of one’s life may also spark some slight delight.
+A footprint in the dust is not equal to a foot, certainly. And yet the traces that we leave hold some remnant of us, beyond our intentions and our desire to trace any particular legacy.  And if the momentary accident of a single phrase can delight with a striking analogy, perhaps the accidental or unintentional patterns of phrasing over the course of one’s life may also spark some slight insight.

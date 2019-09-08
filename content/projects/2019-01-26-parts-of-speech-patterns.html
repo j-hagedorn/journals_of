@@ -88,13 +88,14 @@ Figure 2: Part-of-speech sequences from Keats’ selected poems
 <li><em>Strength</em>: This is the strength of the association between the bundle of services. Specifically, it tells us what percent of the time that the service on the right hand side (or column) is provided if the service(s) on the left side are provided.</li>
 <li><em>How much more likely?</em>: Seeing the patterns on the left hand side makes it this many times more likely that we’ll see the pattern on the right occur next. More specifically, it is the probability that we actually see the patterns in sequence compared to the probability that we would see them together if they were unrelated. Technically, it’s called <code>lift</code>.</li>
 </ul>
-<p>In the plot below, each dot stands for a rule/pattern which is found in both poets’ work, using the <code>lift</code> measure described just above. The colors are based on differnce, so that yellow means “this pattern is pretty similar between both” and purple means “this pattern differs most between them”.</p>
+<p>In the plot below, each dot stands for a rule/pattern which is found in both poets’ work, using the <code>lift</code> measure described just above. The colors are based on difference, so that yellow means “this pattern is pretty similar between both” and purple means “this pattern differs most between them”. Some of those sequential part-of-speech patterns are shown for reference.</p>
 <p><img src="/projects/2019-01-26-parts-of-speech-patterns_files/figure-html/rule_scatter-1.png" /><!-- --></p>
+<p>Not much yet for this introductory exploration. We could pour in more poets, and include comparisons to instruction manuals, Audobon guides, religious texts, etc. And with all this, any pattern found would still likely have only a tinny resonance.</p>
 <p>In the afterword to his collection <em>Museum</em>, Jorge Luis Borges speculates that all of the wanderings which a person makes eventually trace a recognizable shape:</p>
 <blockquote>
 <p>“A man sets out to draw the world. As the years go by, he peoples a space with images of provinces, kingdoms, mountains, bays, ships, islands, fishes, rooms, instruments, stars, horses, and individuals. A short time before he dies, he discovers that that patient labyrinth of lines traces the lineaments of his own face.”<a href="#fn7" class="footnoteRef" id="fnref7"><sup>7</sup></a></p>
 </blockquote>
-<p>A footprint in the dust is not equal to a foot. And yet the traces that we leave hold some remnant of us, beyond our intentions and our desire to trace any particular legacy. And if the momentary accident of a single phrase can delight with a striking analogy, perhaps the accidental/unintentional patterns of phrasing over the course of one’s life may also spark some slight delight.</p>
+<p>A footprint in the dust is not equal to a foot, certainly. And yet the traces that we leave hold some remnant of us, beyond our intentions and our desire to trace any particular legacy. And if the momentary accident of a single phrase can delight with a striking analogy, perhaps the accidental or unintentional patterns of phrasing over the course of one’s life may also spark some slight insight.</p>
 </div>
 <div class="footnotes">
 <hr />
@@ -104,7 +105,7 @@ Figure 2: Part-of-speech sequences from Keats’ selected poems
 <li id="fn3"><p>The part-of-speech tagging in <code>cleanNLP</code> uses the <a href="https://universaldependencies.org/u/pos/index.html">universal POS tags</a>. More detailed <a href="https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html">Penn Treebank Project codes</a> are also available.<a href="#fnref3">↩</a></p></li>
 <li id="fn4"><p>We could also break up the pattern using sentences, line breaks or stanzas, but that will have to wait for another exploration.<a href="#fnref4">↩</a></p></li>
 <li id="fn5"><p>Is this an instance of the models we use (e.g. language) speaking louder than our individual voices, or a story about the inadequacy of models to describe the utterance of an individual riding its rules? Are those stories the same one, with different narrators?<a href="#fnref5">↩</a></p></li>
-<li id="fn6"><p>This analysis uses the association rule mining package referenced in Hahsler M, et al. (2005a). <em>“arules – A Computational Environment for Mining Association Rules and Frequent Item Sets.”</em> Journal of Statistical Software, 14(15), 1–25.<a href="#fnref6">↩</a></p></li>
+<li id="fn6"><p>This analysis uses the association rule mining package referenced in Hahsler M, et al. (2005a). <em>“arules – A Computational Environment for Mining Association Rules and Frequent Item Sets.”</em> Journal of Statistical Software, 14(15), 1–25. It also uses <code>arulessequences</code>, an add-on for <code>arules</code> to handle and mine frequent sequences.Provides interfaces to the C++ implementation of cSPADE byMohammed J. Zaki.<a href="#fnref6">↩</a></p></li>
 <li id="fn7"><p>Borges, J.L. <em>Collected Fictions</em>. trans. Andrew Hurley. New York: Penguin, 1998.<a href="#fnref7">↩</a></p></li>
 </ol>
 </div>
