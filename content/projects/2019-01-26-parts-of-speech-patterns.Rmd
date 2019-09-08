@@ -1,8 +1,8 @@
 ---
-title: What will you say next?
+title: Parts of speech patterns
 author: J. Hagedorn
 date: '2019-01-26'
-slug: what-will-you-say-next
+slug: parts-of-speech-patterns
 tags:
   - prosody
 meta_img: /images/image.jpg
