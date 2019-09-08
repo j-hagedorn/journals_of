@@ -9,31 +9,37 @@ meta_img: /images/image.jpg
 ---
 
 ```{r libs, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
-knitr::opts_chunk$set(echo = FALSE,message=FALSE,warning=FALSE)
+knitr::opts_chunk$set(
+  echo=FALSE,message=FALSE,warning=FALSE,fig.width=6,fig.asp=0.618
+)
 library(tidyverse); library(gutenbergr); library(DT); library(sunburstR)
+library(showtext)
+font_add_google("Merriweather","merriweather")
 ```
 
 ### Caveat: 'We murder to dissect'
 
 Voice is both a center, pouring from a single mouth, and also an environment: surrounding, echoing, reverberating, jarring, saturating. Walter J. Ong writes that, immersed in our hearing, we "gather sound simultaneously from every direction at once; I am at the center of my auditory world, which envelopes me, establishing me at a kind of core of sensation and existence..."^[from Ong, Walter J. *Orality and Literacy: The Technologizing of the Word*. Routledge, 2013.]
 
-Ong cautions that writing turns speech into a static, constrained and coffined thing.  I can commiserate.  At times, feeling for a phrase, I have summoned sounds and nonsense words merely to detach words from the written characters to which they have been twined.  So it's strange that the honor he imparts to voice was echoing in my mind when I became intrigued the other day with parsing patterns of poetic sentences.
+Across his essays, Ong plumbs the turn toward written language, cautioning that writing turns speech into a static, constrained and coffined thing.  Even at a remove of thousands of years from that schism, I can commiserate.  At times, feeling for a phrase, I have summoned sounds and nonsense words merely to detach words from the written characters to which they have been twined.  So it's strange that the honor he imparts to the voice echoed in my mind when I sat down to tinker with parsing patterns of poetic sentences.
 
-Yet poetry is perhaps one of few places which bear investigation.  Ong opines that "[Rhythmically balanced, formulaic expressions] can be found occasionally in print but in oral cultures they...are incessant. They form the substance of thought itself."  Written poems are a late remnant of this music.
+Though I'm a bit biased, it seems that of any written speech, poetry especially bears investigation.  Ong opines that "[Rhythmically balanced, formulaic expressions] can be found occasionally in print but in oral cultures they...are incessant. They form the substance of thought itself."  Written poems are a late remnant of this music.
 
 ### Hopeful lepidopterists
 
-Written language is ubiquitous, despite the urgency that we acknowledge what we have lost in branching away from an oral culture.  And one of the things that written language can give us, with its static wings, is a preserved body to stare into, beyond the expiration of inter-personal awkwardness.
+Written language is everywhere, making it especially poignant to acknowledge what we' ha've lost in branching away from oral culture.  Yet it has much to love, and one of the things that written language can give us, with its static wings, is a preserved body to stare into: beyond the expiration of air and the inter-personal awkwardness of staring.
 
-Just as Ramon y Cahal segmented and sketch out neuronal cells, making drawings which were both accurate and lovely, we might sketch out the patterns of utterance: not to be useful, or to prove some theory, but merely to observe the unintentional patterns that a voice accumulates across the duration of its expeditions.
+Just as Ramon y Cahal segmented and sketch out neuronal cells, making drawings which were both accurate and lovely, we might sketch out the patterns of utterance: not to be useful or prove some theory, but merely to observe the unintentional patterns that a voice accumulates across the duration of its expeditions and mappings.
 
-We might even hold out hope that they continue to hold the sparks of personhood. As Coleridge proposes: "...if words are not THINGS, they are LIVING POWERS, by which the things of most importance to mankind are actuated, combined, and humanized."^[Coleridge, S.T. *Aids to Reflection*, ed. John Beer (1993), p. 10] 
+We might hold out hope that words, even set down, continue to hold the sparks of personhood. As Coleridge proposes: "...if words are not THINGS, they are LIVING POWERS, by which the things of most importance to mankind are actuated, combined, and humanized."^[Coleridge, S.T. *Aids to Reflection*, ed. John Beer (1993), p. 10] 
 
 ### Seeing the hinges of speech
 
-Nothing so ambitious is attempted here, though.  Just a sketch of the patterns lying latent in the collected works of some beloved companions.^[By doing this, I am perhaps proving Ong's point that "An oral culture simply does not deal in such items as geometrical figures, abstract categorization, formally logical reasoning processes, definitions, or even comprehensive descriptions, or articulated self-analysis, all of which derive not simply from thought itself but from text-formed thought."]
+Nothing so ambitious is going on here, though.  Just a sketch of the patterns lying latent in the collected works of some beloved companions.  Of course by doing this, I'm probably proving Ong's point that "An oral culture simply does not deal in such items as geometrical figures, abstract categorization, formally logical reasoning processes, definitions, or even comprehensive descriptions, or articulated self-analysis, all of which derive not simply from thought itself but from text-formed thought."
 
-The sunburst plot below resembles a flower's corolla, a liturgical fan, a geometric sun-flare.  Its petals are the unfolding sequential patterns of parts of speech^[The part-of-speech tagging in `cleanNLP` uses the [universal POS tags](https://universaldependencies.org/u/pos/index.html).  More detailed [Penn Treebank Project codes](https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html) are also available.]: those which follow each turn of a phrase, as signalled by a punctuation mark.^[We could also break up the pattern using sentences, line breaks or stanzas, but that will have to wait for another exploration.]  In the curled pause of a comma, at the hinge of a sentence, how does one coax the next thought?  Approaching the utterances of a poet as a compound mouth, pieced together out of all their works, we can ask what patterns accompany the summoning.
+The sunburst plot below resembles a flower's corolla, a liturgical fan, a geometric sun-flare.  Its petals are the unfolding sequential patterns of parts of speech^[The part-of-speech tagging in `cleanNLP` uses the [universal POS tags](https://universaldependencies.org/u/pos/index.html).  More detailed [Penn Treebank Project codes](https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html) are also available.]: those which follow each turn of a phrase, as signalled by a punctuation mark.^[We could also break up the pattern using sentences, line breaks or stanzas, but that will have to wait for another exploration.]  In the curled pause of a comma, at the hinge of a sentence, how does one coax the next thought?  Piecing together the collected utterances of a poet as a compound mouth, maybe we can catch a new angle of insight into what patterns accompany the summoning of a phrase.
+
+Here are all of the phrases from Milton's *Paradise Lost*.  Starting from the blank hole at the center and proceeding outward, one sees what percent of phrases follow which sequence of parts of speech:
 
 ```{r annotate_poets, eval=FALSE}
 library(cleanNLP)
@@ -67,9 +73,7 @@ milton <- feather::read_feather("../../static/data/milton.feather")
 keats <- feather::read_feather("../../static/data/keats.feather")
 ```
 
-
-```{r fig.cap= "POS sequences from Milton's Paradise Lost"}
-
+```{r fig.cap= "Part-of-speech sequences from Milton's Paradise Lost"}
 df <-
   milton %>%
   # Remove apostrophes
@@ -101,16 +105,16 @@ df %>%
   sunburst()
 
 # sund2b(df)
-
 ```
 
-In Milton's *Paradise Lost*, the most common patterns, if we move outward from the largest segments at the center, include: 
+In Milton's *Paradise Lost* the most common patterns, if we move outward from the largest segments at the center, include: 
 
 - `cconj-noun-adp`, from phrases such as "`r df %>% filter(str_detect(path,"^cconj-noun-adp")) %>% head(10) %>% .$phrase %>% paste(.,collapse = '", "')`"
 - `verb-det-noun`, found in phrases like "`r df %>% filter(str_detect(path,"^verb-det-noun")) %>% head(10) %>% .$phrase %>% paste(.,collapse = '", "')`"
 
+What if we look at a different poet's work?  Will it look obviously different, or does the form of the language itself (the ligaments of its connections) overwhelm any patterns peculiar to a single person?^[Is this an instance of the models we use (e.g. language) speaking louder than our individual voices, or a story about the inadequacy of models to describe the utterance of an individual riding its rules?  Are those stories the same one, with different narrators? ]  Here are the collected poems of Keats:
 
-```{r fig.cap = "POS sequences from Keats' selected poems"}
+```{r fig.cap = "Part-of-speech sequences from Keats' selected poems"}
 df <-
   keats %>%
   # Remove apostrophes
@@ -158,14 +162,125 @@ In Keats' poems the most common patterns, if we move outward from the largest se
 - `cconj-adp-det`, from phrases such as "`r df %>% filter(str_detect(path,"^cconj-adp-det")) %>% head(10) %>% .$phrase %>% paste(.,collapse = '", "')`"
 - `adp-det-adj-noun`, found in phrases like "`r df %>% filter(str_detect(path,"^adp-det-adj-noun")) %>% head(10) %>% .$phrase %>% paste(.,collapse = '", "')`"
 
----
+I'm tempted to find in these phrases something typically "Keatsian", and in the previous ones something "Miltonic", but minds are quick to latch onto a good story in the absence of evidence.  Nor do I think that there's anything particular like "evidence" for the phenomenon I'm interested in: personhood, and its manifestation in language.  That said, I do love patterns.  Reductive and lovely as they are, when they are made visible...
 
-In his afterword to *Museum*, Jorge Luis Borges speculates that all of the wanderings which a person makes eventually trace a recognizable shape:
+To get an inkling of whether there are patterns that are peculiar to one poet more than another, I did a little sequential association rule mining.^[This analysis uses the association rule mining package referenced in Hahsler M, et al. (2005a). *"arules – A Computational Environment for Mining Association Rules and Frequent Item Sets."* Journal of Statistical Software, 14(15), 1–25.]  With this approach, pattern sequences are scored using the following characteristics for each body of work (Milton & Keats):
 
-"A man sets out to draw the world.  As the years go by, he peoples a space with images of provinces, kingdoms, mountains, bays, ships, islands, fishes, rooms, instruments, stars, horses, and individuals.  A short time before he dies, he discovers that that patient labyrinth of lines traces the lineaments of his own face."^[Borges, J.L. *Collected Fictions*. trans. Andrew Hurley. New York: Penguin, 1998.]
+- *How common?*: Often referred to as the `support` for an associated bundle, this is the percentage of all times that this bundle of services occurred somewhere in a person's service history.
+- *Strength*: This is the strength of the association between the bundle of services. Specifically, it tells us what percent of the time that the service on the right hand side (or column) is provided if the service(s) on the left side are provided.
+- *How much more likely?*: Seeing the patterns on the left hand side makes it this many times more likely that we'll see the pattern on the right occur next. More specifically, it is the probability that we actually see the patterns in sequence compared to the probability that we would see them together if they were unrelated.  Technically, it's called `lift`.
 
-than I can accept that a footprint in the dust is equal to a foot. And yet the traces that we leave hold some remnant of us, I beyond our intentions and our desire to win a lasting memory.
+In the plot below, each dot stands for a rule/pattern which is found in both poets' work, using the `lift` measure described just above. The colors are based on differnce, so that yellow means "this pattern is pretty similar between both" and purple means "this pattern differs most between them".
 
-Is this an instance of the models we use (e.g. language) speaking louder than our individual voices, or a story about the inadequacy of models to describe the utterance of an individual riding its rules. 
+```{r fun_seq_rules}
+get_seq_rules <- function(df,support = 0.5,confidence = 0.5){
+  
+  library(tidyverse); library(arules); library(arulesSequences)
+  
+  seq_df <-
+    df %>%
+    # Remove apostrophes
+    filter(str_detect(word,"'") == F) %>%
+    mutate(
+      word = str_replace_all(word,"'",""),
+      sequenceID = cumsum(pos == ".") + 1
+    ) %>%
+    group_by(sequenceID) %>%
+    mutate(eventID = cumsum(upos == "PUNCT") + 1) %>%
+    filter(upos != "PUNCT") %>%
+    select(sequenceID,eventID,upos) %>%
+    group_by(sequenceID,eventID) %>%
+    summarize(
+      size = n(),
+      items = paste(tolower(upos), collapse = ";")
+    ) %>%
+    group_by(sequenceID) %>%
+    mutate(eventID = row_number()) %>%
+    distinct()
+  
+  # Convert to transaction matrix data type
+  write.table(
+    seq_df,file.path(tempdir(),"seq_df.txt"),
+    sep=";",row.names=F,col.names=F,quote = F
+  )
+  
+  baskets <- 
+    read_baskets(
+      file.path(tempdir(),"seq_df.txt"), sep = ";", 
+      info = c("sequenceID","eventID","size")
+    )
+  
+  # Get frequent sequences and corresponding support values
+  freq_seq <- 
+    cspade(
+      baskets, 
+      parameter = list(support = support), 
+      control = list(verbose = TRUE)
+    ) 
+  
+  rule_df <- 
+    ruleInduction(
+      freq_seq,
+      confidence = confidence,
+      control = list(verbose = T)
+    ) %>%
+    as("data.frame")
+  
+  return(rule_df)
+  
+}
+```
 
-And if the momentary accident of a single phrase can delight with a striking analogy, perhaps the accidental/unintentional patterns of phrasing over the course of one’s life may also carry some delight.
+```{r get_rules,include=FALSE}
+seq_rules_milton <- get_seq_rules(milton,0.5,0.5)
+seq_rules_keats <- get_seq_rules(keats,0.3,0.5)
+
+seq_rules_df <- 
+  seq_rules_milton %>%
+  full_join(seq_rules_keats, by = "rule") %>%
+  rename_at(vars(ends_with(".x")),list(~str_replace(.,".x$","_milton"))) %>%
+  rename_at(vars(ends_with(".y")),list(~str_replace(.,".y$","_keats")))
+
+rm(seq_rules_keats); rm(seq_rules_milton)
+```
+
+```{r rule_scatter,fig.showtext=TRUE,fig.retina=1}
+showtext_auto()
+
+seq_rules_df %>%
+  filter(complete.cases(.)) %>%
+  mutate(
+    difference = confidence_milton - confidence_keats,
+    some_labels = if_else(
+      percent_rank(difference) > 0.993,
+      rule,NA_character_
+    )
+  ) %>%
+  ggplot(
+    aes(
+      x = confidence_milton, y = confidence_keats, 
+      color = difference, label = some_labels
+    )
+  ) +
+  geom_point(alpha = 0.5) +
+  ggrepel::geom_label_repel(size = 3) +
+  scale_color_viridis_c(direction = -1) +
+  labs(
+    title = "Comparative part-of-speech sequencing",
+    subtitle = "If pattern X occurs, how many times more likely is pattern Y to come next...",
+    x = "...in Milton's 'Paradise Lost'?",
+    y = "...in Keats' collected poems?"
+  ) +
+  theme_minimal() +
+  theme(text=element_text(size = 8,family="merriweather"))
+
+# Open device to print with font
+# windows(); print(p); dev.off()
+```
+
+
+In the afterword to his collection *Museum*, Jorge Luis Borges speculates that all of the wanderings which a person makes eventually trace a recognizable shape:
+
+> "A man sets out to draw the world.  As the years go by, he peoples a space with images of provinces, kingdoms, mountains, bays, ships, islands, fishes, rooms, instruments, stars, horses, and individuals.  A short time before he dies, he discovers that that patient labyrinth of lines traces the lineaments of his own face."^[Borges, J.L. *Collected Fictions*. trans. Andrew Hurley. New York: Penguin, 1998.]
+
+A footprint in the dust is not equal to a foot. And yet the traces that we leave hold some remnant of us, beyond our intentions and our desire to trace any particular legacy.  And if the momentary accident of a single phrase can delight with a striking analogy, perhaps the accidental/unintentional patterns of phrasing over the course of one’s life may also spark some slight delight.
