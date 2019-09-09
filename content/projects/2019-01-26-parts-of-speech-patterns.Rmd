@@ -27,19 +27,19 @@ Though I'm a bit biased, it seems that of any written speech, poetry especially 
 
 ### Hopeful lepidopterists
 
-Written language is everywhere, making it especially poignant to acknowledge what we' ha've lost in branching away from oral culture.  Yet it has much to love, and one of the things that written language can give us, with its static wings, is a preserved body to stare into: beyond the expiration of air and the inter-personal awkwardness of staring.
+Written language is everywhere, making it especially poignant to acknowledge what we have lost in branching away from oral culture.  Yet there is much to love in it.  One of the things that written language can give us, with its static wings, is a preserved body to stare into: beyond the expiration of air and the inter-personal awkwardness of staring.
 
-Just as Ramon y Cahal segmented and sketch out neuronal cells, making drawings which were both accurate and lovely, we might sketch out the patterns of utterance: not to be useful or prove some theory, but merely to observe the unintentional patterns that a voice accumulates across the duration of its expeditions and mappings.
+Just as Ramon y Cahal segmented and sketched neuronal cells, yielding images which were both accurate and lovely, we might sketch out the patterns of utterance: not to be useful or prove some theory, but just to observe the unintentional patterns that a voice accumulates across  its expeditions.
 
-We might hold out hope that words, even set down, continue to hold the sparks of personhood. As Coleridge proposes: "...if words are not THINGS, they are LIVING POWERS, by which the things of most importance to mankind are actuated, combined, and humanized."^[Coleridge, S.T. *Aids to Reflection*, ed. John Beer (1993), p. 10] 
+We might hold out hope that words, even those committed to the page, continue to hold the sparks of personhood. As Coleridge proposes: "...if words are not THINGS, they are LIVING POWERS, by which the things of most importance to mankind are actuated, combined, and humanized."^[Coleridge, S.T. *Aids to Reflection*, ed. John Beer (1993), p. 10] 
 
 ### Seeing the hinges of speech
 
 Nothing so ambitious is going on here, though.  Just a sketch of the patterns lying latent in the collected works of some beloved companions.  Of course by doing this, I'm probably proving Ong's point that "An oral culture simply does not deal in such items as geometrical figures, abstract categorization, formally logical reasoning processes, definitions, or even comprehensive descriptions, or articulated self-analysis, all of which derive not simply from thought itself but from text-formed thought."
 
-The sunburst plot below resembles a flower's corolla, a liturgical fan, a geometric sun-flare.  Its petals are the unfolding sequential patterns of parts of speech^[The part-of-speech tagging in `cleanNLP` uses the [universal POS tags](https://universaldependencies.org/u/pos/index.html).  More detailed [Penn Treebank Project codes](https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html) are also available.]: those which follow each turn of a phrase, as signalled by a punctuation mark.^[We could also break up the pattern using sentences, line breaks or stanzas, but that will have to wait for another exploration.]  In the curled pause of a comma, at the hinge of a sentence, how does one coax the next thought?  Piecing together the collected utterances of a poet as a compound mouth, maybe we can catch a new angle of insight into what patterns accompany the summoning of a phrase.
+The sunburst plot (below) resembles a flower's corolla, a liturgical fan, a geometric sun-flare.  Its petals are the unfolding sequential patterns of parts of speech^[The part-of-speech tagging in `cleanNLP` uses the [universal POS tags](https://universaldependencies.org/u/pos/index.html).  More detailed [Penn Treebank Project codes](https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html) are also available.]: those which follow each turn of a phrase, as signalled by a punctuation mark.^[We could also break up the pattern using sentences, line breaks or stanzas, but that will have to wait for another exploration.]  In the curled pause of a comma, at the hinge of a sentence, how does one coax the next thought?  Piecing together the collected utterances of a poet as a compound mouth, maybe we can catch a new angle of insight into what patterns accompany the summoning of a phrase.
 
-Here are all of the phrases from Milton's *Paradise Lost*.  Starting from the blank hole at the center and proceeding outward, one sees what percent of phrases follow which sequence of parts of speech:
+Here are all of the phrases from Milton's *Paradise Lost*.  Starting from the blank hole at the center and proceeding outward, one can track the percent of phrases which fall into each part-of-speech sequence:^[I recognize that there are few people of either the literary or analytic bent who will likely want to read this, but for anyone interested in the code used to generate these visuals, see [the GitHub repo](https://github.com/j-hagedorn/journals_of/blob/master/content/projects/2019-01-26-parts-of-speech-patterns.Rmd)]
 
 ```{r annotate_poets, eval=FALSE}
 library(cleanNLP)
@@ -112,7 +112,7 @@ In Milton's *Paradise Lost* the most common patterns, if we move outward from th
 - `cconj-noun-adp`, from phrases such as "`r df %>% filter(str_detect(path,"^cconj-noun-adp")) %>% head(10) %>% .$phrase %>% paste(.,collapse = '", "')`"
 - `verb-det-noun`, found in phrases like "`r df %>% filter(str_detect(path,"^verb-det-noun")) %>% head(10) %>% .$phrase %>% paste(.,collapse = '", "')`"
 
-What if we look at a different poet's work?  Will it look obviously different, or does the form of the language itself (the ligaments of its connections) overwhelm any patterns peculiar to a single person?^[Is this an instance of the models we use (e.g. language) speaking louder than our individual voices, or a story about the inadequacy of models to describe the utterance of an individual riding its rules?  Are those stories the same one, with different narrators? ]  Here are the collected poems of Keats:
+What if we look at a different poet's work?  Will it look obviously different, or does the form necessitated by the language itself (the ligaments of its connections) overwhelm any patterns peculiar to a single person?^[Is this an instance of the models we use (e.g. language) speaking louder than our individual voices, or a story about the inadequacy of models to describe the utterance of an individual riding its rules?  Are those stories the same one, with different narrators? ]  Here are the collected poems of Keats:
 
 ```{r fig.cap = "Part-of-speech sequences from Keats' selected poems"}
 df <-
@@ -252,7 +252,7 @@ showtext_auto()
 seq_rules_df %>%
   filter(complete.cases(.)) %>%
   mutate(
-    difference = confidence_milton - confidence_keats,
+    difference = lift_milton - lift_keats,
     some_labels = if_else(
       percent_rank(difference) > 0.993,
       rule,NA_character_
@@ -260,7 +260,7 @@ seq_rules_df %>%
   ) %>%
   ggplot(
     aes(
-      x = confidence_milton, y = confidence_keats, 
+      x = lift_milton, y = lift_keats, 
       color = difference, label = some_labels
     )
   ) +
@@ -276,11 +276,10 @@ seq_rules_df %>%
   theme_minimal() +
   theme(text=element_text(size = 25,family="merriweather"))
 
-# Open device to print with font
-# windows(); print(p); dev.off()
+
 ```
 
-Not much yet for this introductory exploration.  We could pour in more poets, and include comparisons to instruction manuals, Audobon guides, religious texts, etc.  And with all this, any pattern found would still likely have only a tinny resonance.  
+Not much "aha!" for this introductory exploration.  We could pour in more poems, and include comparisons to instruction manuals, Audobon guides, religious texts, etc.  And with all this, any pattern found would still likely have only a tinny resonance in comparison to the poems themselves.  In addition to the aesthetic sublime, though, there is a mathematical one: one not necessarily tuned to the human ear or heart.  
 
 In the afterword to his collection *Museum*, Jorge Luis Borges speculates that all of the wanderings which a person makes eventually trace a recognizable shape:
 
