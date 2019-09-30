@@ -1,0 +1,58 @@
+---
+title: "A valley in the palm of your hands"
+author: J. Hagedorn
+date: '2019-09-12'
+slug: topography
+meta_img: /images/image.jpg
+---
+
+```{r, echo=FALSE}
+knitr::opts_chunk$set(echo = F,message = F,warning = F)
+library(rayshader); library(geoviz)
+```
+
+```{r}
+#Get elevation data from Mapzen
+dem <- 
+  mapzen_dem(
+    lat = 41.618540, 
+    long = 14.066357, 
+    square_km = 10, 
+    max_tiles = 30 # ~60 for a hi-res (but slower) image
+  )
+
+elev_matrix <- 
+  matrix(
+    raster::extract(dem, raster::extent(dem), method = 'bilinear'),
+    nrow = ncol(dem), ncol = nrow(dem)
+  ) 
+
+overlay <-
+  slippy_overlay(
+    dem,
+    image_source = "stamen",
+    image_type = "watercolor",
+    png_opacity = 0.3
+  )
+
+scene <- 
+  elev_matrix %>% 
+  sphere_shade(sunangle = 270, texture = "bw") %>%
+  add_overlay(overlay)
+
+rayshader::plot_3d(
+  scene, elev_matrix,
+  zscale = raster_zscale(dem),
+  solid = FALSE, #water = TRUE,
+  shadow = TRUE,
+  shadowdepth = -150
+)
+```
+
+
+```{r, eval=FALSE}
+library(plotly)
+plot_ly(z = ~elev_matrix) %>% add_surface()
+```
+
+
