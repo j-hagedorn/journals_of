@@ -13,13 +13,24 @@ lobsters_id: ''
 meta_img: /images/image.jpg
 ---
 
+```{r setup}
+knitr::opts_chunk$set(echo = F, dpi = 300)
+```
+
+
 Dataset used in [Miranda PJ, Baptista MS, de Souza Pinto SE (2018) The Odyssey’s mythological network. PLoS ONE 13(7): e0200703.](https://doi.org/10.1371/journal.pone.0200703), available [here](https://abdn.pure.elsevier.com/en/datasets/odysseys-mythological-network)
 
 ```{r load, message=FALSE, warning=FALSE}
-library(tidyverse); library(tidygraph)
+library(tidyverse); library(tidygraph); library(ggraph); library(magrittr)
 url <- "https://pure.abdn.ac.uk/ws/portalfiles/portal/126193001/Odyssey.txt"
+
 df <- read.delim(url,sep = "\ ",encoding = "latin1") %>% select(from = var1,to = var2)
-ntwk <- df %>% as_tbl_graph(directed = F) %>% activate(edges) %>% filter(!edge_is_multiple())
+
+ntwk <- 
+  df %>% 
+  as_tbl_graph(directed = F) %>% 
+  activate(edges) %>% 
+  filter(!edge_is_multiple())
 ```
 
 # Node metrics
@@ -103,9 +114,7 @@ ntwk %<>%
 
 Few visualizations seem more fitting for Greek myths than network diagrams; indeed, what pastime did the brds engage in night after night but connecting the dots of the cosmos into stories.  Now, we're unweaving a story into dots.
 
-```{r}
-library(ggraph)
-
+```{r layouts}
 layouts <- c('star','circle','gem','dh','graphopt','grid','mds','randomly','fr','kk','drl','lgl')
 
 ntwk_kk <- create_layout(ntwk, layout = "kk")
@@ -125,10 +134,38 @@ ntwk_mds  %>%
       size = betweenness
     )
   )  + 
-  scale_color_viridis(option = "A") +
-  geom_node_text(aes(label = keyplayer_name), repel = TRUE) +
+  scale_color_viridis(option = "A",direction = -1) +
+  geom_node_text(aes(label = keyplayer_name), repel = T) +
   theme_graph(base_family = "sans") + 
   theme(legend.position = "none")
+```
+
+```{r, fig.width=6,fig.height=6}
+ntwk %>%
+  ggraph() + 
+  geom_node_voronoi(
+    aes(fill = as.character(grp_louvain)), 
+    max.radius = .75, colour = 'white'
+  ) + 
+  geom_edge_link(alpha = 0.25) + 
+  geom_node_point(
+    aes(colour = as.character(grp_anneal)),
+    alpha = 0.5
+  ) +
+  scale_fill_viridis_d(option = "A") +
+  scale_color_viridis_d(option = "A") +
+  theme_void() + 
+  theme(legend.position = "none") 
+```
+
+
+```{r}
+ntwk %>%
+  ggraph('fabric', sort.by = node_rank_fabric()) + 
+  geom_node_range(aes(colour = as.character(grp_anneal)), alpha = 0.3) + 
+  geom_edge_span(end_shape = 'circle') + 
+  coord_fixed() + 
+  theme(legend.position = 'top')
 ```
 
 
@@ -136,11 +173,21 @@ ntwk_mds  %>%
 ```{r}
 ntwk %>% 
   ggraph(layout = "linear", circular = T) +
-  geom_edge_arc(alpha = 0.25) + 
+  geom_edge_arc(alpha = 0.15) +
+  geom_node_text(aes(label = keyplayer_name), repel = T) + 
   coord_fixed() +
   theme_graph()
 ```
 
+
+
+```{r eval=FALSE}
+df %>% 
+  as_tbl_graph(directed = T) %>%
+  ggraph(circular = T) +
+  geom_conn_bundle() +
+  theme_graph()
+```
 
 Making a network constellation of Greek mythical figures and characters seems fitting, given the hours the Greeks spent connecting the dots of stars.
 
@@ -154,7 +201,4 @@ Another instructive relationship to look at is Poseidon. In the network graph, P
 
 Because gods and goddesses are so often and body man of environmental and natural source, it makes sense that they would it not fit, or accurately be detected, in this framework. In studies of the relationship in structure between portions of the network and the marvel comics universe have shown that similarities, and in each of these what is being depicted is a power.
 
-```{r}
-
-```
 
