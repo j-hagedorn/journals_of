@@ -19,4 +19,4 @@ Doctor Who?
 St. Gregory says whatever subtle shades  
 our God did not take into Himself,  
 becoming human, would not be illumined.  
-And so he embracced it all.  
+And so he embraced it all.  

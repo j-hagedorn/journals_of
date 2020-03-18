@@ -21,7 +21,7 @@ which will undo you ___  ___
 ...  
 
 Tempered: as anger flaring from rigidity  
-yet also in that other sense
+yet also in that other sense  
 of durant strength obtained through fire
 
 Severe and yet you are undone  
