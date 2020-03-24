@@ -17,6 +17,6 @@ Doctor Who?
 ...  
 
 St. Gregory says whatever subtle shades  
-our God did not take into Himself,  
+God did not take into Himself,  
 becoming human, would not be illumined.  
 And so he embraced it all.  
