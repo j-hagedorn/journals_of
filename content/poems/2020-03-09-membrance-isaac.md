@@ -11,7 +11,7 @@ meta_img: /images/image.jpg
 Diligent apprentice of Reality, you rise  
 tree by tree, exercise by exercise,  
 not to master but to give  
-homage to earth with hands autochthonous:  
+homage to earth with earthen hands:  
 entering while remaining still, becoming home.  
 
 Never fastest of your child friends,  
@@ -24,10 +24,15 @@ To jettison oneself is not humility,
 you teach us, but to reach  
 deeper than hurt into the firmament  
 
-You delved (how deep is deep  
-enough?) until your hands bled iron,  
-until you found that justice ___  
-is the ground of mercy, seat  
-of those who taste the sun.  
+You delved until your fingers bled  
+iron, and found a body lying  
+coiled in the roots of justice  
+and crimson grove of mercy, seat  
+of all who taste the sun.  
 
-Friend of beasts, 
+Perhaps the ground forgets us, and forgives.  
+
+There is a garden in you.  
+All the wandering elements settle in  
+
+you, unmovable humus of another world.  
