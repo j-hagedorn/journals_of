@@ -30,7 +30,7 @@ coiled in the roots of justice
 and crimson grove of mercy, seat  
 of all who taste the sun.  
 
-Perhaps the ground forgets us, and forgives.  
+Perhaps the ground forgets our missteps.  
 
 There is a garden in you.  
 All the wandering elements settle in  
