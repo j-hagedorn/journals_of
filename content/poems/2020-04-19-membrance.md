@@ -48,18 +48,46 @@ a visitor of rank. He waited until his mind was calm and undisturbed, and then b
 
 Forgiveness lets us view 
 each other in an ever-opening light, a grace
-
+limber to 
 
 The world in its infinitude cannot be held.
 
 Fractals are infinite.  They cannot 'exist'  
 until one zooms.
 
-I stare at your infinitely beautiful face before you wake.
-The freckles multiplying
+I stare at your infinite face before you wake.
+The freckles stippling
 
 It is only as you touch me, I am created.
 
 cf. "you take away your hand and all things are troubled"
 
 
+---
+
+memor > remembrer > remember
+membrum > desmembrer > dismember
+
+Remembering has its opposite in dismembering
+To remember is to join some greater body, rolling serpentine through time,
+
+Forgetfulness guards against atrophy, allows for growth
+
+"One who has perfected... the twin arts of remembering and forgetting is in a position to play at battledore and shuttlecock with the whole of existence."^[Bretall, R. W., Kierkegaard, S. (1959). A Kierkegaard Anthology. NY: Modern Library.]
+
+---
+
+Inconceivable, that even forgetfulness has its coordinates
+exquisite precision each excision
+shares the lineaments of the world, 
+its painstaking cross-hatching and edges
+
+Reality remembers everything.
+
+The snowflake's spoke expanding to a globe 
+in a leaf's palm, reflecting a branch,
+a convex sky, my hungry & forgetful eyes.
+
+Each atom pulsing through each blessed hair 
+upon my son's exhausted head.  Each taste within the throat  
+will be recollected.
