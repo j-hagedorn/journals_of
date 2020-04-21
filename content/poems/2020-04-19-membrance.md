@@ -79,15 +79,80 @@ Forgetfulness guards against atrophy, allows for growth
 
 Inconceivable, that even forgetfulness has its coordinates
 exquisite precision each excision
-shares the lineaments of the world, 
+mirrors the lineaments of the world, 
 its painstaking cross-hatching and edges
 
 Reality remembers everything.
 
 The snowflake's spoke expanding to a globe 
-in a leaf's palm, reflecting a branch,
-a convex sky, my hungry & forgetful eyes.
+in a leaf's palm, reflecting a knobbed branch,
+a convex sky, my color-hungry & -forgetful eyes.
 
 Each atom pulsing through each blessed hair 
 upon my son's exhausted head.  Each taste within the throat  
 will be recollected.
+
+Nothing is lost.  
+No pain or joy or mundane morning.
+
+Each of our goings, spacious and precise
+
+Recalled, as in some naming of the beasts
+which greets each fermion and boson, each 
+moment gliding light across our yard, 
+across each leaf, across each nerve
+and corresponding mind
+of moth or squirrel or cardinal
+
+
+---
+
+Clogged with material and minute history, 
+how does Reality haul
+its cumbrous mass into the next moment's frame?
+How does it thread the red-winged
+blackbird through the thicket yet again?  
+
+Newness is the oldest thing it does.
+
+Time seethes through the spaces in the forest,
+making each creature new unto the moment
+as always, 
+
+ancient as the nimble days 
+we imitate.
+
+*if you would enter...become like little children*
+
+braiding its moments (criss-cross-applesauce)
+
+
+holding with stuttering hands
+threads whose source we cannot trace,
+innumerable old themes
+
+...like the theme of limits within the limitless.
+
+The narrow path tracing a ridge
+which staggers both ways to immensity.
+
+The scant expanse of frequencies
+which brushes our perception, bewildered
+as a peak into luminescent clouds
+
+*and I will put you in a cleft of rock and I will cover you*
+
+The elegant footprint of a theorem amid
+the sprawling instances which it explains,
+purports to explain. 
+
+The theme is an ascetic one,
+of growing thinner that Reality may thicken.
+
+It says the more precipituous our foothold 
+the greater our view,
+
+Perspective requires that we cannot touch. 
+
+
+
