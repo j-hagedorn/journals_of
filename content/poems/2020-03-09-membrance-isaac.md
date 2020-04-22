@@ -36,8 +36,9 @@ We want to think our failings
 by being hidden, are __ undone
 as I want to believe that my failings have not harmed you
 
-it is not so, but a greater miracle occurs.
-you face me again with
+it is not so, but nevertheless
+our machinations rust under wildflowers,
+you face me again today with
 resolute kindness
 
 I ask only to be permitted to live with you a little longer
