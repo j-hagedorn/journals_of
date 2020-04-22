@@ -26,13 +26,34 @@ deeper than hurt into the firmament
 
 You delved until your fingers bled  
 iron, and found a body lying  
-coiled in the roots of justice  
-and crimson grove of mercy, seat  
+coiled in the roots of justice,  
+the crimson grove of mercy, seat  
 of all who taste the sun.  
 
-Perhaps the ground forgets our missteps.  
+Perhaps the ground forgets our missteps. 
+
+We want to think our failings  
+by being hidden, are __ undone
+as I want to believe that my failings have not harmed you
+
+it is not so, but a greater miracle occurs.
+you face me again with
+resolute kindness
+
+I ask only to be permitted to live with you a little longer
+
+You, firstborn child, made our striving  
+into a place
+
+I am only beginning to understand, and never want to leave
+
+I will knock down the gates of heaven if it means I can stay.
+
 
 There is a garden in you.  
-All the wandering elements settle in  
+All the wandering elements drift in  
+settle
+you, unmovable soil of another world.  
 
-you, unmovable humus of another world.  
+Wolves roll and bare their bellies
+for you
