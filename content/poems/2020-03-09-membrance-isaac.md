@@ -44,7 +44,7 @@ even forgiveness.  I only ask
 to dwell here still a space.
 
 You, firstborn child, made our striving  
-into a place
+into a place.  
 
 the kind of dream of paradise which nations go to war to attain
 
@@ -60,3 +60,8 @@ you, unmovable soil of another world.
 
 Wolves roll and bare their bellies
 to your hand
+
+you number the beasts with mythic
+accuracy: 100, 10,000, vermilion.
+
+[literal and littoral] 
