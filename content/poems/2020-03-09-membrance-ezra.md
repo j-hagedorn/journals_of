@@ -44,10 +44,9 @@ the space that stone will occupy.
 
 Others may gather there 
 
-let the space of that mystery yourself be a conduit to love
-sheltering openness
-
-Scouring all but what is needed  
+let the space of that mystery yourself be a conduit 
+to Love, that sheltering immensity  
+scouring all but what is needed:  
 
 the mind as empty of judgment  
 as the lungs full of breath.  
