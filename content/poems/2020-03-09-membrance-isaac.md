@@ -26,12 +26,9 @@ is not humility.  Instead, to reach
 deeper than hurt into the firmament  
 
 You delved until your fingers bled  
-iron, and found a body lying  
-coiled in the roots of justice,  
-the crimson grove of mercy, seat  
-of all who taste the sun.  
+iron, deeper than justice into mercy.  
 
-Perhaps the ground forgets our missteps. 
+Perhaps the ground forgets our missteps.   
 We want to think our failings  
 by being hidden, are somehow undone.    
 
@@ -41,13 +38,12 @@ and daily you greet my merest
 tries with resolute kindness, firm yielding,  
 even forgiveness.  I only ask 
 
-to dwell here still a space.
+to dwell here still a space.  
 You, firstborn child, made our striving  
 into an actual place.  I awake,  
 and I am still with you,  
-only beginning to understand
-
-why nations war over a patch of soil.
+only beginning to comprehend armies
+bleeding over a patch of soil.
 
 I will knock down the gates of heaven if it means I can stay.
 
