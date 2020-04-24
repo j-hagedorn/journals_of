@@ -37,18 +37,17 @@ by being hidden, are somehow undone.
 
 It is not so. And yet  
 our machinations rust under wildflowers,  
-and you daily greet my merest  
+and daily you greet my merest  
 tries with resolute kindness, firm yielding,  
 even forgiveness.  I only ask 
 
 to dwell here still a space.
-
 You, firstborn child, made our striving  
-into a place.  
+into an actual place.  I awake,  
+and I am still with you,  
+only beginning to understand
 
-the kind of dream of paradise which nations go to war to attain
-
-I am only beginning to understand, and never want to leave
+why nations war over a patch of soil.
 
 I will knock down the gates of heaven if it means I can stay.
 
@@ -62,6 +61,7 @@ Wolves roll and bare their bellies
 to your hand
 
 you number the beasts with mythic
-accuracy: 100, 10,000, vermilion.
+accuracy: a thousand and one,  
+ten-thousand, vermillion.
 
 [literal and littoral] 
