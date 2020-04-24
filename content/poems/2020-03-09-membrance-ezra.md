@@ -33,8 +33,7 @@ A vulnerable grin you sometimes shine,
 galloping with children on your back.  
 
 You will allow the various world  
-to meet in your soul's cove,  
-that nexus of ___ and ___  
+to meet in your soul's cove  
 which image or alphabet cannot inscribe.  
 
 When time is full Reality will place  
@@ -43,4 +42,12 @@ lapped in tidal syllables,
 a truer name.  Until then, hold  
 the space that stone will occupy.  
 
-Others will gather there  
+Others may gather there 
+
+let the space of that mystery yourself be a conduit to love
+sheltering openness
+
+Scouring all but what is needed  
+
+the mind as empty of judgment  
+as the lungs full of breath.  
