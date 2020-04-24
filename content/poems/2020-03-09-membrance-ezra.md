@@ -6,9 +6,9 @@ slug: membrance-ezra
 meta_img: /images/image.jpg
 ---
 
-
 *to Ezra, holding a scroll which reads:*  
-
+*In whose hand is the soul of every living*  
+*thing, and the breath of all mankind.*  
 
 You sensed that meaning was aligned  
 to love, and searched our smiles  
@@ -42,10 +42,9 @@ lapped in tidal syllables,
 a truer name.  Until then, hold  
 the space that stone will occupy.  
 
-Others may gather there 
-
-let the space of that mystery yourself be a conduit 
-to Love, that sheltering immensity  
+Others may gather round an openness.  
+Let those unknown reaches of yourself  
+lead into Love, that sheltering immensity  
 scouring all but what is needed:  
 
 the mind as empty of judgment  
