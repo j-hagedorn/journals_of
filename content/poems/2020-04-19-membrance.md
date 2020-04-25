@@ -7,24 +7,24 @@ meta_img: /images/image.jpg
 ---
 
 
-Forgetfulness is part of the design.
+Forgetfulness is part of the design:
+allows for lightness: lacunae in the  
+mind, as air in bird-bones:  
 
-It allows for lightness
-
-so that time's gradient texture leans
-softer into sight
+materials attain, through Time's texture 
+entrance into my gradient sight
 
 as whispered portions of a sketch, made voluble 
-by revisitation,
-by dwelling among.
+by revisitation, dwelling among.
 
-Forgetting loosens the edges of a too-taut 
+Forgetting softens the forms of a too-taut 
 
 else we would carry sheaves
 of puzzle pieces which could not fit 
 except the gridlocked space we found them.
 
-Overfit, meaning that which fits only in the single place it is, immobile.
+*Overfitted*, meaning that which aligns only  
+with the single place it is, immobile.  
 
 No resemblance.  No analogy.  No hope.
 
@@ -44,7 +44,6 @@ would seat himself at a clean table, by a bright window, burning incense to righ
 would choose the finest brushes, the most exquisite ink; wash his hands, and clean 
 the ink-stone, as though he were expecting 
 a visitor of rank. He waited until his mind was calm and undisturbed, and then began."^[The painter's son, quoted by Arthur Waley in "Chinese Philosophy of Art-IV" in Burlington Magazine, vol. xxxviii, No. ccxviii, p. 247 in Jenyns, Soame. A Background to Chinese Painting. New York: Schocken Books, 1966, p. 134]
-
 
 Forgiveness lets us view 
 each other in an ever-opening light, a grace
@@ -71,7 +70,7 @@ membrum > desmembrer > dismember
 Remembering has its opposite in dismembering
 To remember is to join some greater body, rolling serpentine through time,
 
-Forgetfulness guards against atrophy, allows for growth
+Forgetfulness guards against atrophy, fosters growth
 
 "One who has perfected... the twin arts of remembering and forgetting is in a position to play at battledore and shuttlecock with the whole of existence."^[Bretall, R. W., Kierkegaard, S. (1959). A Kierkegaard Anthology. NY: Modern Library.]
 
