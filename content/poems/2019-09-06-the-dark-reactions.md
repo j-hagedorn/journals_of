@@ -11,8 +11,7 @@ meta_img: /images/image.jpg
 
 ---
 
-I carry sleep 
-within me 
+I carry sleep within me 
 like a lake,
 just here,
 
@@ -37,7 +36,9 @@ lapis lazuli, the footstool
 of the heavens 
 of the mind
 
-All the fears come out like stones.
+Thrusting hands into ocean-cold dreams,  
+all the fears come out like stones.
+
 Round, the size of hands.
 Already losing their color and roar.
 
