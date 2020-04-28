@@ -29,11 +29,11 @@ You delved until your fingers bled
 iron, deeper than justice into mercy.  
 
 Perhaps the ground forgets our missteps.   
-We want to think our failings  
-by being hidden, are somehow undone.    
+We want to think 
+our failings, being hidden, were undone.    
 
 It is not so. And yet  
-our machinations rust under wildflowers,  
+our machinations rust in wildflower patches,  
 and daily you greet my merest  
 tries with resolute kindness, firm yielding,  
 even forgiveness.  I only ask 
@@ -42,10 +42,11 @@ to dwell here still a space.
 You, firstborn child, made our striving  
 into an actual place.  I awake,  
 and I am still with you,  
-only beginning to comprehend armies
-bleeding over a patch of soil.
 
-I will knock down the gates of heaven if it means I can stay.
+only beginning to fathom how  
+armies bleed over a precious place.
+
+I will batter down the gates of Eden if it means I can stay.
 
 
 There is a garden in you.  
@@ -56,8 +57,8 @@ you, immovable soil of another world.
 Wolves roll and bare their bellies
 to your hand
 
-you number the beasts with mythic
-accuracy: a thousand and one,  
+you number beasts 
+with mythic accuracy: a thousand and one,  
 ten-thousand, vermillion.
 
 [literal and littoral] 
