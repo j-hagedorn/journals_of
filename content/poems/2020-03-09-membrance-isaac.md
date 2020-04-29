@@ -27,7 +27,6 @@ deeper than hurt into the firmament
 
 You delved until your fingers bled  
 iron, deeper than justice into mercy.  
-
 Perhaps the ground forgets.  We wish  
 our failings, being hidden, were undone.    
 
