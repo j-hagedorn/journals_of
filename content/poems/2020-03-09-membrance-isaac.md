@@ -40,11 +40,11 @@ even forgiveness.  I only ask
 to dwell here still a space.  
 You, firstborn child, made our striving  
 into an actual place.  I awake,  
-and I am still with you,  
+and I am still with you  
 
-only beginning to fathom how  
-the sacred places all belong to other worlds
-the only things ours is blood in the ground.
+beginning to fathom how the sacred  
+places do not belong to us,  
+only our blood in the ground.  
 
 There is a garden in you.  
 The wandering elements drift and float  
