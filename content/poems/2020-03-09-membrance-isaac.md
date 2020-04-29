@@ -44,12 +44,12 @@ and I am still with you
 
 beginning to fathom how the sacred  
 places do not belong to us,  
-only our blood in the ground.  
+even our blood in the ground.  
 
 There is a garden in you.  
 The wandering elements drift and float  
 over a low wall, resting beside  
-you, immovable soil of other earths.  
+you, solid soil of other earths.  
 
 The black wolf rolls and bares  
 his famished belly to your hand.
