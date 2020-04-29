@@ -43,20 +43,19 @@ into an actual place.  I awake,
 and I am still with you,  
 
 only beginning to fathom how  
-the sacred places have blood in the ground.
+the sacred places all belong to other worlds
+the only things ours is blood in the ground.
 
 There is a garden in you.  
-All the wandering elements drift in  
-settle
-you, immovable soil of another world.  
+The wandering elements drift and float  
+over a low wall, resting beside  
+you, immovable soil of other earths.  
 
 The black wolf rolls and bares  
 his famished belly to your hand.
 
-Go and number beasts 
+Nurture verdure.  Go and number beasts 
 with mythic accuracy: a thousand and one,  
-ten-thousand, vermillion.
 
-Mingle the fact with the truth.
-
-Beckon us home.
+ten-thousand, vermillion.  Mingle the fact  
+with the truth.  Make us home.  
