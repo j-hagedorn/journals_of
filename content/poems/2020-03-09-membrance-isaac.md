@@ -53,7 +53,7 @@ you, solid soil of other earths.
 The black wolf rolls and bares  
 his famished belly to your hand.
 
-Nurture verdure.  Go and number beasts 
+Nurture verdure.  Go and number beasts  
 with mythic accuracy: a thousand and one,  
 
 ten-thousand, vermillion.  Mingle the fact  
