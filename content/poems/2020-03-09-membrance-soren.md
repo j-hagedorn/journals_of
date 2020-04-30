@@ -16,7 +16,7 @@ of light and dark and inbetween
 Wary connoisseur of pain and flavor:  
 Beauty wounds, you apprehend in it  
 the nearest tip of an immensity  
-which will undo you ___  ___
+which will sever you from yourself.  
 
 ...  
 
@@ -39,11 +39,11 @@ the coldest meteors above, our God
 draws near you, infinite and intimate.  
 
 Fire and crystal fuse your soul,  
-a salt which coaxes  
-savour out of all it touches.  
+a salt bloom which coaxes  
+savour into all it touches.  
 
 In a world numb with measure,  
-yours will be the tangled shadings,  
+yours will be the dancing shadings,  
 taste of ___ and ____ ___
 
 the crook in the divining rod  
