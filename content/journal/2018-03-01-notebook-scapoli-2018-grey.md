@@ -444,6 +444,288 @@ We are nourished by reality because it is substantial.  When we attend to oursel
 
 ---
 
+For all the accomplishments, predictions,
+inventions of science - by itself,
+it still leaves the world hollow if. “we murder to dissect”
+
+The fact becomes amputated 
+from the living reality
+
+This is // to the medieval view 
+of sin, as a veil which keeps
+us from reality
 
 ---
+
+Peregrination
+    {our home is afar
+&
+    {our hope is @ our feet
+
+    How I hold to your body 
+    Like a raft, a coffin sized ARK.
+
+---
+
+Now there is nothing but away
+
+Each moment dissipates
+As soon as breath inflates the lungs,
+As color flourishes (fractures in) the eye,
+It inhabits that desiccated world of distance & desire
+
+Of flowers locked in birds or books
+In hope or memory
+………………
+ no… a presence that overflows the present,
+That spills into past & future
+
+---
+
+cf . Agirrezabal, “ Machine learning for metrical analysis” where the author states that,
+In poetry, precision of meaning/denotation is often ‘sacrificed’ for sonic, rhythmic considerations.
+
+
+All words have an apophatic distance from what they refer to
+    Thus complete accuracy is impossible
+        & in fact the more accurate a language is (e.g. in engineering specs.) 
+        The less ‘meaningful’ people find it. 
+
+---
+In writing anything that has meaning (ie. that resounds within the person), 
+precision cannot be the sole consideration.
+
+Precision is akin to justice, ‘lex talionis’ (weighing each work in the balance) --
+Yet words are inadequate to capture the actual world (‘chair’, ‘leaves’, etc),
+As they are to capture theological truths (‘God”, etc.)
+
+So, for any understanding, for any dialogue, there must be trust, grace
+    And for us to extend grace we must feel safe, feel seen
+
+---
+
+At the basis of all communication,
+All poetry,
+Is love, the union of persons.
+
+(thus no pattern recognition or machine-generated stanzas will ever be sufficient)
+
+
+
+If recognition was only possible when we were recognized, diminishing returns would lead us all to be isolated. 
+
+---
+
+In order for me to listen
+        (to enter communion) 
+I must feel that
+    You see me
+    We are going somewhere
+
+Communication (requires) → trust→ recognition→ …
+    (what supports /nourishes our ability to recognize , to see another person…)
+    Either mutual recognition → recognition
+    Or some external source → greater love, ie. God, or reservoir from others. 
+
+---
+
+Compare, for example, two scenarios:
+Conversaion @ortofrutta in italian where I don’t speak the language
+Thread regarding political beliefs on FB.
+
+In both cases it is not possible for an exhaustive/exact communication because I lack adequate language, or use a different language (in a different sense in A or B)
+
+However, recipients of my feeble communication can choose to fill in the gaps of my meaning with trust or with suspicion. 
+
+
+---
+
+
+Tonight again I sit with my feet on the table 
+Carving off the hard scallop of the soles,
+Tasting of travel & want
+
+________________________
+
+The taste at the boundary 
+Of the small-starred penumbra
+My perception 
+Is blood, is iron & warm river
+My blood, & now yours
+You who reach your hand under
+My sky & beckon
+
+---
+
+These clouds
+
+    The Meditteranean hoisting 
+    Itself up
+    Wave by wave
+    In mist to travel 
+    Across the mountains
+
+---
+
+Overheard:
+“Everything is going to change the world”
+
+_______________________
+
+The way light plays in the eye
+It is hard to see:
+Is the valley folding 
+Or unfolding?
+
+---
+
+Carving lungfulls of air
+Out of the soft stone
+A hammer at a time
+(how much effort it is to chisel out space for a single breath)
+
+Whose names are writ on shifting sounds 
+Systems of air. 
+
+---
+For days made of decades 
+Seconds stitches w/ centuries
+Men have been piling up stones 
+Into houses, spires
+
+Rubbing objects against other objects,
+Making marks
+
+Their mastery is lost & their mistakes are lost
+In an obscure avg. (shuffling dust)
+
+Pressing with fingers, with shells &
+The jaws of beasts - 
+Afternoons spent pressing intricate
+Patterns into clay.
+
+---
+
+Protective glass crazing,
+Eroding slowly around
+The ancient urns
+
+Should one grudge the painter his
+    Attention to each stroke
+    Describing the garments curves
+    & bunches, the details
+    Which would disappear quick
+    As the model stood? 
+Grudge me these lines 
+And if we say we draw an 
+Idea (which is a  pattern matter follows), 
+Is it any less evanescent? 
+
+---
+
+Carved stones out of the
+Space of their own hunger
+Out of a desire to exist
+
+_________
+
+?{ take names of famous 
+    People & rearrange to 
+    Make a poem about 
+    Inaccessible  -- death}
+
+---
+
+
+Holding objects to the light
+    Such as themselves…
+___
+
+We make straight lines 
+Because what is round reminds 
+Us we erode, prefigures death
+___
+
+To plant some thought
+Some fragrant fragment
+In your memory
+    (remember me)
+But if it tastes of me, it will
+Not be true, will pull you back gravid earthward
+        To stone
+
+---
+
+As if they took 
+A chisel to write
+Kept carving until
+A cavern into a cathedral
+___
+
+We see death around us
+& we want to bury
+Ourselves in others 
+Before they bury us 
+In dirt.
+
+---
+
+It pours & pours
+There is no time to lose
+    Only to bathe in
+
+---
+
+If birds have wings there has to be
+ another place
+If birds have wings the has to be 
+    Somewhere else
+If birds fly the air holds us
+    & us
+Please please please
+
+They dreamed of people
+
+Sprouting wings pouring from their pores
+& Then of angels 
+Then of heaven
+
+---
+
+to rewind a drop of rain
+perfectly
+to reduce oneself into
+
+its shuddering journey back
+into the cloud
+
+"A man cannot go back into his mothers womb" - Nicodemus
+
+---
+
+How you would cup the mind
+in your hands
+
+If one could rewind just one raindrop
+reduce me perfectly into
+a shuddering journey back
+to mist
+
+---
+
+There are estimates for how much space would be needed to fit all of humanity, shoulder to shoulder.
+
+I may have found the perfect place, in Basilicata's rainswept plains.
+Between the wind turbines, the mouldering villas.
+We could just lie down there, let the Spring taste our toil.
+
+---
+
+Sheep, with their blonde, scummy shocks of wool.  Like hairshirts.
+
+---
+
+
+
+
 
