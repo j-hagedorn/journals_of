@@ -86,7 +86,7 @@ or writing a poem.
 
 "He who is unable to live in society, or has no need... must either be a beast or a god." - Arist.
 
-Nietszche's idea that "every specific body strives to become master over all space and to extend its force... and to thrust back all that resists its extension" des not actually describe the human organism: it describes a cancer.  The modern idea of the Individual Self is a cancer - it ends in entropy and loneliness.
+Nietszche's idea that "every specific body strives to become master over all space and to extend its force... and to thrust back all that resists its extension" does not actually describe the human organism: it describes a cancer.  The modern idea of the Individual Self is a cancer - it ends in entropy and loneliness.
 
 ---
 
@@ -424,7 +424,7 @@ Not the voice saying "Come and find my meaning", but "Come and play with me in t
 
 *The body is... a apart of man's very nature.*  - Augustine, CD, ch. 13
 
-*So material a difference does it make, not what ills are suffered, but what kind of man suffers them.  For, stirred up with the saem movement, mud exhales a horrible stench & ointment emits a fragrant odor.* - Aug, CD, Ch. 8
+*So material a difference does it make, not what ills are suffered, but what kind of man suffers them.  For, stirred up with the same movement, mud exhales a horrible stench & ointment emits a fragrant odor.* - Aug, CD, Ch. 8
 
 *The poor-spirited fear which prompts us to choose rather to live long in fear of so many deaths, than to die once...* - Aug, CD, Ch. 11
 
