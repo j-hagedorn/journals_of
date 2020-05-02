@@ -17,20 +17,17 @@ too latched in sequence.
 ---
 
 Nothing is in  
-the simple dark  
-but shapes
-of contact, body-against-sheet:
 
 jagged, crinkled swerves
 striations and dots
+a blind map
 
-dark archipelago
-inhabited perception
+this inhabited perception
 which loves contour
 yet never enters
 
 adjacent, meaning to throw
-symbol, meaning
+symbol, meaning to throw
 
 whether the edges
 are adjacent to emptiness of fulnesse
@@ -47,7 +44,7 @@ waterskin flat, ignorant of stars.
 
 No stars in the room, yet
 
-pointillism of remembered, embered sight
+pointillism of an embered sight
 
 which shows that all I ever see
 
@@ -55,31 +52,29 @@ is a miasmal wall
 
 retina shimmered with reflections
 
-Supine, the dome above
-the rim my sight
-
+The dome above my gazing
 is a sunken bowl,
-inverted valley of my skull
+inverted valley of a skull
 
 You can walk through the same stream once
 and when you do, it is the sky
 
-Shut eyes, I unmoor
-the fossiled shore of sights,
+---
+
+Unmoor the fossiled  
+shore of sights,
 palimpsest of shadow, veins of light
 
-peridot,
-rorshach forest,
-port torches,
-neon ferns,
+peridot, rorshach forest,
 cobalt of star charts,
-lapis lazuli, the footstool 
+neon ferns, port torches,
+lapis lazuli, footstool 
 of the heavens 
 of the mind
 
 Thrust a hand into ocean-cold dreams,  
 
-Each fears emerges like a stone.
+Each fear emerges like a stone.
 
 Round, hand-sized, having lost  
 already its color and roar.
@@ -88,8 +83,12 @@ Tears cleanse
 skin's salted bed
 with crystal
 
-the inborn shape you thought to make
-is gone, though you may still become
+The inborn shape  
+you thought to make
+
+is gone, though you 
+may still become
+
 obedient to gravity and love
 
 ---
