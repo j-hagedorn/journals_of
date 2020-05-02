@@ -17,8 +17,11 @@ too latched in sequence.
 ---
 
 Nothing is in  
+the simple dark
 
-jagged, crinkled swerves
+except shapes
+of contact, body-to-sheet:
+
 striations and dots
 a blind map
 
