@@ -45,7 +45,7 @@ the retina retains:
 
 the constellated Dome  
 a sunken bowl,
-inverted caldera of my skull.
+inverted caldera of our skull.
 
 You can walk through the same stream once
 and when you do, it is the sky
