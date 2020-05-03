@@ -23,45 +23,31 @@ A simple dark.
 Only the shapes  
 of touch, body-to-sheet.
 
-Knee, heel...
+Knee, heel, cheek,  
 
 striations and dots:  
 a blind map
 
-of perception which loves  
-contour yet never enters
+flat as within  
+the water's skin,  
+as ignorant of stars.  
 
 ---
 
-adjacent, meaning to throw
-symbol, meaning to throw
+I carry day in me.  
+A buzzing pointillism:  
 
-whether the edges
-are adjacent to emptiness of fulnesse
+embers of remembered  
+sights. All I have seen  
 
-(some greater watching)
+is a miasmal wall,  
+the retina retains:  
 
-whether my contours
-are archipelagoes 
-or lakes with growling banks
+the constellated dome  
+a sunken bowl,
+inverted caldera of my skull.
 
-waterskin flat, ignorant of stars.
-
----
-
-No stars in the room, yet
-
-pointillism of an embered sight
-
-which shows that all I ever see
-
-is a miasmal wall
-
-retina shimmered with reflections
-
-The dome above my gazing
-is a sunken bowl,
-inverted valley of a skull
+Lights embossed upon us.
 
 You can walk through the same stream once
 and when you do, it is the sky
@@ -79,7 +65,7 @@ lapis lazuli, footstool
 of the heavens 
 of the mind
 
-Thrust a hand into ocean-cold dreams,  
+Into ocean-cold dreams, reach:  
 
 Each fear emerges like a stone.
 
@@ -108,7 +94,19 @@ you clamber
 down or up
 matters not
 
+---
 
+adjacent, meaning to throw
+symbol, meaning to throw
+
+whether the edges
+are adjacent to emptiness of fulnesse
+
+(some greater watching)
+
+whether my contours
+are archipelagoes 
+or lakes with growling banks
 
 ---
 
