@@ -9,25 +9,29 @@ meta_img: /images/image.jpg
 
 
 I carry sleep in me.  
-A lake, just here,  
+A lake, just here
+
+beneath the eye:  
+a vial of milk  
 
 to wash what's too clean,  
 too latched in sequence.  
 
 ---
 
-Nothing is in  
-the simple dark
+A simple dark.  
+Only the shapes  
+of touch, body-to-sheet.
 
-except shapes
-of contact, body-to-sheet:
+Knee, heel...
 
-striations and dots
+striations and dots:  
 a blind map
 
-this inhabited perception
-which loves contour
-yet never enters
+of perception which loves  
+contour yet never enters
+
+---
 
 adjacent, meaning to throw
 symbol, meaning to throw
