@@ -43,20 +43,19 @@ sights. All I have seen
 is a miasmal wall,  
 the retina retains:  
 
-the constellated dome  
+the constellated Dome  
 a sunken bowl,
 inverted caldera of my skull.
-
-Lights embossed upon us.
 
 You can walk through the same stream once
 and when you do, it is the sky
 
 ---
 
-Unmoor the fossiled  
-shore of sights,
-palimpsest of shadow, veins of light
+Fossils of light  
+embossed upon us.
+
+Unmoor, abseil  
 
 peridot, rorshach forest,
 cobalt of star charts,
