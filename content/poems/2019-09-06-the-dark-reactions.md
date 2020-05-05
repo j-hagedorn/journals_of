@@ -14,62 +14,84 @@ A lake, just here
 beneath the eye:  
 a vial of milk  
 
-to wash what's too clean,  
-too latched in sequence.  
+to wash whatever is  
+too clean, too  
+latched in sequence.  
 
 ---
 
 A simple dark.  
 Only the shapes  
-of touch, body-to-sheet.
+of touch, outlined  
 
-Knee, heel, cheek,  
+body to sheet.  
+Knee, heel, cheek.  
 
-striations and dots:  
+Striations and dots:  
 a blind map
 
 flat as within  
-the water's skin,  
-as ignorant of stars.  
+the water's skin.  
+Ignorant of stars.  
 
 ---
 
-I carry day in me.  
+I carry days in me.  
 A buzzing pointillism:  
 
 embers of remembered  
 sights. All I have seen  
 
-is a miasmal wall,  
+is a miasmal wall  
 the retina retains:  
 
 the constellated Dome  
-a sunken bowl,
-inverted caldera of our skull.
+reflected in 
 
-You can walk through the same stream once
+a sunken bowl,  
+caldera of the skull.
+
+---
+
+You can walk through the same stream once  
 and when you do, it is the sky
 
 ---
 
+Press your palms  
+against your eyes.  
+
 Fossils of light  
-embossed upon us.
+embossed in us.
 
-Unmoor, abseil  
+Abseil there  
+through peridot,  
 
-peridot, rorshach forest,
-cobalt of star charts,
-neon ferns, port torches,
-lapis lazuli, footstool 
-of the heavens 
-of the mind
+a rorshach forest  
+of tesselated ferns,  
 
-Into ocean-cold dreams, reach:  
+ascend cobalt star charts:  
+*Lapis lazuli*, footstool  
 
-Each fear emerges like a stone.
+of the heavens  
+of the mind.  
 
-Round, hand-sized, having lost  
-already its color and roar.
+Unfasten the rungs  
+of reason once  
+you clamber 
+
+down or up  
+matters not.  
+
+---
+
+Into ocean-cold  
+dreams, reach: each fear  
+
+or lust emerges like a stone.  
+Hand-sized, having lost  
+
+color and roar.
 
 Tears cleanse
 skin's salted bed
@@ -86,12 +108,6 @@ obedient to gravity and love
 ---
 
 "think of your soul as knowing nothing" - St. Isaac, Fourth Discourse, 50.
-
-unfasten the rungs
-of reason once
-you clamber
-down or up
-matters not
 
 ---
 
