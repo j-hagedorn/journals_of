@@ -18,7 +18,7 @@ to wash whatever is
 too clean, too  
 latched in sequence.  
 
----
+⁕  ⁕  ⁕  
 
 A simple dark--  
 Only the shapes  
@@ -34,7 +34,7 @@ flat as within
 the water's skin.  
 Ignorant of stars.  
 
----
+⁕  ⁕  ⁕  
 
 I carry days in me.  
 A buzzing pointillism:  
@@ -51,7 +51,7 @@ reflected in
 a sunken bowl,  
 caldera of the skull  
 
----
+⁕  ⁕  ⁕  
 
 Into ocean-cold  
 dreams, reach:  
@@ -71,12 +71,12 @@ may still become
 obedient  
 to gravity and love  
 
----
+⁕  ⁕  ⁕  
 
 You can walk through the same stream once  
 and when you do, it is the sky
 
----
+⁕  ⁕  ⁕  
 
 *Think of your soul*  
 *as knowing nothing*  
