@@ -20,7 +20,7 @@ latched in sequence.
 
 ---
 
-A simple dark.  
+A simple dark--  
 Only the shapes  
 of touch, outlined  
 
@@ -49,7 +49,27 @@ the constellated Dome
 reflected in 
 
 a sunken bowl,  
-caldera of the skull.
+caldera of the skull  
+
+---
+
+Into ocean-cold  
+dreams, reach:  
+
+each fear or lust  
+emerges like a stone.  
+
+Hand-sized, having lost  
+color and roar.  
+
+The inborn shape  
+you thought to make  
+
+is gone, though you  
+may still become  
+
+obedient  
+to gravity and love  
 
 ---
 
@@ -57,6 +77,10 @@ You can walk through the same stream once
 and when you do, it is the sky
 
 ---
+
+*Think of your soul*  
+*as knowing nothing*  
+says St. Isaac.  
 
 Press your palms  
 against your eyes.  
@@ -83,47 +107,6 @@ you clamber
 down or up  
 matters not.  
 
----
-
-Into ocean-cold  
-dreams, reach: each fear  
-
-or lust emerges like a stone.  
-Hand-sized, having lost  
-
-color and roar.
-
-Tears cleanse
-skin's salted bed
-with crystal
-
-The inborn shape  
-you thought to make
-
-is gone, though you 
-may still become
-
-obedient to gravity and love
-
----
-
-"think of your soul as knowing nothing" - St. Isaac, Fourth Discourse, 50.
-
----
-
-adjacent, meaning to throw
-symbol, meaning to throw
-
-whether the edges
-are adjacent to emptiness of fulnesse
-
-(some greater watching)
-
-whether my contours
-are archipelagoes 
-or lakes with growling banks
-
----
 
 
 
