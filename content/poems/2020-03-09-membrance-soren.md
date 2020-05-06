@@ -19,8 +19,6 @@ Beauty wounds, you apprehend in it
 the nearest tip of an immensity  
 which will sever you from yourself.  
 
-...  
-
 Tempered: as anger flaring from rigidity  
 yet also in that other sense  
 of durant strength obtained through flame.  
@@ -40,9 +38,15 @@ the coldest meteors above, Reality
 (He of light and seeming darkness)  
 draws you, infinite and intimate.  
 
+Wound in the yellow celestial round  
+of daily orbits, your serenic smile  
+brightens the ordinary orrery,  
+
+God-breathed-and-breathing-child.  
+
 Fire and crystal fuse your soul,  
-a salt bloom which coaxes  
-savour into all it touches.  
+a salt bloom which coaxes savour  
+into all it touches.  Share yourself.  
 
 In a world numb with measure,  
 yours will be the dancing shades,  
