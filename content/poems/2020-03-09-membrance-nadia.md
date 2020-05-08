@@ -35,9 +35,13 @@ you weave the rooms and us together with
 your song, a river whispering nourishment
 
 as one performs the consequential act
-for which she came to earth
+for which she came to earth.
 
 ...
+
+as you sit beneath the birch conversing
+
+
 
 as dreams pace the shores of our days
 
@@ -45,8 +49,8 @@ as dreams pace the shores of our days
 
 In any lovely thing we make,
 we accept constraints
-and what we make is lovelier
-for having strained
+and what we make is lovelier,
+brimming with love, for having strained
 
 The river would not be infinite  
 without its banks.
