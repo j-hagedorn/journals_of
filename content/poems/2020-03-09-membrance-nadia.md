@@ -15,29 +15,33 @@ meta_img: /images/image.jpg
 More beautiful because you don't suspect,  
 You search our lively world and let  
 your rainbow face alight in cornices  
-of each emotion.  Goofball.  Tristessa. Principessa.  
-Doctor Who?  
-
-...  
+of each emotion: goofball, tristessa, principessa.  
 
 St. Gregory says whatever subtle shades  
-God did not take into Himself,  
-becoming human, would not be illumined.  
-And so he embraced it all.  
+and shapes God takes, becoming human,  
+are illumined.  And he embraces all.  
+
+The river in its infinite shifts  
+makes every face
 
 ...
 
-Only girl within this raucous house
-you wander solitary through the rooms
+Sole girl within this raucous house  
+you circulate, tracing a lilting line  
+between solitary and social, one:many
 
-wistful, almost absent-minded
+With wistful joy for the imagined  
+world in the midst of making
+
 as one performs the consequential act
-for which they came to earth
+for which she came to earth
 
-you weave the rooms and us together with your songs
-a river whispering, nourishment
+you weave the rooms and us together with  
+your song, a river whispering nourishment
 
+...
 
+as dreams pace the shores of our days
 
 ...  
 
@@ -48,3 +52,7 @@ for having strained
 
 The river would not be infinite  
 without its banks.
+
+
+...
+
