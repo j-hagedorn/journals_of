@@ -10,8 +10,6 @@ meta_img: /images/image.jpg
 *I am poured out like water*  
 
 
-...
-
 More beautiful because you don't suspect,  
 You search our lively world and let  
 your rainbow face alight in cornices  
@@ -22,7 +20,7 @@ and shapes God takes, becoming human,
 are illumined.  And he embraces all.  
 
 The river in its infinite shifts  
-makes every face
+makes every face.
 
 ...
 
@@ -33,11 +31,11 @@ between solitary and social, one:many
 With wistful joy for the imagined  
 world in the midst of making
 
-as one performs the consequential act
-for which she came to earth
-
 you weave the rooms and us together with  
 your song, a river whispering nourishment
+
+as one performs the consequential act
+for which she came to earth
 
 ...
 
