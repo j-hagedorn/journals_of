@@ -725,7 +725,126 @@ Sheep, with their blonde, scummy shocks of wool.  Like hairshirts.
 
 ---
 
+*After conversation with Caleb*
 
+If we say that 'art wounds' and 'nature heals', a question worth asking is 'wounds what?' or 'heals what?'  If we say that nature heals the psyche/soul, we should also acknowledge that in many cases it maims, kills, digests.  If we respond that Nature is an unbroken fabric and that Death is its needle, then it is barely worth saying anything about either Art or Nature and we should merely let the moss grow over our lips.  
 
+The distinction of art *vs.* nature also assumes that humans sit outside of one or both of these.  That we are ourselves somehow 'not nature' and that our art is categorically different than the birds-of-paradise who gather colorful bric-a-brac into mosaics for their nuptial nests.  It also assumes that we are not somehow the unfolding tapestry of an inscrutable Creator.  After all, perhaps the anguish, toil and joy of our life's work is not ore or less than the flourish at the tip of a single letter in a calligrapher's book.
+
+If by 'art' we mean more broadly 'artifice' (i.e. anything made), then there are fights to pick with manufacturing, tech, and other making which seeks to consolidate power and resources more than to communicate.  In these cases, I would argue that the 'wound' is not from the artifice but from the ego.  And not merely that there IS an ego at all (i.e. a center of a self), but that the ratio of one ego to others becomes drastically lopsided, e.g. in cases where an ecosystem is bankrupted to pad a few execs' bank accounts, or where the basest emotions of a population are stoked to increase user engagement of social media.
+
+Certainly there are artists who have had outsized egos (many), but htrowing away art with the bathwater isn't fitting.  In fact, I'd say that a narcissist artist who merely gestures toward their own feelings and who does not nourish something equally great in a listener, is hardly a good artist at all-- precisely because they are not tapping into the healing power of (what you are perhaps calling) nature.
+
+Of course I think that there are many times Art can be healing and not rely on the 'Lyric I' or a Romantic version of the Self at all.  I think of landscape painters and haiku writers, whose selves bow to the patterns of nature and/or language -- which is to say, of their materials.
+
+---
+
+Palimpsest: Russians setting up icons in a Baroque Roman church built upon an Egyptian temple.
+
+the walls may be different  
+the dome, the pillars,  
+but the only ground  
+is contingency
+
+(thus any building "on top" ca only last if it is an uncovering--of some more fundamental arms we rest in--something True)
+
+---
+
+Lamentations Service at Chiesa de S. Stefano diCacco,
+built over a temple to Isis and Serapis
+
+Building/hallowing a place atop an older temple
+
+A kind of homage, a fulfillment  
+an acknowledgement that we are   
+all contingent, all leaning toward  
+an empty wall (the stage's dark front)  
+hoping to be met there, to be filled.  
+
+---
+
+Each morning the trash picked up,  
+chalk on the street from yesterday's drawings,  
+sun reaching again into the cornices of monuments, friezes.
+
+Shopkeepers scrubbing the stone doorways (enter, enter)  
+
+Smoke rising in a column of sun  
+singing with mournful hope
+
+enough to pull green through stalk  
+enough to fill a stone with warm  
+
+---
+
+Morning before Pascha, metro into Rome
+
+"I look for the resurrection of the dead"
+
+Pollen sifting up among the ruins.
+
+The supposedly dead not as bureaucracy but companions.
+
+---
+
+In church, perahps any community, there are all personalities present:  
+dour, expansive, fastidious, effusive, timid, suspicious, dramatic, joking, anxious...)
+
+All persons.
+
+There will always be a child clattering to act,  
+a prent following in sheepish terror to quiet them,  
+an old man staring in routine disapproval,  
+a priest smiling with amusement,
+the deacon with hunched lip, bent on rules because they are his only source of beauty and power,  
+the well-trimmed man for whom perfection is a precipice one walks carefully upon  
+
+We are held together by these differences  
+reactions of one to the other are the flow, the interplay of our internal lives
+
+---
+
+We think to defeat desire by satiating it, but it is flame.
+
+The only way to defeat desire is to be rid of fear.
+
+---
+
+The rush of Holy Week toward Pascha--  
+time rushes as the heart beats--  
+in desire, in fear, two kindred emotions  
+racing toward the event  
+which will extinguish them.
+
+---
+
+Poem: Newton's notebooks containing alternative ides a/b gravity
+
+Poem sequence adding to these...
+
+---
+
+Maxwell talks about his equations as discovering that there is no empty space unfilled by the Creator's energy.
+
+---
+
+In my beginning was your face, C.  
+(No matter that you weren't born)  
+like the everlasting land I keep  
+setting out toward
+
+---
+
+If we say that language tinges ideas,  
+
+it is because thought is dialogic,  
+is meant in its phrasing among our neurons  
+to be shared  
+
+Even interior thought (cf. Psalms' "O my Soul")  
+is a dialogue & must take the form of an orbit  
+around 2 focii
+
+---
 
 
