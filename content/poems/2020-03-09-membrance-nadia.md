@@ -20,41 +20,32 @@ and shapes God takes, becoming human,
 are illumined.  And he embraces all.  
 
 The river in its infinite shifts  
-makes every face.
-
-...
+makes every face, each fleeting crease.  
 
 Sole girl within this raucous house  
-you circulate, tracing a lilting line  
-between solitary and social, one:many
+you trace a lilting line between  
+solitary and social, one and many.  
 
-With wistful joy for the imagined  
-world in the midst of making
+You circulate, you weave the rooms  
+and all of us together with  
+your song.  A river whispering nourishment  
 
-you weave the rooms and us together with  
-your song, a river whispering nourishment
+as one performs the consequential act  
+for which she came to earth.  
 
-as one performs the consequential act
-for which she came to earth.
+You sit beneath the birch conversing  
+with wistful joy for the imagined  
+world in the midst of making.  
 
-...
+Dreams pace the shores, our days.  
 
-as you sit beneath the birch conversing
-
-
-
-as dreams pace the shores of our days
-
-...  
-
-In any lovely thing we make,
-we accept constraints
-and what we make is lovelier,
-brimming with love, for having strained
+In any lovely thing we make,  
+we accept constraints  
+and what we make is lovelier,  
+brimming with love, for having strained.  
 
 The river would not be infinite  
-without its banks.
+without its banks.  Bounding beyond,  
 
-
-...
-
+you overflow your narrow bones  
+curling like fire, colored with sky.  
