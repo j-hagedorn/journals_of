@@ -5,6 +5,7 @@
 .Renviron
 *.pdf
 *.zip
+*.pdf
 /public/*
 /blogdown/*
 *_cache*
