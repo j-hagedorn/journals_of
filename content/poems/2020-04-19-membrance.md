@@ -12,25 +12,40 @@ Forgetfulness is part of the design:
 allows for lightness: lacunae in the  
 mind, as air in bird-bones:  
 
-how materials attain, through Time's texture  
-entrance into my gradient sight  
+How materials attain, through Time's slow  
+texture, entrance into my gradient sight  
 
-as whispered portions of a sketch, made voluble  
-by revisitation, dwelling among.  
+as whispered portions of a sketch  
+made voluble by revisitation, dwelling among.  
+
+⁕  ⁕  ⁕  
 
 Forgetting softens the too-taut forms  
-else we would carry sheaves  
+of what is irreplaceable
 
-of puzzle pieces which could not fit  
-except the gridlocked space we found them.  
+(Elderly dating in nursing homes; Barthes 'science of the individual')
 
-*Overfit*, meaning that which aligns only  
+A planetary museum, pieces which fit  
+the base of only one shadow.  
+
+*Overfit*, meaning that which aligns merely  
 with the single place it is, immobile.  
 
 No resemblance.  No analogy.  No hope.  
 Each only thing itself continual alone.  
 
-/ / / / / / /
+⁕  ⁕  ⁕  
+
+But if we are glimpsed with forgetfulness, are we touched?  
+The forgetful algorithms run their fingers over our faces all day and night.
+
+Roll us into an abstraction.  
+
+I want to leave a clear hole, precise and laser-cut.
+But the world keeps poring in, and inattention.
+Even I cannot say quite where I am, even now.
+
+⁕  ⁕  ⁕  
 
 Arise O God, compose the earth  
 with emptiness, with epiphanies, great plains  
@@ -75,22 +90,30 @@ It is only as you touch me, I am created.
 
 *You take away your hand and all things are troubled*
 
+⁕  ⁕  ⁕  
 
-/ / / / / / /
+Remembering has its opposite in dismembering.  
+To remember is to fasten ones'  
 
-Remembering has its opposite in dismembering
-To remember is to join some greater body, rolling serpentine through time,
+dust to the body of Reality,  
+a single scale or mossy flank
+
+as it winds
+rolling serpentine through time,
 
 Forgetfulness guards against atrophy, fosters growth
 
+⁕  ⁕  ⁕  
+
 "One who has perfected... the twin arts of remembering and forgetting is in a position to play at battledore and shuttlecock with the whole of existence."^[Bretall, R. W., Kierkegaard, S. (1959). A Kierkegaard Anthology. NY: Modern Library.]
 
-/ / / / / / /
+⁕  ⁕  ⁕  
 
-Inconceivable, that even forgetfulness has its coordinates
-exquisite precision each excision
-mirrors the lineaments of the world, 
-its painstaking cross-hatching and edges
+Inconceivable, that even forgetfulness has coordinates.  
+The exquisite precision of each excision  
+
+parallels the lineaments of the world,  
+its painstaking cross-hatching and edges.
 
 Reality remembers everything.
 
@@ -113,7 +136,7 @@ across each leaf, across each nerve
 and corresponding mind
 of moth or squirrel or cardinal
 
-/ / / / / / /  
+⁕  ⁕  ⁕  
 
 Clogged with material and minute history,  
 how does Reality haul  
