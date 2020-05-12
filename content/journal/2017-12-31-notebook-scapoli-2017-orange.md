@@ -370,15 +370,11 @@ Always to be in > 1 place.
 
 If we contrast Odysseus w/ Aeneas' quest:
 
-              \
 Odysseus      ->    Closed-ended (To Penelope)
-              /
-              
-              /
+
 Aeneas        ->    Open-ended
-              \
-              
-Cassandra & I       Closer together, into the open
+
+Cassandra & I ->    Closer together, into the open
 
 "Within the flames are spirits; each one here
 enfolds himself in what burns him."
