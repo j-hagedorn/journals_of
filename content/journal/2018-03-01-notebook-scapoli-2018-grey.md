@@ -462,8 +462,8 @@ Peregrination
 &
     {our hope is @ our feet
 
-    How I hold to your body 
-    Like a raft, a coffin sized ARK.
+  How I hold to your body 
+  Like a raft, a coffin sized ARK.
 
 ---
 
@@ -559,11 +559,11 @@ My sky & beckon
 
 These clouds
 
-    The Meditteranean hoisting 
-    Itself up
-    Wave by wave
-    In mist to travel 
-    Across the mountains
+The Meditteranean hoisting 
+Itself up
+Wave by wave
+In mist to travel 
+Across the mountains
 
 ---
 
@@ -746,7 +746,7 @@ the dome, the pillars,
 but the only ground  
 is contingency
 
-(thus any building "on top" ca only last if it is an uncovering--of some more fundamental arms we rest in--something True)
+(thus any building "on top" can only last if it is an uncovering--of some more fundamental arms we rest in--something True)
 
 ---
 
@@ -847,4 +847,44 @@ around 2 focii
 
 ---
 
+THe mental model with which we too typically describe communication, especially in organizations (or any 'practical' field of application), rests too exclusively on a mechanistic description (I will not say, "understanding").  We have allowed a simple picture to enter our minds, similar to the elegantly simple diagrams of Claude Shannon when he was working at Bell Labs:
 
+sender -> signal -> receiver
+
+and we have allowed this to enter our thinking as an apt analogy for communication between people, when the correct word (even the one Shannon uses) may be transmission.
+
+In this view, the sender has the *Ur*-message, treated as true because it is the reference, and the message must arrive at the receipient through a medium.
+
+This view tends to treat the sender as a source of truth, merely because his utterance comes first-- because it is the reference for the content which is communicated.
+
+For a certain few, very important messages, this emphasis on meticulously decoding and preserving the intent of a single speaker's thoughts (through the madcap journey across a gamut of obscuring words, media, etc.) may be worth it.  To isolate and observe these with precision, as though the words of a god.  
+
+However, in the world of collaboration, of making together, this view of communication can thwart relationships and momentum.
+
+What often happens in communication is that receiver rephrases or voices a sketch of their understanding of the original message, and then revises that sketch based on feedback/confirmation from the source.
+
+This is necessary for communication with any degree of complexity, except for the most basic (e.g. "pick up that ball with your left hand").
+
+Thus, any situation where >=2 people are making something together (a family, a paper, a chair) requires iterative communication.
+
+(NOTE that at any step in the cycle something is at stake, and can go horribly right or wonderfully wrong... hurt feelings, assumptions, flashes of insight, revisions... Success requires sticking with the person, not with the idea.)
+
+a.k.a. dialogue, which is how we have made meaning since times immemorial.  In fact, dialogue is so ingrained in us that when we require unidirectional communication such as an order/command, we understand this to mean that we are being treated as a resource and not as a choosing/thinking PERSON.
+
+(The case of asynchronous, written language is actually the oddball here, whether in the form of novels or e-mail, and retains the hard edges which dialogue seeks to sculpt through iteration.  This is one reason why poetry aims at multivalence and fecundity of meaning... and why e-mails seem harsh and require emoji)
+
+THe only place where 1-directional communication seems to work out well is in situations where people might die or be hurt.  War, injury, etc.  In this case, my need to be understood and seen can take a temporary backseat to my need to exist at all (note that this is only temporary, cf. Tzvetan Todorov, in 'Life in Common').
+
+War, it barely needs noting, is an activity devoted primarily to destruction and survival, and is thus a different type of activity than the collaborative building we engage in constructing a home or a product.
+
+Also worth noting that communication in a chain of command *requires* a common language without wiggle room, cf. Army seating plans.  I.e. there is a shared context (war) and a shared jargon built in.
+
+In novel situation, where a new design or analysis is being undertaken, this shared context doesn't exist unless it is developed from the ground up.  This is why lovers have idiosyncratic language and communication, and why introducing a new person to a work project mid-way is difficult and requires starting over in some ways.
+
+In these cases, the language must be re-taught, re-explained, and in the process re-developed because it is so newly minted.
+
+Another thing worth noting about the mechanistic view of communication is that it assumes the speaker does not want to revise his/her original words, and that the act of dialogue and clarification does not yield new hues and colors to the original message which was communicated.
+
+This toppling of the 'omniscient' author breathes fresh air into reading/ideas, but seldom makes it into work life because of the frail facade of authority and infallibility that goes along with hierarchical power structure, where ones 'place' is naively conferred to connote the value of one's opinions.
+
+(The things we make are not just the product of a single act and intent, but of multiple touches and intentions from us and those we live among)
