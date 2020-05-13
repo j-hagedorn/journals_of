@@ -53,10 +53,13 @@ with emptiness, with epiphanies, great plains
 and γ-aminobutyric acid: says the Prophet,  
 *You brought me out into spaciousness*:  
 
+⁕  ⁕  ⁕  
+
 We walk, as through a scroll  
 of Kuo Hsi, through excruciating resolutions  
 
-peeking out from zones of fog.
+peeking out from zones of fog,  
+seeking out a place to rest.
 
 The painter would seat himself beside
 
@@ -66,11 +69,12 @@ with incense burning, rinse his hands
 and inkstone, select the deepest inks,  
 as if awaiting a visitor of rank:  
 
-"On days when he was going to paint... 
-would seat himself at a clean table, by a bright window, burning incense to right and left... 
-would choose the finest brushes, the most exquisite ink; wash his hands, and clean 
-the ink-stone, as though he were expecting 
-a visitor of rank. He waited until his mind was calm and undisturbed, and then began."^[The painter's son, quoted in Jenyns, Soame. A Background to Chinese Painting. New York: Schocken Books, 1966, p. 134]
+having waited for his mind to clear,
+he began to paint the spaces,
+
+sometimes with water, sometimes in air.
+
+⁕  ⁕  ⁕  
 
 Forgiveness lets us view each other  
 in an ever-opening light, a grace
@@ -98,8 +102,7 @@ To remember is to fasten ones'
 dust to the body of Reality,  
 a single scale or mossy flank
 
-as it winds
-rolling serpentine through time,
+as it oxbows through time, leviathan,
 
 Forgetfulness guards against atrophy, fosters growth
 
@@ -109,31 +112,41 @@ Forgetfulness guards against atrophy, fosters growth
 
 ⁕  ⁕  ⁕  
 
-Inconceivable, that even forgetfulness has coordinates.  
-The exquisite precision of each excision  
+Forgetfulness comes, bearing its inconceivable coordinates.  
 
-parallels the lineaments of the world,  
+Exquisite precision of each thing lost  
+whose intricate outline is equally lost 
+
+having traced among the world's lineaments,  
 its painstaking cross-hatching and edges.
 
 Reality remembers everything.
 
 The snowflake's spoke expanding to a globe 
 in a leaf's palm, reflecting a knobbed branch,
-a convex sky, my color-hungry & -forgetful eyes.
+a convex sky,  
+my color-hungry & -forgetful eyes.
 
 Each nutrient through each blessed hair 
-upon my son's exhausted head.  Each taste within the throat  
+upon my son's exhausted head.  
+
+The smell of his blue blanket.
+
+Each taste within the throat  
 will be recollected.
 
 Nothing is lost.  
 No pain or joy or mundane morning.
 
 Each of our goings, spacious and precise,  
-Recalled, as in some naming of the beasts
+
+recalled, as in some naming of the beasts
 which greets each fermion and boson, each 
+
 moment gliding light across our yard, 
 across each leaf, across each nerve
-and corresponding mind
+
+in corresponding minds
 of moth or squirrel or cardinal
 
 ⁕  ⁕  ⁕  
