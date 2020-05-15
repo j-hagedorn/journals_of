@@ -23,7 +23,7 @@ made voluble by revisitation, dwelling among.
 Forgetting softens the too-taut forms  
 of what is irreplaceable
 
-(Elderly dating in nursing homes; Barthes 'science of the individual')
+(Elderly dating in nursing homes; Barthes' 'science of the individual')
 
 A planetary museum, pieces which fit  
 the base of only one shadow.  
@@ -48,7 +48,7 @@ Even I cannot say quite where I am, even now.
 ⁕  ⁕  ⁕  
 
 Arise O God, compose the earth  
-with emptiness, with epiphanies, great plains  
+with emptiness, epiphanies, with great plains  
 
 and γ-aminobutyric acid: says the Prophet,  
 *You brought me out into spaciousness*:  
@@ -70,7 +70,7 @@ and inkstone, select the deepest inks,
 as if awaiting a visitor of rank:  
 
 having waited for his mind to clear,
-he began to paint the spaces,
+he began to paint those spaces,
 
 sometimes with water, sometimes in air.
 
@@ -85,6 +85,8 @@ The world in its infinitude cannot be held.
 Fractals may be infinite, yet can't 'exist'  
 til one approaches them.
 
+It is the approach which makes the infinite, uncovers it.
+
 I stare into your infinite face  
 some Saturday mornings, before you wake.
 
@@ -97,11 +99,11 @@ It is only as you touch me, I am created.
 ⁕  ⁕  ⁕  
 
 Remembering has its opposite in dismembering.  
+
 To remember is to fasten ones'  
-
 dust to the body of Reality,  
-a single scale or mossy flank
 
+a single scale or mossy flank
 as it oxbows through time, leviathan,
 
 Forgetfulness guards against atrophy, fosters growth
@@ -114,30 +116,29 @@ Forgetfulness guards against atrophy, fosters growth
 
 Forgetfulness comes, bearing its inconceivable coordinates.  
 
-Exquisite precision of each thing lost  
+The exquisite precision of objects lost  
 whose intricate outline is equally lost 
 
-having traced among the world's lineaments,  
-its painstaking cross-hatching and edges.
+having traced from the world's lineaments  
+their painstaking cross-hatching and edges.
 
 Reality remembers everything.
 
-The snowflake's spoke expanding to a globe 
-in a leaf's palm, reflecting a knobbed branch,
-a convex sky,  
+The snowflake's spoke melted to globe 
+in a tree's green hand, reflecting 
+a knobbed branch, a convex sky,  
 my color-hungry & -forgetful eyes.
 
 Each nutrient through each blessed hair 
 upon my son's exhausted head.  
-
 The smell of his blue blanket.
 
 Each taste within the throat  
 will be recollected.
 
 Nothing is lost.  
-No pain or joy or mundane morning.
 
+No mundane joy or consequential pain.
 Each of our goings, spacious and precise,  
 
 recalled, as in some naming of the beasts
@@ -146,48 +147,44 @@ which greets each fermion and boson, each
 moment gliding light across our yard, 
 across each leaf, across each nerve
 
-in corresponding minds
+cell in corresponding minds
 of moth or squirrel or cardinal
 
 ⁕  ⁕  ⁕  
 
-Clogged with material and minute history,  
-how does Reality haul  
-its cumbrous mass into the next moment's frame?  
+Clogged with material, how does Reality  
+haul into the waiting moment's frame?  
 
 How does it thread the red-winged  
 blackbird through the thicket yet again?  
 
 Newness is the oldest thing it does.  
 
+*If you would enter...become as children.*
+
 Time seethes through the forest gaps,  
 making each creature new as ever  
 
 up to the very moment: ancient  
-as the nimble days we imitate.  
+as the nimble days we imitate:  
 
-*if you would enter...become like little children*
+braiding with small hands the threads  
+we cannot follow back, old themes  
 
-braiding its moments (criss-cross-applesauce)
+of...  
+of limits within the limitless:
 
+the narrow path tracing a ridge  
+which veers each way into immensity,  
 
-braiding with small hands
-threads whose source we cannot trace,  
-innumerable old themes
-
-...like the theme of limits within the limitless.
-
-The narrow path tracing a ridge  
-which veers both ways into immensity.  
-
-The scant expanse of frequencies  
-which brushes our perception, bewildered  
-as a peak into luminescent clouds  
+the scant expanse of frequencies  
+which our perceptions brush, bewildered  
+as a peak through noctilucent clouds,  
 
 *and I will put you in a cleft of rock and I will cover you*
 
-The elegant footprint of a theorem amid
-the sprawling instances which it explains,  
+the elegant footprint of a theorem amid
+those sprawling instances which it explains,  
 purports to explain.  
 
 The theme is an ascetic one,
