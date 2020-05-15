@@ -181,11 +181,11 @@ the scant expanse of frequencies
 which our perceptions brush, bewildered  
 as a peak through noctilucent clouds,  
 
-*and I will put you in a cleft of rock and I will cover you*
-
 the elegant footprint of a theorem amid
 those sprawling instances which it explains,  
-purports to explain.  
+purports to explain.  *I will put*  
+
+*you in a cleft of rock and cover you*
 
 The theme is an ascetic one,
 of growing thinner that Reality may thicken.
