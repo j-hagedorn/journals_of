@@ -41,7 +41,7 @@ The forgetful algorithms run their fingers over our faces all day and night.
 
 Roll us into an abstraction.  
 
-I want to leave a clear hole, precise and laser-cut.
+I want to leave a clear hole, laser-cut.
 But the world keeps poring in, and inattention.
 Even I cannot say quite where I am, even now.
 
@@ -77,7 +77,7 @@ sometimes with water, sometimes in air.
 ⁕  ⁕  ⁕  
 
 Forgiveness lets us view each other  
-in an ever-opening light, a grace
+in ever-opening light, a grace
 limber to 
 
 The world in its infinitude cannot be held.
@@ -100,7 +100,7 @@ It is only as you touch me, I am created.
 
 Remembering has its opposite in dismembering.  
 
-To remember is to fasten ones'  
+To remember is to fasten one's  
 dust to the body of Reality,  
 
 a single scale or mossy flank
@@ -114,7 +114,7 @@ Forgetfulness guards against atrophy, fosters growth
 
 ⁕  ⁕  ⁕  
 
-Forgetfulness comes, bearing its inconceivable coordinates.  
+Forgetfulness comes bearing its inconceivable coordinates.  
 
 The exquisite precision of objects lost  
 whose intricate outline is equally lost 
@@ -125,7 +125,7 @@ their painstaking cross-hatching and edges.
 Reality remembers everything.
 
 The snowflake's spoke melted to globe 
-in a tree's green hand, reflecting 
+in a tree's green hand, reflects 
 a knobbed branch, a convex sky,  
 my color-hungry & -forgetful eyes.
 
@@ -147,8 +147,8 @@ which greets each fermion and boson, each
 moment gliding light across our yard, 
 across each leaf, across each nerve
 
-cell in corresponding minds
-of moth or squirrel or cardinal
+cell strewn across the corresponding minds
+of moth or squirrel or cardinal.
 
 ⁕  ⁕  ⁕  
 
@@ -171,8 +171,8 @@ as the nimble days we imitate:
 braiding with small hands the threads  
 we cannot follow back, old themes  
 
-of...  
-of limits within the limitless:
+of a garden shaped from nothing,  
+of limits limned within the limitless:
 
 the narrow path tracing a ridge  
 which veers each way into immensity,  
@@ -183,15 +183,15 @@ as a peak through noctilucent clouds,
 
 the elegant footprint of a theorem amid
 those sprawling instances which it explains,  
-purports to explain.  *I will put*  
+purports to explain  *...I will put*  
 
 *you in a cleft of rock and cover you*
 
 The theme is an ascetic one,
-of growing thinner that Reality may thicken.
+of growing thinner to thicken Reality.
 
-It says the more precipituous our foothold 
-the greater our view,
+It says the more precipituous foothold 
+yields a greater view.
 
 Perspective requires that we cannot touch. 
 
