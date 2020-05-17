@@ -16,12 +16,12 @@ How materials attain, through Time's slow
 texture, entrance into my gradient sight  
 
 as whispered portions of a sketch  
-made voluble by revisitation, dwelling among.  
+made voluble by visitation, dwelling among.  
 
 ⁕  ⁕  ⁕  
 
 Forgetting softens the too-taut forms  
-of what is irreplaceable
+of what is irreplaceable.  And gone.  
 
 (Elderly dating in nursing homes; Barthes' 'science of the individual')
 
@@ -76,15 +76,30 @@ sometimes with water, sometimes in air.
 
 ⁕  ⁕  ⁕  
 
+The opposite of 'remember' is 'dismember'.  
+
+To remember is to fasten one's  
+dust to the body of Reality,  
+
+to cleave to
+
+a single scale or mossy flank
+as it oxbows through time, leviathan,
+
+Forgetfulness guards against atrophy, fosters growth
+
 Forgiveness lets us view each other  
 in ever-opening light, a grace
 limber to 
 
-The world in its infinitude cannot be held.
+If we know anything, we know  
+The world in its infinitude  
+cannot be held.
 
-Fractals may be infinite, yet can't 'exist'  
-til one approaches them.
+Fractals are infinite, yet can't 'exist'  
+til one zooms in.
 
+As far as we know, 
 It is the approach which makes the infinite, uncovers it.
 
 I stare into your infinite face  
@@ -95,18 +110,6 @@ The freckles stippling
 It is only as you touch me, I am created.
 
 *You take away your hand and all things are troubled*
-
-⁕  ⁕  ⁕  
-
-Remembering has its opposite in dismembering.  
-
-To remember is to fasten one's  
-dust to the body of Reality,  
-
-a single scale or mossy flank
-as it oxbows through time, leviathan,
-
-Forgetfulness guards against atrophy, fosters growth
 
 ⁕  ⁕  ⁕  
 
@@ -167,6 +170,7 @@ making each creature new as ever
 
 up to the very moment: ancient  
 as the nimble days we imitate:  
+
 
 braiding with small hands the threads  
 we cannot follow back, old themes  
