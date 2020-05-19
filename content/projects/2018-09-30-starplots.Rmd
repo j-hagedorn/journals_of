@@ -9,18 +9,20 @@ tags:
 meta_img: /images/image.jpg
 ---
 
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+```
+
 http://www.klima-luft.de/steinicke/ngcic/Expl_Hist_WH.htm
-
-https://www.packtpub.com/mapt/book/web_development/9781787281776/32/ch11lvl1sec0048/creating-an-interactive-star-map
-
 
 
 ```{r}
-library(tidyverse)
+library(tidyverse); library(lubridate)
 
 observed_stars <- 
   readxl::read_excel("../../static/data/Historic_WH.xls") %>%
-  rename_all(funs(str_replace_all)," ","_") %>%
+  rename_all(list(~str_replace_all(.," ","_"))) %>%
   rename(
     class = Class,
     catalogue = Cat,
@@ -31,26 +33,34 @@ observed_stars <-
     day = D,
     aperture = Ap,
     focus = Fo,
-    observing_site = Loc,
-    n_observations = Obs,
-    catalogue_id = N,
+    obs_site = Loc,
+    n_obs = Obs,
+    cat_id = N,
     ngc_ic = NI,
-    slough_catalog_id = h,
-    general_catalog_id = GC
-  )
+    slough_id = h,
+    gencat_id = GC,
+    viz_mag = Vmag,
+    constellation = Con,
+    object_status = S
+  ) %>%
+  rename_all(list(~str_to_lower(.))) %>%
+  mutate(
+    date = ymd(paste0(year,"-",month,"-",day)),
+    class = str_replace_all(class," ","")
+  ) %>%
+  select(-year:-day)
 
 ```
 
 
 ```{r}
-library(plotly)
+library(echarts4r)
 
 observed_stars %>%
-  plot_ly(
-    x = ~RH,
-    y = ~RM,
-    z = ~RS
-  ) 
+  dplyr::group_by(constellation) %>%
+  e_charts(rh) %>% 
+  e_scatter_3d(rm, rs, size = scale(viz_mag)) %>%
+  e_theme("walden")
 
 ```
 
