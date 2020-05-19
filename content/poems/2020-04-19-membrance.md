@@ -23,7 +23,7 @@ made voluble by visitation, dwelling among.
 Forgetting softens the too-taut forms  
 of what is irreplaceable.  And gone.  
 
-[Elderly dating in nursing homes; Barthes' 'science of the individual']
+[cf. the dating scene in nursing homes; Barthes' 'science of the individual']
 
 A planetary museum, pieces which fit  
 the base of only one shadow:  
@@ -45,10 +45,17 @@ But if we are glimpsed with forgetfulness, are we touched?
 The transitory algorithms finger our faces  
 day and night.
 
+translate us to number - wield our nakedness
+
 Roll us into an abstraction.  
 
-I want to leave a hole,  
-chiseled in air.
+I want to leave a hole  
+like a nest framing the air.  
+
+Daubed, bent, a halo you can stand within 
+meticulously twirled
+
+to be the home I have sought
 
 [to have attended to and touched so much that my edges are defined by those encounters, such that I am missed not only as an object in the world, but as a way of seeing the world itself.  Which is maybe to say, I want not to leave at all.]
 But the world keeps poring in, and inattention.
