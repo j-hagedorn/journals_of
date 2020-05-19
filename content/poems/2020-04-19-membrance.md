@@ -13,7 +13,7 @@ allows for lightness: lacunae in the
 mind, as air in bird-bones:  
 
 How materials attain, through Time's slow  
-texture, entrance into my gradient sight  
+texture, entrance to our gradient sight  
 
 as whispered portions of a sketch  
 made voluble by visitation, dwelling among.  
@@ -23,25 +23,34 @@ made voluble by visitation, dwelling among.
 Forgetting softens the too-taut forms  
 of what is irreplaceable.  And gone.  
 
-(Elderly dating in nursing homes; Barthes' 'science of the individual')
+[Elderly dating in nursing homes; Barthes' 'science of the individual']
 
 A planetary museum, pieces which fit  
-the base of only one shadow.  
+the base of only one shadow:  
 
-*Overfit*, meaning that which aligns merely  
-with the single place it is, immobile.  
+*Overfit*, meaning that which fits merely  
+in the single place it is, immobile.  
+
+[So individual it will not be entered in the history of our habitation]
 
 No resemblance.  No analogy.  No hope.  
 Each only thing itself continual alone.  
 
 ⁕  ⁕  ⁕  
 
+[But if we are only abstraction, only analogy, we are also alone-- in perpetual transit]
+
 But if we are glimpsed with forgetfulness, are we touched?  
-The forgetful algorithms run their fingers over our faces all day and night.
+
+The transitory algorithms finger our faces  
+day and night.
 
 Roll us into an abstraction.  
 
-I want to leave a clear hole, laser-cut.
+I want to leave a hole,  
+chiseled in air.
+
+[to have attended to and touched so much that my edges are defined by those encounters, such that I am missed not only as an object in the world, but as a way of seeing the world itself.  Which is maybe to say, I want not to leave at all.]
 But the world keeps poring in, and inattention.
 Even I cannot say quite where I am, even now.
 
