@@ -38,24 +38,26 @@ Each only thing itself continual alone.
 
 ⁕  ⁕  ⁕  
 
+
 [But if we are only abstraction, only analogy, we are also alone-- in perpetual transit]
 
 But if we are glimpsed with forgetfulness, are we touched?  
 
 The transitory algorithms finger our faces  
-day and night.
+day and night, wield our nakedness  
+into the perfect obscurity of number. 
 
-translate us to number - wield our nakedness
-
-Roll us into an abstraction.  
+We will all be translated.
 
 I want to leave a hole  
 like a nest framing the air.  
 
-Daubed, bent, a halo you can stand within 
+Daubed, bent, 
+a halo you can stand within 
 meticulously twirled
 
-to be the home I have sought
+I want  
+to be the home I've sought
 
 [to have attended to and touched so much that my edges are defined by those encounters, such that I am missed not only as an object in the world, but as a way of seeing the world itself.  Which is maybe to say, I want not to leave at all.]
 But the world keeps poring in, and inattention.
@@ -109,13 +111,13 @@ in ever-opening light, a grace
 limber to 
 
 If we know anything, we know  
-The world in its infinitude  
+the world in its infinitude  
 cannot be held.
 
 Fractals are infinite, yet can't 'exist'  
 til one zooms in.
 
-As far as we know, 
+Far as we know, 
 It is the approach which makes the infinite, uncovers it.
 
 I stare into your infinite face  
