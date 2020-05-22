@@ -1,5 +1,5 @@
 ---
-title: membrance
+title: Manoulia
 author: J. Hagedorn
 date: '2020-04-19'
 slug: membrance
@@ -18,50 +18,49 @@ texture, entrance to our gradient sight
 as whispered portions of a sketch  
 made voluble by visitation, dwelling among.  
 
+  
 ⁕  ⁕  ⁕  
+  
 
 Forgetting softens the too-taut forms  
 of what is irreplaceable.  And gone.  
 
-[cf. the dating scene in nursing homes; Barthes' 'science of the individual']
+(cf. the dating scene in nursing homes)  
+Without it, the planet is an  
 
-A planetary museum, pieces which fit  
+ill-tended museum, each work fitting  
 the base of only one shadow:  
 
-*Overfit*, meaning that which fits merely  
+*Overfit*, meaning that which goes merely  
 in the single place it is, immobile.  
 
-[So individual it will not be entered in the history of our habitation]
-
-No resemblance.  No analogy.  No hope.  
+Without resemblance. Or analogy.  Or hope.  
 Each only thing itself continual alone.  
 
 ⁕  ⁕  ⁕  
 
-
-[But if we are only abstraction, only analogy, we are also alone-- in perpetual transit]
-
-But if we are glimpsed with forgetfulness, are we touched?  
+The individual is dead.  The abstraction  
+is perpetual transit.  We want touch.  
 
 The transitory algorithms finger our faces  
 day and night, wield our nakedness  
-into the perfect obscurity of number. 
 
-We will all be translated.
+into the perfect obscurity of number.  
+We will all be translated.  So  
 
 I want to leave a hole  
-like a nest framing the air.  
+like a nest framing the air:  
 
-Daubed, bent, 
-a halo you can stand within 
+daubed and bent,  
+a halo you can stand within  
 meticulously twirled
 
-I want  
-to be the home I've sought
+a haven for you.  I want  
+to be the home I've sought.  
 
-[to have attended to and touched so much that my edges are defined by those encounters, such that I am missed not only as an object in the world, but as a way of seeing the world itself.  Which is maybe to say, I want not to leave at all.]
-But the world keeps poring in, and inattention.
-Even I cannot say quite where I am, even now.
+this want which keeps me inattentive even now
+
+Let us attend.  Remember me.
 
 ⁕  ⁕  ⁕  
 
@@ -79,17 +78,16 @@ of Kuo Hsi, through excruciating resolutions
 peeking out from zones of fog,  
 seeking out a place to rest.
 
-The painter would seat himself beside
-
+The painter would seat himself beside  
 a clean table, a bright window, and  
+
 with incense burning, rinse his hands  
-
 and inkstone, select the deepest inks,  
+
 as if awaiting a visitor of rank:  
+having waited for his mind to clear,  
 
-having waited for his mind to clear,
-he began to paint those spaces,
-
+he started to paint those spaces,  
 sometimes with water, sometimes in air.
 
 ⁕  ⁕  ⁕  
@@ -146,7 +144,8 @@ their painstaking cross-hatching and edges.
 Reality remembers everything.
 
 The snowflake's spoke melted to globe 
-in a tree's green hand, reflects 
+in a tree's green hand, reflects
+
 a knobbed branch, a convex sky,  
 my color-hungry & -forgetful eyes.
 
@@ -155,9 +154,7 @@ upon my son's exhausted head.
 The smell of his blue blanket.
 
 Each taste within the throat  
-will be recollected.
-
-Nothing is lost.  
+will be recollected.  Nothing is lost.  
 
 No mundane joy or consequential pain.
 Each of our goings, spacious and precise,  
@@ -189,7 +186,6 @@ making each creature new as ever
 up to the very moment: ancient  
 as the nimble days we imitate:  
 
-
 braiding with small hands the threads  
 we cannot follow back, old themes  
 
@@ -200,13 +196,13 @@ the narrow path tracing a ridge
 which veers each way into immensity,  
 
 the scant expanse of frequencies  
-which our perceptions brush, bewildered  
+which our perception brushes, bewildered  
 as a peak through noctilucent clouds,  
 
 the elegant footprint of a theorem amid
 those sprawling instances which it explains,  
-purports to explain  *...I will put*  
 
+purports to explain  *...I will put*  
 *you in a cleft of rock and cover you*
 
 The theme is an ascetic one,
