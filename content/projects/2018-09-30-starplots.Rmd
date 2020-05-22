@@ -56,13 +56,38 @@ observed_stars <-
 ```{r}
 library(echarts4r)
 
-observed_stars %>%
-  dplyr::group_by(constellation) %>%
-  e_charts(rh) %>% 
-  e_scatter_3d(rm, rs, size = scale(viz_mag)) %>%
-  e_theme("walden")
+
 
 ```
+
+
+
+```{r}
+p0 <-
+  observed_stars %>%
+  dplyr::group_by(constellation) %>%
+  e_charts(rh, elementId = "chart0") %>% 
+  e_scatter_3d(rm, rs) %>%
+  e_theme("walden") 
+
+p1 <- 
+  observed_stars %>%
+  dplyr::group_by(constellation) %>%
+  e_charts(
+    rh,
+    height = 200
+  ) %>% 
+  e_scatter(rs) %>%
+  e_theme("walden") %>%
+  e_legend(show = T, type = "scroll", bottom = '1%') %>% 
+  e_datazoom(show = FALSE) %>% 
+  e_connect(c("chart0"))
+            
+e_arrange(p0, p1)
+            
+```
+
+
 
 Column  Explanation
 Class 	Herschel designation: class (I...VIII) and running number in each class
