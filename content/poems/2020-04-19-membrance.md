@@ -16,11 +16,9 @@ How materials attain, through Time's slow
 texture, entrance to our gradient sight  
 
 as whispered portions of a sketch  
-made voluble by visitation, dwelling among.  
+made voluble by visitation, dwelt among.  
 
-  
 ⁕  ⁕  ⁕  
-  
 
 Forgetting softens the too-taut forms  
 of what is irreplaceable.  And gone.  
@@ -40,25 +38,26 @@ Each only thing itself continual alone.
 ⁕  ⁕  ⁕  
 
 The individual is dead.  The abstraction  
-is perpetual transit.  We want touch.  
+is perpetual transit.  We want touch  
 
-The transitory algorithms finger our faces  
+as transitory algorithms finger our faces  
 day and night, wield our nakedness  
 
-into the perfect obscurity of number.  
+into a perfect obscurity of number.  
 We will all be translated.  So  
 
 I want to leave a hole  
 like a nest framing the air:  
 
-daubed and bent,  
+daubed and bent by your hands,  
 a halo you can stand within  
-meticulously twirled
+of scraps meticulously twirled
 
 a haven for you.  I want  
-to be the home I've sought.  
+to be the home I've sought,  
 
-this want which keeps me inattentive even now
+will maybe always seek,  
+which keeps me restless even now,  
 
 Let us attend.  Remember me.
 
@@ -108,6 +107,8 @@ Forgiveness lets us view each other
 in ever-opening light, a grace
 limber to 
 
+⁕  ⁕  ⁕  
+
 If we know anything, we know  
 the world in its infinitude  
 cannot be held.
@@ -139,11 +140,11 @@ The exquisite precision of objects lost
 whose intricate outline is equally lost 
 
 having traced from the world's lineaments  
-their painstaking cross-hatching and edges.
+their painstaking cross-hatching and edges.  
 
-Reality remembers everything.
+Reality remembers everything:  
 
-The snowflake's spoke melted to globe 
+the snowflake's spoke melted to globe 
 in a tree's green hand, reflects
 
 a knobbed branch, a convex sky,  
@@ -177,7 +178,6 @@ How does it thread the red-winged
 blackbird through the thicket yet again?  
 
 Newness is the oldest thing it does.  
-
 *If you would enter...become as children.*
 
 Time seethes through the forest gaps,  
@@ -197,9 +197,10 @@ which veers each way into immensity,
 
 the scant expanse of frequencies  
 which our perception brushes, bewildered  
+
 as a peak through noctilucent clouds,  
 
-the elegant footprint of a theorem amid
+the elegant footprint of a theorem amid  
 those sprawling instances which it explains,  
 
 purports to explain  *...I will put*  
@@ -209,9 +210,9 @@ The theme is an ascetic one,
 of growing thinner to thicken Reality.
 
 It says the more precipituous foothold 
-yields a greater view.
+yields a greater view.  It says,
 
-Perspective requires that we cannot touch. 
+perspective requires that we cannot touch. 
 
-
+...
 
