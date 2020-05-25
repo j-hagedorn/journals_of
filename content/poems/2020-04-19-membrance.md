@@ -24,7 +24,7 @@ Forgetting softens the too-taut forms
 of what is irreplaceable.  And gone.  
 
 (cf. the dating scene in nursing homes)  
-Without it, the planet is an  
+Without it, the planet becomes an  
 
 ill-tended museum, each work fitting  
 the base of only one shadow:  
@@ -38,9 +38,9 @@ Each only thing itself continual alone.
 ⁕  ⁕  ⁕  
 
 The individual is dead.  The abstraction  
-is perpetual transit.  We want touch  
+is perpetual transit.  We want touch.  
 
-as transitory algorithms finger our faces  
+The transitory algorithms finger our faces  
 day and night, wield our nakedness  
 
 into a perfect obscurity of number.  
@@ -59,7 +59,7 @@ to be the home I've sought,
 will maybe always seek,  
 which keeps me restless even now,  
 
-Let us attend.  Remember me.
+*Let us attend.*  Remember me.
 
 ⁕  ⁕  ⁕  
 
@@ -91,17 +91,26 @@ sometimes with water, sometimes in air.
 
 ⁕  ⁕  ⁕  
 
-The opposite of 'remember' is 'dismember'.  
+Up a mountain-slope of flowers  
+one white petal creased, dog-eared.  
+
+What is it trying to recall?
+
+⁕  ⁕  ⁕  
+
+The opposite of *remember* is *dismember*.  
 
 To remember is to fasten one's  
 dust to the body of Reality,  
 
 to cleave to
 
-a single scale or mossy flank
-as it oxbows through time, leviathan,
+a single scale or mossy flank  
+as it oxbows through time, leviathan,  
 
-Forgetfulness guards against atrophy, fosters growth
+to keep some portion of the myriad fact congealed
+
+Forgiveness guards against atrophy, fosters growth.
 
 Forgiveness lets us view each other  
 in ever-opening light, a grace
@@ -134,7 +143,8 @@ It is only as you touch me, I am created.
 
 ⁕  ⁕  ⁕  
 
-Forgetfulness comes bearing its inconceivable coordinates.  
+Forgetfulness comes bearing  
+its inconceivable coordinates.  
 
 The exquisite precision of objects lost  
 whose intricate outline is equally lost 
@@ -144,30 +154,31 @@ their painstaking cross-hatching and edges.
 
 Reality remembers everything:  
 
-the snowflake's spoke melted to globe 
+the snowflake's spoke melted to globe  
 in a tree's green hand, reflects
 
 a knobbed branch, a convex sky,  
 my color-hungry & -forgetful eyes.
 
-Each nutrient through each blessed hair 
+Each nutrient through each blessed hair  
 upon my son's exhausted head.  
+
 The smell of his blue blanket.
 
 Each taste within the throat  
 will be recollected.  Nothing is lost.  
 
-No mundane joy or consequential pain.
+No mundane joy or consequential pain.  
 Each of our goings, spacious and precise,  
 
-recalled, as in some naming of the beasts
-which greets each fermion and boson, each 
+recalled, as in some naming of the beasts  
+which greets each fermion and boson, each  
 
-moment gliding light across our yard, 
-across each leaf, across each nerve
+moment gliding light across our yard,  
+across each leaf, across each nerve  
 
-cell strewn across the corresponding minds
-of moth or squirrel or cardinal.
+cell strewn across the corresponding minds  
+of moth or squirrel or cardinal.  
 
 ⁕  ⁕  ⁕  
 
