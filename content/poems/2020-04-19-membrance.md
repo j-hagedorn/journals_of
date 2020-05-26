@@ -94,48 +94,45 @@ sometimes with water, sometimes in air.
 Up a mountain-slope of flowers  
 one white petal creased, dog-eared.  
 
-What is it trying to recall?
+What moment is it holding to?
 
 ⁕  ⁕  ⁕  
 
 The opposite of *remember* is *dismember*.  
 
-To remember is to fasten one's  
-dust to the body of Reality,  
+A memory fastens into me into  
+the turbulent body of Reality,  
 
-to cleave to
-
-a single scale or mossy flank  
 as it oxbows through time, leviathan,  
 
 to keep some portion of the myriad fact congealed
 
 Forgiveness guards against atrophy, fosters growth.
 
-Forgiveness lets us view each other  
-in ever-opening light, a grace
-limber to 
+It lets us view each Other  
+in enfolding light, a limber grace.  
+
+
 
 ⁕  ⁕  ⁕  
 
-If we know anything, we know  
-the world in its infinitude  
-cannot be held.
+We know the never-resting world  
+cannot be held.  Sit with me.  
 
-Fractals are infinite, yet can't 'exist'  
-til one zooms in.
+Fractals are limitless, yet don't *exist*  
+until a viewer clicks and zooms.
 
-Far as we know, 
-It is the approach which makes the infinite, uncovers it.
+Far as I know the approach  
+incites infinity, reaching to uncover it.
 
-I stare into your infinite face  
+I stare into your eternal face  
 some Saturday mornings, before you wake.
 
-The freckles stippling
+Stone eyelids, florescent scatter of freckles,  
+pores stippling from a humid core.
 
-It is only as you touch me, I am created.
-
-*You take away your hand and all things are troubled*
+You touch me, I am created.  
+*You take away your hand and...*
 
 ⁕  ⁕  ⁕  
 
@@ -224,6 +221,18 @@ It says the more precipituous foothold
 yields a greater view.  It says,
 
 perspective requires that we cannot touch. 
+Death's wormhole zero is the garden gate.
 
-...
+⁕  ⁕  ⁕  
 
+Knowledge requires mercy we cannot bear  
+to give.  Love grants forgetfulness.  
+
+Only those living idiots, the lambs,  
+Alzheimers patients, or heedless children
+
+clear of tact or tactics step  
+smiling past the fire-sworded seraphim  
+
+holding the body of God
+light [as a thing in common]
