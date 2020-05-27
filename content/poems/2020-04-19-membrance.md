@@ -91,10 +91,10 @@ sometimes with water, sometimes in air.
 
 ⁕  ⁕  ⁕  
 
-Up a mountain-slope of flowers  
-one white petal creased, dog-eared.  
+Up a slope white with flowers  
+one petal is creased, dog-eared.  
 
-What moment is it holding to?
+What are you trying to remember?
 
 ⁕  ⁕  ⁕  
 
@@ -122,11 +122,11 @@ cannot be held.  Sit with me.
 Fractals are limitless, yet don't *exist*  
 until a viewer clicks and zooms.
 
-Far as I know the approach  
+It is the approach which  
 incites infinity, reaching to uncover it.
 
 I stare into your eternal face  
-some Saturday mornings, before you wake.
+some Saturdays, awake before you wake.
 
 Stone eyelids, florescent scatter of freckles,  
 pores stippling from a humid core.
