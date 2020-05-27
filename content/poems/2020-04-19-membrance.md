@@ -6,6 +6,13 @@ slug: membrance
 meta_img: /images/image.jpg
 ---
 
+*One who has perfected... the twin arts of remembering and*  
+*forgetting is in a position to play at battledore and *  
+*shuttlecock with the whole of existence.*  
+
+--SK, *Journals*
+
+⁕  ⁕  ⁕  
 
 Forgetfulness is part of the design:  
 
@@ -100,6 +107,8 @@ What are you trying to remember?
 
 The opposite of *remember* is *dismember*.  
 
+
+
 A memory fastens into me into  
 the turbulent body of Reality,  
 
@@ -111,8 +120,6 @@ Forgiveness guards against atrophy, fosters growth.
 
 It lets us view each Other  
 in enfolding light, a limber grace.  
-
-
 
 ⁕  ⁕  ⁕  
 
@@ -133,10 +140,6 @@ pores stippling from a humid core.
 
 You touch me, I am created.  
 *You take away your hand and...*
-
-⁕  ⁕  ⁕  
-
-"One who has perfected... the twin arts of remembering and forgetting is in a position to play at battledore and shuttlecock with the whole of existence."^[Bretall, R. W., Kierkegaard, S. (1959). A Kierkegaard Anthology. NY: Modern Library.]
 
 ⁕  ⁕  ⁕  
 
@@ -185,8 +188,8 @@ haul into the waiting moment's frame?
 How does it thread the red-winged  
 blackbird through the thicket yet again?  
 
-Newness is the oldest thing it does.  
-*If you would enter...become as children.*
+Newness, the oldest thing it does.  
+*Come in... become as a child.*
 
 Time seethes through the forest gaps,  
 making each creature new as ever  
@@ -212,21 +215,21 @@ the elegant footprint of a theorem amid
 those sprawling instances which it explains,  
 
 purports to explain  *...I will put*  
-*you in a cleft of rock and cover you*
+*you in a cleft of rock...*
 
-The theme is an ascetic one,
+The theme is an ascetic one,  
 of growing thinner to thicken Reality.
 
-It says the more precipituous foothold 
-yields a greater view.  It says,
+It says the more precipituous foothold  
+yields a greater view.  It says,  
 
-perspective requires that we cannot touch. 
+perspective requires that we cannot touch.  
 Death's wormhole zero is the garden gate.
 
 ⁕  ⁕  ⁕  
 
 Knowledge requires mercy we cannot bear  
-to give.  Love grants forgetfulness.  
+to give.  Love offers us forgetfulness.  
 
 Only those living idiots, the lambs,  
 Alzheimers patients, or heedless children
