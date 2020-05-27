@@ -7,7 +7,7 @@ meta_img: /images/image.jpg
 ---
 
 *One who has perfected... the twin arts of remembering and*  
-*forgetting is in a position to play at battledore and *  
+*forgetting is in a position to play at battledore and*  
 *shuttlecock with the whole of existence.*  
 
 --SK, *Journals*
@@ -107,14 +107,20 @@ What are you trying to remember?
 
 The opposite of *remember* is *dismember*.  
 
-
-
-A memory fastens into me into  
+A memory fastens into me, into  
 the turbulent body of Reality,  
 
-as it oxbows through time, leviathan,  
+as He oxbows through time, leviathan.  
 
-to keep some portion of the myriad fact congealed
+Grasps and sculpts, is sculpted by,  
+some portion of the myriad fact  
+
+To glance on a canyon wall
+that snaking line
+I touch the ancients from another end:  
+a river of skin, of generations
+
+
 
 Forgiveness guards against atrophy, fosters growth.
 
@@ -132,7 +138,7 @@ until a viewer clicks and zooms.
 It is the approach which  
 incites infinity, reaching to uncover it.
 
-I stare into your eternal face  
+I stare into your every face  
 some Saturdays, awake before you wake.
 
 Stone eyelids, florescent scatter of freckles,  
