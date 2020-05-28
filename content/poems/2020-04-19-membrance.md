@@ -6,13 +6,6 @@ slug: membrance
 meta_img: /images/image.jpg
 ---
 
-*One who has perfected... the twin arts of remembering and*  
-*forgetting is in a position to play at battledore and*  
-*shuttlecock with the whole of existence.*  
-
---SK, *Journals*
-
-⁕  ⁕  ⁕  
 
 Forgetfulness is part of the design:  
 
@@ -40,14 +33,14 @@ the base of only one shadow:
 in the single place it is, immobile.  
 
 Without resemblance. Or analogy.  Or hope.  
-Each only thing itself continual alone.  
+Each stark, eccentric thing continually alone.  
 
 ⁕  ⁕  ⁕  
 
 The individual is dead.  The abstraction  
-is perpetual transit.  We want touch.  
+is perpetual transit.  We need touch.  
 
-The transitory algorithms finger our faces  
+And transitory algorithms finger our faces  
 day and night, wield our nakedness  
 
 into a perfect obscurity of number.  
@@ -58,6 +51,8 @@ like a nest framing the air:
 
 daubed and bent by your hands,  
 a halo you can stand within  
+
+
 of scraps meticulously twirled
 
 a haven for you.  I want  
@@ -66,7 +61,7 @@ to be the home I've sought,
 will maybe always seek,  
 which keeps me restless even now,  
 
-*Let us attend.*  Remember me.
+*Let us attend.* and *Remember me.*
 
 ⁕  ⁕  ⁕  
 
@@ -112,24 +107,35 @@ the turbulent body of Reality,
 
 as He oxbows through time, leviathan.  
 
-Grasps and sculpts, is sculpted by,  
+To glance on a canyon wall
+the snaking line 
+
+incised in stone:  
+I touch you from the other  
+
+end of an organism, this stream  
+of time and skin, the generations.
+
+We sculpt and we are sculpted by  
 some portion of the myriad fact  
 
-To glance on a canyon wall
-that snaking line
-I touch the ancients from another end:  
-a river of skin, of generations
 
 
-
-Forgiveness guards against atrophy, fosters growth.
+Forgiveness loosens atrophy, fosters growth.
 
 It lets us view each Other  
 in enfolding light, a limber grace.  
 
 ⁕  ⁕  ⁕  
 
-We know the never-resting world  
+*One who has perfected... the twin arts of remembering and*  
+*forgetting is in a position to play... with the whole of existence.*  
+
+--SK, *Journals*
+
+⁕  ⁕  ⁕  
+
+We know the never-resting mind  
 cannot be held.  Sit with me.  
 
 Fractals are limitless, yet don't *exist*  
