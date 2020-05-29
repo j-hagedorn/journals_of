@@ -52,14 +52,14 @@ like a nest framing the air:
 daubed and bent by your hands,  
 a halo you can stand within  
 
-
-of scraps meticulously twirled
+of words meticulously twirled and thumbed  
+about a seeing silence,  
 
 a haven for you.  I want  
-to be the home I've sought,  
+to be the home I've sought.  
 
-will maybe always seek,  
-which keeps me restless even now,  
+Will maybe always seek.  
+Which keeps me restless even now.  
 
 *Let us attend.* and *Remember me.*
 
@@ -101,30 +101,27 @@ What are you trying to remember?
 ⁕  ⁕  ⁕  
 
 The opposite of *remember* is *dismember*.  
-
 A memory fastens into me, into  
-the turbulent body of Reality,  
 
+the turbulent body of Reality,  
 as He oxbows through time, leviathan.  
 
-To glance on a canyon wall
-the snaking line 
+To glance on a canyon wall  
+the snaking line, the tight meander  
 
-incised in stone:  
+incised by a distant hand, imagined:  
 I touch you from the other  
 
 end of an organism, this stream  
-of time and skin, the generations.
+of time and skin the generations:  
 
-We sculpt and we are sculpted by  
+we who sculpt and are sculpted by  
 some portion of the myriad fact  
 
+in which we will be forgotten  
+among loosening eddies, the larger motions  
 
-
-Forgiveness loosens atrophy, fosters growth.
-
-It lets us view each Other  
-in enfolding light, a limber grace.  
+which loss allows us to remember.
 
 ⁕  ⁕  ⁕  
 
@@ -141,7 +138,7 @@ cannot be held.  Sit with me.
 Fractals are limitless, yet don't *exist*  
 until a viewer clicks and zooms.
 
-It is the approach which  
+It is the approach which ever  
 incites infinity, reaching to uncover it.
 
 I stare into your every face  
@@ -244,10 +241,9 @@ Knowledge requires mercy we cannot bear
 to give.  Love offers us forgetfulness.  
 
 Only those living idiots, the lambs,  
-Alzheimers patients, or heedless children
+Alzheimers patients, or heedless children  
 
 clear of tact or tactics step  
 smiling past the fire-sworded seraphim  
 
-holding the body of God
-light [as a thing in common]
+lifting, lightly, the body of God.  
