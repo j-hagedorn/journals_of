@@ -169,7 +169,7 @@ in a tree's green hand, reflects
 a knobbed branch, a convex sky,  
 my color-hungry & -forgetful eyes.
 
-Each nutrient through each blessed hair  
+Each nutrient through each blesséd hair  
 upon my son's exhausted head.  
 
 The smell of his blue blanket.
