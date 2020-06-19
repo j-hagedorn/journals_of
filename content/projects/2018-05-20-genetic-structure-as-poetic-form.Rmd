@@ -12,14 +12,17 @@ slug: genetic-structure-as-generative-poetic-form
 knitr::opts_chunk$set(echo=T, message=F, warning=F, error=F, include=T, paged.print=F)
 ```
 
+Part of the long poetic sequence I'm working on is a poem called 'I' (or maybe 'I-I'), whose sections are each devoted to a theme related to a given gene, and structured based on the nucleotide sequence from that gene.  In order to create these poetic patterns, we need actual genetic sequence data to which patterning algorithms can be applied.
+
+Here, I'll lay out the steps used to gather and create these patterns:
 
 ```{r load_pkgs,message=FALSE, warning=FALSE, paged.print=FALSE}
-library(tidyverse);library(DT); library(GO.db);library(tidytext)
-library(hgu133plus2probe); library(hgu133plus2.db)
+library(tidyverse);library(DT); library(tidytext)
+library(GO.db);library(hgu133plus2probe);
+library(hgu133plus2.db)
 genome <- hgu133plus2probe 
 ```
 
-Part of the long poetic sequence I'm working on is a poem called 'I' (or maybe 'I-I'), whose sections are each devoted to a theme related to a given gene, and structured based on the nucleotide sequence from that gene.  In order to create these poetic patterns, we need actual genetic sequence data to which algorithms can be applied (as well as implementations of those algorithms).
 
 ## Step 1: Find Genes that Perform Functions
 
@@ -35,9 +38,6 @@ search_go <- function(search_string){
   output <-
     go_tbl %>%
     dplyr::filter(str_detect(Term,search_string)) %>%
-    # Use line below if querying GO.db directly
-    # unlist(Term(GOTERM))[grep(pattern = search_string, x = unlist(Term(GOTERM)))] %>%
-    # dplyr::as_tibble() %>% dplyr::mutate(GOID = row.names(.)) %>% dplyr::select(GOID, GOTERM = value)
     dplyr::select(go_id,Term,Definition,Ontology) %>%
     dplyr::distinct()
     
@@ -46,7 +46,7 @@ search_go <- function(search_string){
 
 ```
 
-Let's define search terms for various topics of interest as regular expression statements, which we can then pass to the database, and save these in a list called `searches`.  Below are a handful of examples:
+Let's define search terms for various topics of interest as regular expressions, which we can then pass to the database, and save these in a list called `searches`.  Below are a handful of examples:
 
 ```{r go_search_terms}
 searches <- list()
@@ -318,12 +318,12 @@ str(vision_patterns$couplet_amino$pattern)
 Finally, we need to replace the nucleotides (A, T, C, G) with some verbal/written patterns to use in the poem.  So, we define patterns of words to stand in for each nucleotide. Some options for the types of word patterns we might use, based on their shared characteristics, include:
 
 - `letter_proportion`: words which have a certain proportion of their characters sharing the same letter
-– `vocal_proportion`: a concentration of similar vocal pattern (such as fricatives)
-– `cluster`: clustered together by similarity across multiple metrics, using *kmeans*
-– `rhyme`: rhyme based on Soundex or other algorithms
+- `vocal_proportion`: a concentration of similar vocal pattern (such as fricatives)
+- `cluster`: clustered together by similarity across multiple metrics, using *kmeans*
+- `rhyme`: rhyme based on Soundex or other algorithms
 - `category`: words from a given category (e.g. using the *Regressive Imagery Dictionary* classifications)
-– `regex`: matches a regular expression (e.g. any word beginning with `w` and containing an `o` or `u` in the middle before ending with the letter `d`).
-– Various other potential methods.
+- `regex`: matches a regular expression (e.g. any word beginning with `w` and containing an `o` or `u` in the middle before ending with the letter `d`).
+- Various other potential methods.
 
 ## Appendix: Other options for Packages
 
