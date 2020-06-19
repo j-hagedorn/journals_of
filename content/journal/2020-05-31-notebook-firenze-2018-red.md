@@ -99,7 +99,7 @@ chamber oriented inward toward to the sacred--to something beyond control, un-ow
 
 They could not occupy that center.
 
-Now no one believes in miracles anymre, but they still come into that center to sit, for silence and beauty.
+Now no one believes in miracles anymore, but they still come into that center to sit, for silence and beauty.
 
 ---
 
@@ -127,5 +127,47 @@ Is all desire a swimming against the tide?
 
 The tide, glittering mesh of launch and gravity
 threshold of want and limit
+
+---
+
+A skeptic could argue (especially in a milieu bombarded by ads & vitriol) 
+that ideas, and therefore art, are a form of mind control--an attempt to 
+colonize and control others' way of seeing.  This seems almost hopelessly 
+(literally) silly.
+
+An idea, in order to be worthwhile, must be strong--yet its strength is like that of a cell wall, permeable.  It lets in nutrients and keeps out what is harmful.
+
+[In this sense, both cells and ideas resemble rituals, as described by Jane Ellen Harrison, whose primary function is regulatory: 'in with the good, out with the bad']
+
+An idea, a work of art, must also co-exist with other voices,
+
+["Let there be commerce between us": Pound to Whitman]
+
+And not harm, but borrow and savor, and give to others.  Be food for others.
+
+["Enlarge the available stock of metaphors" - Coleridge; and forms, colors, figures...]
+
+& the miracle/mystery is that meaning can catch aflame and not be consumed, like the burning bush where the Logos appeared.
+
+[Artists forget this, jockeying for influence: as Brunelleschi dissing Donatello's wooden 'Crussifissione']
+
+And all wrought things attending to and partaking of the rhythm of what is, the pinnacles and hallows, glow with this light.
+
+---
+
+We will not find peace in another age if we have not made it here.
+
+We will not see beauty in another world, if we have not tuned our sight here, composed our breath.
+
+Above our heads the vaulted arches, crisscrossed, which say:
+
+"You are forever entering" and "You are here"
+
+---
+
+// between Buddhism and Christianity, which diagnose our condition as desire, yet Buddhism 
+sees desire as illusory, while XC sees it as the germ of something vaster.
+
+---
 
 
