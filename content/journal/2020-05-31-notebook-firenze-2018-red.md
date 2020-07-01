@@ -170,4 +170,122 @@ sees desire as illusory, while XC sees it as the germ of something vaster.
 
 ---
 
+Bargello--
+Sculptures are lonely, disconnected, each balanced on its own axis, 
+arc of torso radiating to a solitary base.
 
+Each separate equipoise, however frenzied, ends in itself--and can never be perfect, 
+since to be perfect is to be beyond the limits of oneself.
+
+---
+
+Beatrice's tomb is small, easily unnoticed.  Yet all of the Divina Commedia is an attempt 
+to bore through this stone.  Even now, as Dante lies long in Ravenna, the poem continues to 
+scratch at this sepulchre,
+
+and will continue, as long as language is, for in the urge to speak is the urge to conquer death.
+
+Death, which is isolation.
+
+Heaven is embedded in the act of speech.  Even the animals who have symbolic speech have this.
+
+The there.  Thereafter.  Only ever arrived at through here.
+
+---
+
+It is hard to grow a halo.  In Perugino's *Pieta*, Mary Magdalene holds the feet of Christ, 
+his toenails presumably still growing, metatarsals splintered under room-temperature skin, 
+
+Tears congeal on her face, as beautiful as that of any woman standing in this gallery.
+
+And it appears above her head like an incipient thought, and if she tried to hold onto it, 
+it would disappear.
+
+---
+
+Inasmuch as Dante's pursuit of Beatrice ranged beyond what is seen, it was perhaps most of all 
+a spectacular failure to find Heaven in the midst of his own life.  
+
+"In the midst of my life I found myself..."
+
+It can be harder to reach out across the kitchen, across the tense bed, 
+than across the gulf of death, to build the terrestrial paradise.
+
+Not the journey away, up the mountains, but the walk home.  Where words are not needed,
+because there is nowhere to gesture to. An arm in an arm, the interlocking orbits.
+
+---
+
+For the spiral to spin, it needs 2 centers, inclined around each other.
+We circle each other while setting the table.
+
+---
+
+It is as though he had forgotten, against all evidence at the tip of his pen, that words have 
+the power not only to point but to gather in.
+
+I like to think that when he saw Gemma and the kids again, he brought it all back.
+That he made love to her like a man who has startle up from drowning.
+That he did dishes and laundry sometimes, and gardened with a pocketful of the pollen which grows the world.
+
+I do not think he did.
+
+---
+
+You drown me in the river again 
+and again, we are both 
+drowning, by turns saving, by 
+turns being saved
+
+Who knows where the river is bringing our bodies,
+tumbled by watery light & depth, except 
+that we are each others
+
+When we make love I am a drowning man, gasping for your breath.
+
+---
+
+In a fresco of us, each has one hand rising outward from the wall,
+painting the other
+gathering pigments from the air,
+dandelion wisps, and pollen for the eyedeep gleam.
+
+---
+
+In the afterworld, your soft hands are my scales.
+In the meantime, you must be the bird who flies 
+with my heart strung to your ankle.
+
+---
+
+Heaven is painted with the lines and tinctures of earth, and
+
+earth is a painting of heaven.
+
+---
+
+Despite the posthumous application of 'Divina' to *La Commedia*, it sems apt enough.
+
+Unlike 'sacra', 'divina' has the connotation of discovery, of coming to knowledge, of motion.
+
+---
+
+Cimabue's *Crussifissione* (and its adoption as the primary figure of Deity in the West, the *Christus patiens*) 
+pulls toward the weight of earth, away from the Byzantine world and its *un*earthly gravity. Cf. Francis Bacon, "I always saw a worm crawling down a cross".
+
+With the focus on 'humanity', on bringing down the heavenly, we were grasping it as a rope to escape, 
+and were left holding the slack and clammy corpse of a god
+
+And, as if at the bottom of this crucifix, sit all of the sculptures of the Renaissance, trapped in their separate weights.  
+
+(Recall that Perseus used Medusa's head to turn monsters into stone.  Inasmuch as we are individual, that is to say asocial, we are monsters.  And turned to monuments.)
+
+What does one do with a dead god but feel guilt?  And so we usher in an age of guilt, where I am the center but never enough.
+
+In a well with a fallen rope.
+
+
+---
+
+"those old pagan gods still going to and fro on the earth, under all sorts of disguises"
+--Walter Pater, *Renaissance...*
