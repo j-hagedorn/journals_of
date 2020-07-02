@@ -284,6 +284,55 @@ What does one do with a dead god but feel guilt?  And so we usher in an age of g
 
 In a well with a fallen rope.
 
+No wonder we began to rely on measure to escape, since only the ground and the objects around us exist.  
+Piece by piece to manufacture our escape.  No longer knowing to what, just away from guilt/pain.
+
+[And the Church fed that guilt, street corner by street corner, where the little crucifixes still hang.
+A means of control.  A guild to build some heavenward contraption which they had embarrassingly lost the blueprints for.]
+
+Having pulled down heaven, there was only earth.  No wonder the cathedral mass is empty.  No wonder the city revels and gathers 
+on its steps each night like the gates on an abandoned funhouse.
+
+Yet something persists.  Yet there are lines around the block to enter in--to stand within an apse, a golden lapse in space--to feel how harmony transcends weight, takes it and counterbalances it against the stars.
+
+Not weighed down, but weighed with.
+
+[Counterpoise, without desire (to have), but with hope (to become)]
+
+Pilgrims come to catch an aftertaste, a lingering of beauty--hobbling over the cobbled pavement, trusting they will find it.
+
+Having been trained by symmetry 
+to hope
+for the next unfurling
+oasis blossom at the next
+interminable stretch
+
+harmony of law and ligaments, this aching weight pulls us
+below the frequency of sense, to elegenace.
+
+(the parts symmetrical, intuiting a whole beyong our comprehension--as one could not guess the Duomo
+from a single arch or apse)
+
+We may say that we do not trust this structure, symmetry or rhyme: yet we are startled, disgusted at injustice and inequity.
+
+(*Disgust* relating to eating, which is an art of balance, not of quantity.)
+
+Structure does not destroy freedom.  We retain a love for the odd detail, the mismatch--the asymmetrical feature:
+
+the heart among a person parallels,
+the figure IC+XC off-center between two mounds of robes, 
+the birthmark on the side of the neck,
+
+yet these details, akilter, emphasize the symmetry 
+& are dependent on it 
+(ocean they swim in)
+
+They are even, one might say, the beginning of a new symmetry, 
+incipient within the known world, the hint of other orders--edge effects, as the forest thins to meadow.
+
+'The unassimilable fact leads us on.' -- Ammons
+
+As the central line of the tercet in terza rima forms the bounds of the next.
 
 ---
 
