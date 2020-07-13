@@ -1,0 +1,151 @@
+---
+title: blood motif
+author: J. Hagedorn
+date: '2020-07-13'
+slug: blood-motif
+tags:
+  - myth
+description: Desc
+meta_img: /images/image.jpg
+---
+
+
+```{r load,echo=FALSE,message=FALSE,warning=FALSE}
+library(tidyverse);library(tidygraph);library(tidytext);library(ggraph);library(visNetwork);library(paletteer)
+
+knitr::opts_chunk$set(
+  fig.width=6,fig.asp = 0.618,dpi=300,echo=FALSE,message=FALSE,warning=FALSE
+)
+
+motifs <- feather::read_feather("../../static/data/motifs.feather")
+source("https://raw.githubusercontent.com/j-hagedorn/mythos/master/prep/motif_network.R")
+
+search_term <- regex("blood|bleed",ignore_case = T)
+
+blood <-
+  ntwk %>% activate(nodes) %>% as_tibble() %>% 
+  filter_at(vars(motif_name,notes),any_vars(str_detect(.,search_term))) %>%
+  # combine text fields
+  mutate(text = paste0(motif_name," ",if_else(is.na(notes),"",notes))) 
+
+```
+
+```{r handcode}
+
+b <- list()
+
+b$spirit  <- "soul.*in the blood|ichor|god |gods |crucified savior"
+b$create  <- "create|made from|originate from|man from|made of|origin of |all living things from"
+b$element <- "flood|fire in hell|produces fountain|lake of blood|heavens bleed|bleeding rock|bleeding tree|tree bleeds|earth comes out bloody|river of blood|rivers of blood|sun|moon|shower of blood|dew of blood|heaven"
+b$seed    <- "plant from|tree from|trees spring|birth from blood|fertile|from blood-clot|conception from|insects from|snake from blood|mandrake from "
+b$revive  <- "vitalizes|rejuvenates|revives"
+b$heal    <- "resuscitat|cure|restores sight|remedy|healed|healing"
+b$cleanse <- "bath of blood|bath in blood|bathing in blood|blood-bath|blood bath"
+b$pollute <- "venomous|poisonous|disease caused|defiled by|befoul|pollute|tabu"
+b$morph <- "transformation|changes to blood|change to blood|turns to blood|blood turns|impersonate|original form|becomes blood|transformed"
+b$techne  <- "crucifix bleed|altar bleeds|statue bleeds|bleeding knife|image bleeds|shrine bleeds|object bleeds|image of christ bleeds|stone lion|(?<=bleeding\\s)\\w+"
+b$reveal  <- "disenchantment|indicates guilt|life token|to indicate|bubbles at place of murder|sign of disobedience|from murderer's|when murderer touches|treasure found|foretell|pregnant|test of"
+b$power   <- "power|invulnerab|strengthen|magic|protects"
+b$covenant <- "bargain|covenant|blood-brother|betrothal|signed in blood|sworn|blood brother|sealed in blood"
+b$aphrodisiac <- "love-philtre|love philtre"
+b$excrete <- "tears of blood|tears \\( of blood|sweats blood|each hair|sweat blood"
+b$drink <- "drinks blood|sucks blood|drinks all|suck |tasted|lick"
+b$language <- "blood speaks|teaches animal languages|speaking blood|secret escapes|restores speech"
+b$sacrifice <- "sacrific"
+
+blood_theme <-
+  blood %>%
+  mutate(
+    theme = case_when(
+      str_detect(motif_name,regex(b$spirit, ignore_case = T))  ~ "spirit",
+      str_detect(motif_name,regex(b$create, ignore_case = T))  ~ "create",
+      str_detect(motif_name,regex(b$element, ignore_case = T)) ~ "element",
+      str_detect(motif_name,regex(b$seed, ignore_case = T))    ~ "seed",
+      str_detect(motif_name,regex(b$revive, ignore_case = T))  ~ "revive",
+      str_detect(motif_name,regex(b$heal, ignore_case = T))    ~ "heal",
+      str_detect(motif_name,regex(b$cleanse, ignore_case = T)) ~ "cleanse",
+      str_detect(motif_name,regex(b$pollute, ignore_case = T)) ~ "pollute",
+      str_detect(motif_name,regex(b$morph, ignore_case = T))   ~ "morph",
+      str_detect(motif_name,regex(b$techne, ignore_case = T))  ~ "techne",
+      str_detect(motif_name,regex(b$reveal, ignore_case = T))  ~ "reveal",
+      str_detect(motif_name,regex(b$power, ignore_case = T))   ~ "power",
+      str_detect(motif_name,regex(b$covenant, ignore_case = T)) ~ "covenant",
+      str_detect(motif_name,regex(b$aphrodisiac, ignore_case = T)) ~ "aphrodisiac",
+      str_detect(motif_name,regex(b$excrete, ignore_case = T)) ~ "excrete",
+      str_detect(motif_name,regex(b$drink, ignore_case = T))   ~ "drink",
+      str_detect(motif_name,regex(b$language, ignore_case = T)) ~ "language",
+      str_detect(motif_name,regex(b$sacrifice, ignore_case = T)) ~ "sacrifice",
+      TRUE ~ NA_character_
+    ),
+    group = recode(
+      theme,
+      spirit      = "foundation",
+      create      = "foundation",
+      element     = "foundation",
+      language    = "foundation",
+      power       = "foundation",
+      covenant    = "foundation",
+      seed        = "life-giving",
+      revive      = "life-giving",
+      aphrodisiac = "life-giving",
+      morph       = "transform",
+      heal        = "reordering",
+      sacrifice   = "reordering",
+      cleanse     = "reordering",
+      reveal      = "revelation",
+      techne      = "revelation",
+      excrete     = "revelation",
+      pollute     = "pollution"
+    )
+  ) %>%
+  filter(!is.na(theme))
+
+# blood_theme %>% filter(is.na(theme)) %>% View()
+
+```
+
+Searching the index for 'blood' or 'bleed', we find `r nrow(blood)` entries.  By reading through these and flagging keywords which correspond to identified themes, I ended up with a reduced set of `r nrow(blood_theme)` entries categorized by theme.
+
+```{r to_ntwk}
+blood_ntwk <-
+  bind_rows(
+    tibble(from = "Root", to = unique(blood_theme$group)),
+    blood_theme %>% ungroup() %>% select(from = group,to = theme) %>% distinct(),
+    blood_theme %>% ungroup() %>% select(from = theme,to = name) %>% distinct()
+  ) %>%
+  # Need to tidy up in prep grouping, avoid distinct(to, .keep_all = T)
+  distinct(to, .keep_all = T) %>% ungroup() %>% 
+  filter(!is.na(to) & !is.na(from)) %>% 
+  as_tbl_graph(directed = T) %>% 
+  activate(edges) %>% filter(!edge_is_multiple()) %>%
+  activate(nodes) %>% 
+  # Join chapters
+  left_join(
+    blood_theme, by = "name"
+  )
+```
+
+
+```{r}
+blood_theme %>%
+  group_by(group,theme) %>%
+  summarize(n = n_distinct(name)) %>%
+  knitr::kable()
+```
+# What is blood?
+
+By reviewing and classifying the motifs, and then clustering together the themes into more abstract groups, several broad characteristics of blood impressed themselves on me.  While there are certainly other constellations that could be found, these seem like a helpful, albeit provisional starting point.  Based on the motifs in this index, blood is understood by our myths:
+
+- as a *foundation* of the cosmos,
+- as a *life-giving* material, vivifying individual beings 
+- as an impetus for *reordering*, reorienting broken or hurt beings back to the cosmic foundation
+- as an agent of *revelation*, showing the true nature of objects, people, or situations
+- as an agent of *transformation* or metamorphosis, altering the physical form 
+- as a *drink* taken to obtain one of the characteristics noted above
+- as a *pollutant* (in contradiction to the theme of reordering noted above)
+
+Some of these have distinct, smaller clusters of themes congealed within them, so it is worth dwelling on each in greater detail
+
+# 
+
+The first set of themes which seem to cluster together are those about the essence of blood.  Blood is seen as a material which is vital and numinous.  Vital, in that it has in it a creative power of life itself.  It is related to and in some instances constitutes the substance of soul/spirit, whatever that may be.  E.g. for the Greeks, the *soul* was not merely a wisp but the patterning power which governed the unfolding and development of the body. Blood is shown in this way in motifs 
