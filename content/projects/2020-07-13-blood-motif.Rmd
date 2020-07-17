@@ -28,6 +28,14 @@ blood <-
   # combine text fields
   mutate(text = paste0(motif_name," ",if_else(is.na(notes),"",notes))) 
 
+cite <- function(id){
+  paste0(
+    id," ", blood %>% filter(name==id) %>% select(motif_name) %>% .$motif_name, "; ", 
+    blood %>% filter(name==id) %>% select(notes) %>% .$notes
+  )
+}
+
+
 ```
 
 ```{r handcode}
@@ -133,11 +141,11 @@ blood_theme %>%
   knitr::kable()
 ```
 
-# What is blood?
+## What is blood?
 
 By reviewing and classifying the motifs, and then clustering together the themes into more abstract groups, several broad characteristics of blood impressed themselves on me.  While there are certainly other constellations that could be found, these seem like a helpful, albeit provisional starting point.  Based on the motifs in this index, blood is understood by our myths:
 
-- as a *foundational element* of the cosmos,
+- as a *foundational* element of the cosmos,
 - as a *life-giving* material, vivifying individual beings 
 - as an impetus for *reordering*, reorienting broken or hurt beings back to the cosmic foundation
 - as an agent of *revelation*, showing the true nature of objects, people, or situations
@@ -145,18 +153,10 @@ By reviewing and classifying the motifs, and then clustering together the themes
 - as a *drink* taken to obtain one of the characteristics noted above
 - as a *pollutant* (in contradiction to the theme of reordering noted above)
 
-Some of these have distinct, smaller clusters of themes congealed within them, so it is worth dwelling on each in greater detail, as well as providing illustrations of the variety of motifs within each group.
-
-# Cosmic Element
-
-The first set of themes which seem to cluster together are those about the essence of blood.  Vital and numinous, it seethes with the creative power of life itself.  It is related to and in some instances constitutes the substance of soul/spirit, whatever that may be.  E.g. for the Greeks, the *soul* was not merely a wisp but the patterning power which governed the unfolding and development of the body. Blood is shown in this way in motifs 
+Some of these have distinct, smaller clusters of themes congealed within them, so it is worth dwelling on each in greater detail, as well as providing illustrations of the variety of motifs within each group.  The overall structure of these groups and subgroups can be seen below:
 
 ```{r}
-
-blood_ntwk %>% 
-  activate(nodes) %>% 
-  mutate(order = bfs_after(2)) %>%
-  filter(!is.na(order)) %>%
+blood_ntwk %>%
   ungroup() %>%
   ggraph(layout = 'dendrogram', circular = T) + 
   geom_edge_diagonal(alpha = 0.25) +
@@ -164,30 +164,127 @@ blood_ntwk %>%
     aes(
       colour = group,
       filter = leaf,
-      size= level * 0.5, 
-      alpha=0.2
+      size = level * 0.05, 
+      alpha = 0.2
     )
   ) +
-  geom_node_text(
-    aes(
-      x = x*1.15, y=y*1.15, 
-      filter = leaf, 
-      label = str_trunc(as.character(motif_name),20,"right"), 
-      angle = -((-node_angle(x, y)+90)%%180)+90, 
-      hjust ='outward', 
-      colour = theme
-    ), 
-    size=2.5, alpha=1
-  ) +
-  # scale_fill_paletteer_d(viridis, inferno) +
   coord_fixed() +
-  scale_color_viridis_d(option = "B") +
+  scale_color_paletteer_d("ghibli::PonyoMedium") +
+  scale_alpha(guide = "none") +
+  scale_size(guide = "none") +
   theme_void() +
   theme(
-    legend.position="none",
+    legend.title = element_text("theme"), 
     plot.margin=unit(c(0,0,0,0),"cm")
-  ) +
-  expand_limits(x = c(-2, 2), y = c(-2, 2))
+  )
 ```
 
+
+## Cosmic Foundation
+
+The first set of themes which seem to cluster together are those about the essence of blood.  Vital and numinous, it seethes with the creative power of life itself.  It is related to and in some instances constitutes the substance of soul/spirit, whatever that may be.  E.g. for the Greeks, the *soul* was not merely a wisp but the patterning power which governed the unfolding and development of the body. Blood is shown in this way in motifs which describe its nature as soul/spirit or which link it to the basic elemental forces of the world or to the initial creation of the cosmos (i.e. cosmogonic myths).
+
+You can expand the nodes of the diagram below and browse the motifs in this broader set of themes. 
+
+```{r}
+blood_ntwk %>% 
+  activate(nodes) %>% 
+  mutate(order = bfs_after(2)) %>%
+  filter(!is.na(order)) %>%
+  as_tibble() %>%
+  select(group,theme,motif_name) %>%
+  filter(!is.na(group)) %>%
+  #slice(-1:-6) %>%
+  collapsibleTree::collapsibleTree(
+    hierarchy = c("theme","motif_name"),
+    root = "foundation",
+    width = 1200, height = 400
+  )
+```
+
+The use of the word 'cosmos', as distinguished from 'universe', is intentional here.  The accounts of the world which these myths conjure depict the world as personal and harmonious, albeit strange and terrifying as well.  
+
+Several additional motifs in this group serve as illustrations of blood's foundational nature, for instance its use in endorsing contracts and covenants.  Since it is a deeper power than the individual interests of those making the deal, it can be relied upon to enforce agreements, allowing them to rest on a force which under-girds particular biases.
+
+Also included here are generic references to the power of blood, linked to its vitality but often also characterized as magical, due to the frequent attempts to harness that numinous vitality for human purposes.  
+
+Related to this power, and tied to the notion of 'soul' as a patterning power, is the view of blood as a substance which holds knowledge, especially language.  In a number of myths, drinking the blood of animals gives understanding of the language of animals.  It can also return speech to those who had been unable to speak.  Language here is an indication of cognition, of understanding.  Thus, the vitality of blood may be understood not as a blind force but as a conscious, one might even say personal, energy.
+
+It is this set of intuitions about the cosmic essence of blood which serve as the basis for nearly all other motifs.  Because of its vital essence, blood is seen as having a specific and active creative role; not only in a general sense...
+
+## Life-Giving
+
+Blood is a seed, causing trees to sprout from the ground where it is spilled^[See motif `r cite("F979.12")`], or a mandrake to rise up at the foot of the gallows^[See motif `r cite("A2611.5")`].  Falling from us as we die, it is a signal that the pulse of life transcends our particular existences. People are conceived or born from blood^[Various motifs, such as `r cite("T541.1")`, *or* `r cite("T541.1.1")`, *or* `r cite("T534")`], and this potency of blood leads by association to its use as an aphrodisiac.
+
+It has a role not only in starting life, but also in re-starting it: bringing to life what has died, such as in the French fable of the pelican reviving its young^[See motif `r cite("B751.2")`] which draws on earlier Christian symbolism.
+
+```{r}
+blood_ntwk %>% 
+  activate(nodes) %>% 
+  mutate(order = bfs_after(7)) %>%
+  filter(!is.na(order)) %>%
+  as_tibble() %>%
+  select(group,theme,motif_name) %>%
+  filter(!is.na(group)) %>%
+  collapsibleTree::collapsibleTree(
+    hierarchy = c("theme","motif_name"),
+    root = "life-giving",
+    width = 1200, height = 400
+  )
+```
+
+As has likely become obvious already, the membranes between these categories are porous and allow for commerce.  The power of blood to bring back to life is echoed in its use for healing and renewal, which are collected in the theme of...
+
+## Reordering
+
+The vitality of blood also seems to wash away time, erasing the decay of wounds or sickness.  One can bathe in blood and be cured of disease,^[As in `r cite("T82")`, or `r cite("D1502.5.1")`, and carried through into a range of hymns using variants of the phrase "wash me in Thy precious blood."] use blood to restore sight,^[See `r cite("D1505.8")`] and its variant, `r cite("D1505.8.1")`], or even (somewhat paradoxically) have a wound healed by its own blood.^[`r cite("D1503.15")`]  Bathing in blood also has a cleansing function, as in the range of motifs grouped in the category titled `cleanse`.
+
+The nature of the connection between cleanness and health in these themes is unclear, and it would be a mistake to anachronistically apply our current notions, informed by germ theory.  Earlier conceptions of what was "clean" and ritual purity did not necessarily have to do with an absence of germs but with the proximity to situations or materials associated with impurity.^[Take the biblical book of *Leviticus* as an example.]
+
+Motifs are also included in this group which refer to the use of blood as a 'sacrifice', a literal 'making sacred' which restores the cosmos. 
+
+```{r}
+blood_ntwk %>% 
+  activate(nodes) %>% 
+  mutate(order = bfs_after(5)) %>%
+  filter(!is.na(order)) %>%
+  as_tibble() %>%
+  select(group,theme,motif_name) %>%
+  filter(!is.na(group)) %>%
+  collapsibleTree::collapsibleTree(
+    hierarchy = c("theme","motif_name"),
+    root = "reordering",
+    width = 1200, height = 400
+  )
+```
+
+
+## Revelation
+
+Perhaps because it is a deep substance of the world, blood is able to reveal what is behind initial appearances.  It is a kind of communication with transcendent reality, where specific people are given evidence beyond what their limited vantage allows for.  Rather than inducing 'otherworldly' intuition, it has the effect of producing disenchantment and sobriety.^[As in motifs such as `r cite("D766.2")`, and `r cite("D712.4.1")`]
+
+judgment when it finds out disobedience or wrongdoing
+
+reveals the life or more substantial reality of certain objects, thereby associating them with reality or truth.    In Irish myths, a shrine bleeds to identify its living connection with the reality,^[`r cite("F991.4")`] and a desecrated altar also bleeds to communicate the continued power of reality beyond that impure act.^[`r cite("F991.4.1")`]
+
+```{r}
+blood_ntwk %>% 
+  activate(nodes) %>% 
+  mutate(order = bfs_after(3)) %>%
+  filter(!is.na(order)) %>%
+  as_tibble() %>%
+  select(group,theme,motif_name) %>%
+  filter(!is.na(group)) %>%
+  collapsibleTree::collapsibleTree(
+    hierarchy = c("theme","motif_name"),
+    root = "revelation",
+    width = 1200, height = 400
+  )
+```
+
+## Transformation
+
+Similar to the motifs related to cleansing and healing, where blood brings about a change in the physical state of the person to whom it is applied, there are also stories in which blood transforms a person, animal, or object into something else, or in which blood itself is turned into one of these.  So, while blood itself is acknowledged as elmental and as connected with the unfolding of life, it is not necessarily beholden to any specific instance of that life.
+
+It can change the structure of one object or being into another, because it is deeper than any of those provisional forms.  The use of blood in covenants, referenced above, also relies on this understanding of the substance.
 
