@@ -41,11 +41,11 @@ cite <- function(id){
 
 ### Assistance with curiosity
 
-Recently, re-reading the first volume of Mircea Eliade's *A History of Religious Ideas* (the one which covers the period from the Stone Age to the Eleusinian Mysteries), I found myself missing the author, his encyclopedic knowledge and deftness in analogy and synthesis.  Despite the breadth of his existing work, I wanted to have him at my shoulder to make me aware of new stories and to find connections within the vast web of human myths and stories.
+Recently, re-reading the first volume of Mircea Eliade's *A History of Religious Ideas* (the one which covers the period from the Stone Age to the Eleusinian Mysteries), I found myself missing the author, his encyclopedic knowledge and deftness in analogy and synthesis.  Despite the breadth of his existing work, I wanted to have him at my shoulder to make me aware of new stories and to point out connections within the vast web of human myths and stories.
 
-Eventually, I settled (as we seem to do more and more) for that inert facsimile of the never-resting mind: the encyclopedia, perhaps with hyperlinks to stand in for analogies.  During this search I happened upon Stith Thompson's massive labour of love, the [Motif-Index of Folk-Literature](https://en.wikisource.org/wiki/Motif-Index_of_Folk-Literature/Volume_1) which contains `r nrow(motifs)` distinct motifs: the building blocks of "Folktales, Ballads, Myths, Fables, Mediaeval Romances, Exempla, Fabliaux, Jest-Books and Local Legends."  While the index has its limitations for research purposes,^[See d’Huy, J., Le Quellec, J. L., Berezkin, Y., Lajoye, P., & Uther, H. J. (2017). Studying folktale diffusion needs unbiased dataset. Proceedings of the National Academy of Sciences, 114(41), E8555-E8555.] it serves for my initial goal: the ability to give a broad, impressionistic view of a range of related themes throughout myths.
+Eventually I settled (as we seem to more and more) for that inert facsimile of the never-resting mind: the encyclopedia, perhaps with hyperlinks to stand in for analogies.  During this search I happened upon Stith Thompson's massive labour of love, the [Motif-Index of Folk-Literature](https://en.wikisource.org/wiki/Motif-Index_of_Folk-Literature/Volume_1) which contains `r nrow(motifs)` distinct motifs: the building blocks of "Folktales, Ballads, Myths, Fables, Mediaeval Romances, Exempla, Fabliaux, Jest-Books and Local Legends."  While the index has its limitations for research purposes,^[See d’Huy, J., Le Quellec, J. L., Berezkin, Y., Lajoye, P., & Uther, H. J. (2017). Studying folktale diffusion needs unbiased dataset. Proceedings of the National Academy of Sciences, 114(41), E8555-E8555.] it serves my initial intent to give a broad, impressionistic sketch of themes across cultures and time.
 
-It turns out that one can do [some web-scraping and tidying up](https://github.com/j-hagedorn/mythos) to arrive at a working dataset for these motifs. As for methods, I'm starting out pretty basic.  After a few forays applying topic modeling with results which strayed too far from the types of nuanced categories I had hoped for, I settled on simply tagging keywords using regular expressions: a bit more work, but more useful output.  Even this is a messy approach,^[In order to apply a single theme to a given motif which may have matched multiple search criteria, I used a `case when` statement which explicitly chooses an order of importance and individual motifs to the first group for which it meets criteria.  A refined approach might be to use the gamma score from topic model output, if those could be made to generate useful groupings.  Then a given motif could be associated more or less strongly with multiple themes.] as the grouping of some motifs shows.  Nevertheless I've resisted re-classifying the initial sketch, sticking (for now) with vivid impressions rather than an unassailable classification system.
+It turns out that one can do [some web-scraping and tidying up](https://github.com/j-hagedorn/mythos) to arrive at a working dataset for these motifs. As for methods, I'm starting out pretty basic.  After a few forays applying topic modeling with results which strayed too far from the types of nuanced categories I had hoped for, I settled on simply tagging keywords using regular expressions: a bit more work, but more useful output.  Not the most elegant approach,^[In order to apply a single theme to a given motif which may have matched multiple search criteria, I used a `case when` statement which explicitly chooses an order of importance and individual motifs to the first group for which it meets criteria.  A refined approach might be to use the gamma score from topic model output, if those could be made to generate useful groupings.  Then a given motif could be associated more or less strongly with multiple themes.] as the grouping of some motifs shows.  Nevertheless I've resisted re-classifying the initial sketch, sticking (for now) with the vividness of first impressions rather than an unassailable classification system.
 
 ```{r handcode}
 
@@ -128,13 +128,13 @@ So... what to explore?
 
 ### Why blood? 
 
-The first thing I wanted to explore was blood.  Blood is at the heart of our hopes and fears, a single substance with veins rooted in life and death.  Red hands colored in ochre to resemble blood have been found at Paleolithic sites throughout the world.  We have analyzed blood's chemical composition and use it to quantify our wellness with HbA1c levels and lab workups.  Alongside our increasing application of scientific knowledge to develop treatments, blood continues to be used ritually as well.  Around the world, millions of Christian believers gather each week to drink the blood of God as part of the millennia-old rite of the Eucharist.  Some may take it as a 'mere symbol' and some as a mysterious reality, yet the action is rooted deep within our collective history.
+The first thing I wanted to explore was blood.  Blood is at the heart of our hopes and fears, a single substance with veins rooted in life and death.  Red hands colored in ochre to resemble blood have been found at Paleolithic sites throughout the world.  We have analyzed blood's chemical composition and use it to quantify our wellness with HbA1c levels and lab workups.  Alongside our increasing application of this scientific knowledge to develop treatments, blood continues to be used ritually as well.  Around the world, millions of Christian believers gather each week to drink the blood of God as part of the millennia-old rite of the Eucharist.  Some may take it as a 'mere symbol' and some as a mysterious reality, yet the action is rooted deep within our collective history.
 
 Blood is also a figure for our greatest fears: an emblem of life so strong that the loss of it is the harbinger of danger and death.  The horror-movie section of Netflix provides ample modern-day examples of this particular connotation.  Despite its ubiquity, blood has not become a safe or cliche metaphor; precisely because it is *not* a metaphor.  It is in us.
 
 What is 'in our blood' is not merely hemoglobin or lipoproteins, but an entire history of resonances, of stories and ideas about ourselves which color the substance coursing through our veins.  
 
-Searching the Thompson Motif Index for 'blood' or 'bleed', we find `r nrow(blood)` entries.  By reading through these and flagging keywords which correspond to identified themes, I ended up with a reduced set of `r nrow(blood_theme)` entries categorized by theme.^[Note that a substantial number of motifs (n = `r nrow(blood) - nrow(blood_theme)`) including the words 'blood' or 'bleed' were not grouped using the search criteria applied.  Most of these have to do with tales, such as those involving ogres visiting violence on their victims, etc.]  Culling these `r length(unique(blood_theme$theme))` themes into `r length(unique(blood_theme$group))` broader groups yielded the categories used in the discussion below.
+Searching the Thompson Motif Index for 'blood' or 'bleed', we find `r nrow(blood)` entries.  By flagging motifs with keywords which correspond to identified themes, I ended up with a reduced set of `r nrow(blood_theme)` entries categorized by theme.^[Note that a substantial number of motifs (n = `r nrow(blood) - nrow(blood_theme)`) including the words 'blood' or 'bleed' were not grouped using the search criteria applied.  Most of these have to do with tales such as those involving ogres visiting violence on their victims, etc.]  Gathering these `r length(unique(blood_theme$theme))` themes into `r length(unique(blood_theme$group))` broader groups yielded the categories used in the discussion below.
 
 ```{r,fig.showtext=TRUE}
 showtext_auto()
@@ -166,17 +166,17 @@ blood_theme %>%
 
 ```
 
-By reviewing and classifying the motifs as themes, then clustering together the themes into more abstract groups, several broad characteristics of blood impressed themselves on me.  While there are certainly other constellations which could be found, these are a start, however provisional.  Based on the motifs in this index, blood is depicted:
+By reviewing and classifying the motifs as themes, then clustering those themes into more abstract groups, several characteristics of blood impressed themselves on me.  There are certainly other constellations which might be traced among these points but these are a start.  Based on the motifs in this index, blood is depicted:
 
 - as a *foundational* element of the cosmos,
 - as a *life-giving* material, vivifying individual beings 
 - as an impetus for *reordering*, reorienting broken or hurt beings back to the cosmic foundation
 - as an agent of *revelation*, showing the true nature of objects, people, or situations
-- as an agent of *transformation* or metamorphosis, altering the physical form 
+- as an agent of *transformation* or metamorphosis, altering physical form 
 - as a *drink* taken to obtain one of the characteristics noted above
 - as a *pollutant* (in contradiction to the theme of reordering noted above)
 
-Some of these have distinct, smaller clusters of themes congealed within them, so it is worth dwelling on each in greater detail, as well as providing illustrations of the variety of motifs within each group.  The overall structure of these groups, subgroups, and motifs is shown below as a circular network:
+Nearly all of these groups have distinct themes congealed within them, so it is worth dwelling on each in greater detail as well as providing illustrations of the variety of motifs within each group.  The overall structure of these groups, subgroups, and motifs is shown below as a circular network:
 
 ```{r to_ntwk}
 blood_ntwk <-
@@ -225,11 +225,11 @@ blood_ntwk %>%
   ) 
 ```
 
-Each set of branches from the trunk of this network is briefly discussed in a section below, to give a sense of the diversity of myths and stories represented.
+Each set of branches from the trunk of this network is briefly discussed and presented for exploration in a section below, to give a sense of the diversity of myths and stories represented.
 
 ### Cosmic Foundation
 
-The first and largest set of themes which clustered together were those about the essence of blood.  Vital and numinous, blood seethes with the creative power of life itself.  It is related to and in some instances constitutes the substance of the soul, which has previously been defined quite differently than our current usage.  For the Greeks, the *soul* was not merely a wisp but the patterning power which governed the unfolding and development of the body. Blood is shown in this way in motifs which describe its nature as soul/spirit or which link it to the basic elemental forces of the world or to the initial creation of the cosmos (i.e. cosmogonic myths).
+The first and largest set of themes which clustered together were those about the essence of blood.  Vital and numinous, blood seethes with the creative power of life itself.  It is related to and in some instances constitutes the substance of the soul, which has previously been defined quite differently than our current usage.  For the Greeks, the *soul* was not merely a wisp but the patterning power which governed the unfolding and development of the body. Blood carries this connotation in motifs which connect it with soul/spirit, with the basic elemental forces of the world, or with the initial creation of the cosmos (i.e. cosmogonic myths).
 
 You can expand the nodes of the diagram below and browse the motifs in this broader set of themes. 
 
@@ -251,21 +251,21 @@ blood_ntwk %>%
   )
 ```
 
-The use of the word 'cosmos', as distinguished from 'universe', is intentional here.  The accounts of the world which these myths conjure depict the world as personal and harmonious, albeit strange and terrifying as well.  
+The use of the word 'cosmos', as distinguished from 'universe', is intentional here.  The world which these myths conjure is personal and harmonious, while capricious and eerie.  
 
-Several additional motifs in this group serve as illustrations of blood's foundational nature, for instance its use in endorsing contracts and covenants.  Since it is a deeper power than the individual interests of those making the deal, it can be relied upon to enforce agreements, allowing them to rest on a force which under-girds particular biases.
+Additional themes in this group illustrate blood's foundational nature, such as its use in endorsing contracts and covenants.  Since blood is a deeper power than the individual interests of those making the deal, it can be relied upon to enforce agreements, allowing them to rest on a force which under-girds particular biases.
 
-Also included here are generic references to the power of blood, linked to its vitality but often also characterized as magical, due to the frequent attempts to harness that numinous vitality for human purposes.  
+Also included here are more generic references to the power of blood, often characterized as magical: attempts to harness its numinous vitality to serve human purposes.  
 
-Related to this power, and tied to the notion of 'soul' as a patterning power, is the view of blood as a substance which holds knowledge, especially language.  In a number of myths, drinking the blood of animals gives understanding of the language of animals.  It can also return speech to those who had been unable to speak.  In these cases, blood gives speech not merely by healing the speech organs but by giving knowledge of language itself: the patterning power by which creation was spoken or sung into being (e.g. in the *Genesis* account or the *Rg Veda*).  Language here is an indication of cognition, of understanding.  Thus, the vitality of blood may be understood not as a blind force but as a conscious, one might even say personal, energy.  This association almost seems a foreshadowing of the discovery of DNA, the inherence of patterning soul and word within individual creatures, folded up in miniature as a word, a sequence of symbols.^[I feel tempted to beckon toward the field of biosemiotics, to point out the beautiful forays of thought occurring there.]
+Related to this raw energy, and tied to the notion of 'soul' as a patterning power, are motifs which depict blood as holding knowledge, particularly language.  In a number of myths, drinking the blood of animals gives understanding of their language.  It can also return speech to those who had been unable to speak.  In these cases, blood gives speech not merely by healing the speech organs but by giving knowledge of language itself: the patterning power by which creation was spoken or sung into being (e.g. in the *Genesis* account or the *Rg Veda*).  Language here is an indication of cognition, of understanding.  Thus, the vitality of blood may be understood not as a blind force but as a conscious, one might even say personal, energy.  This association almost seems a foreshadowing of the discovery of DNA, the inherence of patterning soul and word within individual creatures, folded up in miniature as a word, a sequence of symbols.^[I feel tempted to beckon toward the field of biosemiotics, to point out the beautiful forays of thought occurring there.]
 
 It is this set of intuitions about the cosmic essence of blood which serve as the basis for nearly all other motifs.  Because of its vital essence, blood is seen as having a specific and active creative role; not only in a general sense...
 
 ### Life-Giving
 
-Blood is a seed, causing trees to sprout from the ground where it is spilled^[See motif `r cite("F979.12")`], or a mandrake to rise up at the foot of the gallows^[See motif `r cite("A2611.5")`].  Falling from us as we die, it is a signal that the pulse of life transcends our particular existences. People are conceived or born from blood^[Various motifs, such as `r cite("T541.1")`, *or* `r cite("T541.1.1")`, *or* `r cite("T534")`], and this potency of blood leads by association to its use as an aphrodisiac.
+Blood is a seed, causing trees to sprout from the ground where it is spilled^[See motif `r cite("F979.12")`] or a mandrake to rise up at the foot of the gallows^[See motif `r cite("A2611.5")`].  Falling from us as we die, it signals that the pulse of life transcends our particular existences. People are conceived or born from blood^[Various motifs, such as `r cite("T541.1")`, *or* `r cite("T541.1.1")`, *or* `r cite("T534")`], and this potency leads by association to its use as an aphrodisiac.
 
-It has a role not only in starting life, but also in re-starting it: bringing to life what has died, such as in the French fable of the pelican reviving its young^[See motif `r cite("B751.2")`] which draws on earlier Christian symbolism.
+With ths role in initiating life, it is no surprise that blood has the ability to re-start it: bringing to life what has died, such as in the French fable of the pelican reviving its young^[See motif `r cite("B751.2")`] which draws on earlier Christian symbolism.
 
 ```{r}
 blood_ntwk %>% 
@@ -317,7 +317,7 @@ blood_ntwk %>%
   ) 
 ```
 
-As has likely become obvious already, the membranes between these categories are porous and allow for commerce.  The power of blood to bring back to life is echoed in its use for healing and renewal, which are collected in the theme of...
+As has likely become obvious already, the membranes between these categories are porous and allow for commerce.  The power of blood to bring back to life is echoed in its use for healing and renewal, as collected in the theme of...
 
 ### Reordering
 
@@ -424,7 +424,7 @@ blood_ntwk %>%
 
 When not explicitly tied to the reasons why people were drinking blood (e.g. to transform themselves, or make a pact, etc.), I classified motifs which treated the drinking of blood in a separate category.
 
-While the reason for drinking blood may not be clear in these motifs, the act itself is of interest.  Other means of applying blood, such as baths, are present and mentioned above.  The ingestion of another creatures blood, the taking of external life into one's own body through the mouth, the same route by which the body accepts all other nourishment, is so central to myth and to Christian practice that it is worth dwelling upon.
+While the motive for drinking blood may not be clear in these motifs, the act itself is of interest.  Other means of applying blood, such as baths, are present and mentioned above.  The ingestion of another creatures blood, the taking of external life into one's own body through the mouth, the same route by which the body accepts all other nourishment, is so central to myth and to Christian practice that it is worth dwelling upon.
 
 In reviewing the motifs associated with this use of blood, however, we find mostly negative uses: witches sucking blood, ogres drinking the blood of their victims, and similar tales.
 
