@@ -257,15 +257,15 @@ Additional themes in this group illustrate blood's foundational nature, such as 
 
 Also included here are more generic references to the power of blood, often characterized as magical: attempts to harness its numinous vitality to serve human purposes.  
 
-Related to this raw energy, and tied to the notion of 'soul' as a patterning power, are motifs which depict blood as holding knowledge, particularly language.  In a number of myths, drinking the blood of animals gives understanding of their language.  It can also return speech to those who had been unable to speak.  In these cases, blood gives speech not merely by healing the speech organs but by giving knowledge of language itself: the patterning power by which creation was spoken or sung into being (e.g. in the *Genesis* account or the *Rg Veda*).  Language here is an indication of cognition, of understanding.  Thus, the vitality of blood may be understood not as a blind force but as a conscious, one might even say personal, energy.  This association almost seems a foreshadowing of the discovery of DNA, the inherence of patterning soul and word within individual creatures, folded up in miniature as a word, a sequence of symbols.^[I feel tempted to beckon toward the field of biosemiotics, to point out the beautiful forays of thought occurring there.]
+Related to this raw energy, and tied to the notion of 'soul' as a patterning power, are motifs which depict blood as holding knowledge, particularly language.  In some stories, drinking the blood of animals gives understanding of their language.^[See `r cite("D1301.2")`]  It can also return speech to those who had been unable to speak.^[As in `r cite("D1507.6")`]  Blood induces speech not simply by healing the speech organs but by imparting knowledge of language itself: the patterning power by which creation was spoken or sung into being^[e.g. in the *Genesis* account or the *Rg Veda*] and which continues to course through living blood.  Language here is an indication of understanding, and the vitality of blood may be understood not as a blind force but as a conscious, one might even say personal, energy.  This association almost seems a foreshadowing of the discovery of DNA, the inherence of patterning soul and word within individual creatures, folded up in miniature as a word, a sequence of symbols.^[I feel tempted to beckon toward the field of biosemiotics, to point out the beautiful forays of thought occurring there.]
 
-It is this set of intuitions about the cosmic essence of blood which serve as the basis for nearly all other motifs.  Because of its vital essence, blood is seen as having a specific and active creative role; not only in a general sense...
+It is this set of intuitions about the cosmic essence of blood which serve as the basis for nearly all other motifs.  Because of this essence, blood is has an active role in creating specific beings as well...
 
 ### Life-Giving
 
 Blood is a seed, causing trees to sprout from the ground where it is spilled^[See motif `r cite("F979.12")`] or a mandrake to rise up at the foot of the gallows^[See motif `r cite("A2611.5")`].  Falling from us as we die, it signals that the pulse of life transcends our particular existences. People are conceived or born from blood^[Various motifs, such as `r cite("T541.1")`, *or* `r cite("T541.1.1")`, *or* `r cite("T534")`], and this potency leads by association to its use as an aphrodisiac.
 
-With ths role in initiating life, it is no surprise that blood has the ability to re-start it: bringing to life what has died, such as in the French fable of the pelican reviving its young^[See motif `r cite("B751.2")`] which draws on earlier Christian symbolism.
+With this role in initiating life, it is no surprise that blood is also able to re-kindle it: bringing to life what has died, such as in the French fable of the pelican reviving its young^[See motif `r cite("B751.2")`] which draws on earlier Christian symbolism.
 
 ```{r}
 blood_ntwk %>% 
@@ -348,11 +348,11 @@ blood_ntwk %>%
 
 ### Revelation
 
-Perhaps because it is a deep substance of the world, blood is able to reveal what is behind initial appearances.  It is a kind of communication with transcendent reality, where specific people are given evidence beyond what their limited vantage allows for.  Rather than inducing 'otherworldly' intuition, it has the effect of producing disenchantment and sobriety.^[As in motifs such as `r cite("D766.2")`, and `r cite("D712.4.1")`]
+Perhaps because it is a deep substance of the world, blood is able to reveal what is behind initial appearances.  It is a medium of communication with transcendent reality, allowing individuals to receive evidence beyond what their limited vantage allows for.  Yet rather than inducing hallucinatory 'otherworldly' intuition, it often has the effect of producing disenchantment and sobriety.^[As in motifs such as `r cite("D766.2")`, and `r cite("D712.4.1")`]
 
 When it reveals disobedience or wrongdoing, blood serves as a sign of judgment.  Keys and eggs become bloody as a sign of disobedience,^[See `r cite("C913")`, or `r cite("C913.1")`] and murderers are found out by blood springing miraculously from themselves or their victims, or bubbling when they wander near.^[See `r cite("D1318.5.2")`, or `r cite("D1318.5.1")`, or `r cite("D1318.5.6")`]
 
-When blood comes from certain inanimate objects it reveals the life or more substantial reality of those objects, thereby associating them with reality or truth.  In Irish myths, a shrine bleeds to identify its living connection with the reality,^[`r cite("F991.4")`] and a desecrated altar also bleeds to communicate the continued power of reality beyond that impure act.^[`r cite("F991.4.1")`]
+When blood comes from certain inanimate objects, it reveals the life or more substantial reality of those objects.  In Irish myths, a shrine bleeds to identify its living connection with reality,^[`r cite("F991.4")`] and a desecrated altar also bleeds to remind people of the continued power of reality beyond that impure act.^[`r cite("F991.4.1")`]
 
 ```{r}
 blood_ntwk %>% 
@@ -398,7 +398,7 @@ blood_ntwk %>%
 
 ### Pollution
 
-Blood gives life but we see it perhaps most often when life seeps from us, so it is associated both with vitality and with the loss of that vitality in death.  Often the things associated with death become taboo: these are objects or substances which confer ritual impurity in a religious ceremony or otherwise render someone unclean if they have come into contact.  Even the ground can become unclean when it comes into contact with menstrual blood.^[See `r cite("C144")`]  A related example would be the rules set out in *Leviticus*, which keep participants from having contact with substances associated with death or procreation.^[Interesting that God in Leviticus is not associated with procreation and fecundity, similar to the sky-god/earth-goddess distinction, despite the obvious fertility of God in the *Genesis* story.  Interesting also that blood in *Leviticus* is not associated with death or procreation but with life, and is the substance of the sacrifice at the center of the ritual act.]  This taboo on blood indicates how thin is the membrane between life and death, how mingled.
+Blood gives life but we see it most often when life seeps from us, so it is associated both with vitality and with the loss of that vitality in death.  Often the things associated with death become taboo: these are objects or substances which confer ritual impurity in a religious ceremony or otherwise render someone unclean if they have come into contact.  Even the ground can become unclean when it comes into contact with menstrual blood.^[See `r cite("C144")`]  Such an interpretation underlies the rules set out in *Leviticus*, which keep participants from having contact with substances associated with death or procreation.^[Interesting that God in Leviticus is not associated with procreation and fecundity, similar to the sky-god/earth-goddess distinction, despite the obvious fertility of God in the *Genesis* story.  Interesting also that blood in *Leviticus* is not associated with death or procreation but with life, and is the substance of the sacrifice at the center of the ritual act.]  This taboo on blood indicates how thin is the membrane between life and death, how mingled.
 
 Other motifs grouped here refer to the blood of various animals thought to be venomous: snakes, lions, toads, bears, and of course dragons.
 
@@ -422,9 +422,9 @@ blood_ntwk %>%
 
 ### Drink
 
-When not explicitly tied to the reasons why people were drinking blood (e.g. to transform themselves, or make a pact, etc.), I classified motifs which treated the drinking of blood in a separate category.
+When motifs were not explicitly tied to the reasons *why* people were drinking blood (e.g. to transform themselves, or make a pact, etc.), I classified them in a separate category.
 
-While the motive for drinking blood may not be clear in these motifs, the act itself is of interest.  Other means of applying blood, such as baths, are present and mentioned above.  The ingestion of another creatures blood, the taking of external life into one's own body through the mouth, the same route by which the body accepts all other nourishment, is so central to myth and to Christian practice that it is worth dwelling upon.
+While the motive for drinking blood may not be clear in these instances, the act itself is of interest.  Other means of applying blood (e.g. baths) are present and mentioned above.  The ingestion of another creatures blood, the taking of external life into one's own body through the mouth, the same route by which the body accepts all other nourishment, is so central to myth and particularly to Christian practice that it is worth dwelling upon.
 
 In reviewing the motifs associated with this use of blood, however, we find mostly negative uses: witches sucking blood, ogres drinking the blood of their victims, and similar tales.
 
