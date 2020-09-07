@@ -3,8 +3,11 @@
 .RData
 .Ruserdata
 .Renviron
+*.pdf
 *.zip
+*.pdf
 /public/*
 /blogdown/*
 *_cache*
 .httr-oauth
+*.feather
