@@ -31,38 +31,35 @@ slug: genetic-structure-as-generative-poetic-form
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 
-<pre class="r"><code>library(tidyverse);library(DT); library(GO.db);library(tidytext)
-library(hgu133plus2probe); library(hgu133plus2.db)
-knitr::opts_chunk$set(echo=T, message=F, warning=F, error=F, include=T, paged.print=F)
-
+<p>Part of the long poetic sequence I’m working on is a poem called ‘I’ (or maybe ‘I-I’), whose sections are each devoted to a theme related to a given gene, and structured based on the nucleotide sequence from that gene. In order to create these poetic patterns, we need actual genetic sequence data to which patterning algorithms can be applied.</p>
+<p>Here, I’ll lay out the steps used to gather and create these patterns:</p>
+<pre class="r"><code>library(tidyverse);library(DT); library(tidytext)
+library(GO.db);library(hgu133plus2probe);
+library(hgu133plus2.db)
 genome &lt;- hgu133plus2probe </code></pre>
-<p>Part of the long poetic sequence I’m working on is a poem called ‘I’ (or maybe ‘I-I’), which</p>
 <div id="step-1-find-genes-that-perform-functions" class="section level2">
 <h2>Step 1: Find Genes that Perform Functions</h2>
 <p>The genome is vast, and starting at random at a given nucleotide seems unnecessarily naive, especially with the incredible amount of work that has been done in annotating genes based on their functions. This allows one to find specific sequences of nulceotides that are associated with a given biological function (<em>visual perception</em>, for instance) and to use those for relevant portions of the poem.</p>
-<p>To query to Gene Ontology (GO) database, I use the <code>GO.db</code> package<a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a>, which queries the <a href="http://amigo.geneontology.org/grebe"><em>AmiGo 2</em> database</a>. The code below defines a convenience function which takes a given search term string and returns a <code>tibble</code> with the related <code>GOID</code> and <code>GOTERM</code> fields, which can then be manually reviewed for interest. Once one or more terms are identified, these can be copied and manually added to the list in the next step which queries.</p>
+<p>To query to Gene Ontology (GO) database, I use the <code>GO.db</code> package<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a>, which queries the <a href="http://amigo.geneontology.org/grebe"><em>AmiGo 2</em> database</a>. The code below defines a convenience function which takes a given search term string and returns a <code>tibble</code> with the related <code>GOID</code> and <code>GOTERM</code> fields, which can then be manually reviewed for interest. Once one or more terms are identified, these can be copied and manually added to the list in the next step which queries.</p>
 <pre class="r"><code>go_tbl &lt;- toTable(GOTERM)[-c(1)]
 
 search_go &lt;- function(search_string){
   output &lt;-
     go_tbl %&gt;%
     dplyr::filter(str_detect(Term,search_string)) %&gt;%
-    # Use line below if querying GO.db directly
-    # unlist(Term(GOTERM))[grep(pattern = search_string, x = unlist(Term(GOTERM)))] %&gt;%
-    # dplyr::as_tibble() %&gt;% dplyr::mutate(GOID = row.names(.)) %&gt;% dplyr::select(GOID, GOTERM = value)
     dplyr::select(go_id,Term,Definition,Ontology) %&gt;%
     dplyr::distinct()
     
   return(output)
 }</code></pre>
-<p>Let’s define search terms for various topics of interest as regular expression statements, which we can then pass to the database, and save these in a list called <code>searches</code>. Below are a handful of examples:</p>
+<p>Let’s define search terms for various topics of interest as regular expressions, which we can then pass to the database, and save these in a list called <code>searches</code>. Below are a handful of examples:</p>
 <pre class="r"><code>searches &lt;- list()
 searches$vision_search &lt;- search_go(&quot; vision|^vision|sight| visual|^visual|ocular&quot;)
 searches$hearing_search &lt;- search_go(&quot;hearing| ear |^ear | auditory|^auditory&quot;)
 searches$skin_search &lt;- search_go(&quot; skin |^skin| melanoma |^touch | touch &quot;)
 searches$language_search &lt;- search_go(&quot; language |^langauge| speech |^speech&quot;)
 searches$spine_search &lt;- search_go(&quot; spine |^spine&quot;)</code></pre>
-<p>We can then review the resulting tables to find the genes which are of the greatest interest for a given section of the poem, like so:</p>
+<p>We can then review the resulting tables to find the genes which are of greatest interest for a given section of the poem, like so:</p>
 <pre class="r"><code>searches$vision_search %&gt;%
   datatable(
     rownames = F, filter = &quot;top&quot;,
@@ -75,14 +72,14 @@ searches$spine_search &lt;- search_go(&quot; spine |^spine&quot;)</code></pre>
     )
   )</code></pre>
 <div id="htmlwidget-1" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-1">{"x":{"filter":"top","filterHTML":"<tr>\n  <td data-type=\"character\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"character\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"character\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"disabled\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n<\/tr>","extensions":["Responsive","Buttons"],"caption":"<caption>Summary of Gene Ontology Terms for Search<\/caption>","data":[["GO:0002074","GO:0007601","GO:0007632","GO:0008542","GO:0014725","GO:0014726","GO:0014727","GO:0050908","GO:0051356","GO:0060006","GO:0060007"],["extraocular skeletal muscle development","visual perception","visual behavior","visual learning","regulation of extraocular skeletal muscle development","negative regulation of extraocular skeletal muscle development","positive regulation of extraocular skeletal muscle development","detection of light stimulus involved in visual perception","visual perception involved in equilibrioception","angular vestibuloocular reflex","linear vestibuloocular reflex"],["The process whose specific outcome is the progression of the extraocular skeletal muscle over time, from its formation to the mature structure. The extraocular muscle is derived from cranial mesoderm and controls eye movements. The muscle begins its development with the differentiation of the muscle cells and ends with the mature muscle. An example of this process is found in Mus musculus.","The series of events required for an organism to receive a visual stimulus, convert it to a molecular signal, and recognize and characterize the signal. Visual stimuli are detected in the form of photons and are processed to form an image.","The behavior of an organism in response to a visual stimulus.","Any process in an organism in which a change in behavior of an individual occurs in response to repeated exposure to a visual cue.","Any process that modulates the frequency, rate or extent of extraocular skeletal muscle development. Extraocular skeletal muscle development is the process whose specific outcome is the progression of the extraocular skeletal muscle over time, from its formation to the mature structure. The extraocular muscle is derived from cranial mesoderm and controls eye movements. The muscle begins its development with the differentiation of the muscle cells and ends with the mature muscle.","Any process that stops, prevents, or reduces the frequency, rate or extent of extraocular skeletal muscle development. Extraocular skeletal muscle development is the process whose specific outcome is the progression of the extraocular skeletal muscle over time, from its formation to the mature structure. The extraocular muscle is derived from cranial mesoderm and controls eye movements. The muscle begins its development with the differentiation of the muscle cells and ends with the mature muscle.","Any process that activates, maintains or increases the frequency, rate or extent of extraocular skeletal muscle development. Extraocular skeletal muscle development is the process whose specific outcome is the progression of the extraocular skeletal muscle over time, from its formation to the mature structure. The extraocular muscle is derived from cranial mesoderm and controls eye movements. The muscle begins its development with the differentiation of the muscle cells and ends with the mature muscle.","The series of events involved in visual perception in which a light stimulus is received and converted into a molecular signal.","The series of events during equilibrioception required for an organism to receive a visual stimulus, convert it to a molecular signal, and recognize and characterize the signal. Visual input plays an important role in the ability of an organism to perceive its orientation with respect to gravity.","A vestibular reflex by which a response to an angular acceleration stimulus begins with an afferent nerve impulse from a receptor in the semi-circular canal and ends with the compensatory action of eye muscles. Signaling never reaches a level of consciousness.","A vestibular reflex by which a response to a linear acceleration stimulus begins with an afferent nerve impulse from a receptor in the otolith and ends with the compensatory action of eye muscles. Signaling never reaches a level of consciousness."],["BP","BP","BP","BP","BP","BP","BP","BP","BP","BP","BP"]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th>GO ID<\/th>\n      <th>GO Term<\/th>\n      <th>Definition<\/th>\n      <th>BP<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"pageLength":5,"lengthMenu":[5,15],"dom":"C<\"clear\">lfrtip","buttons":"colvis","order":[],"autoWidth":false,"orderClasses":false,"orderCellsTop":true,"responsive":true}},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"filter":"top","filterHTML":"<tr>\n  <td data-type=\"character\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"character\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"character\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"disabled\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n<\/tr>","extensions":["Responsive","Buttons"],"caption":"<caption>Summary of Gene Ontology Terms for Search<\/caption>","data":[["GO:0002074","GO:0007601","GO:0007632","GO:0008542","GO:0014725","GO:0014726","GO:0014727","GO:0050908","GO:0051356","GO:0060006","GO:0060007","GO:0150063"],["extraocular skeletal muscle development","visual perception","visual behavior","visual learning","regulation of extraocular skeletal muscle development","negative regulation of extraocular skeletal muscle development","positive regulation of extraocular skeletal muscle development","detection of light stimulus involved in visual perception","visual perception involved in equilibrioception","angular vestibuloocular reflex","linear vestibuloocular reflex","visual system development"],["The process whose specific outcome is the progression of the extraocular skeletal muscle over time, from its formation to the mature structure. The extraocular muscle is derived from cranial mesoderm and controls eye movements. The muscle begins its development with the differentiation of the muscle cells and ends with the mature muscle. An example of this process is found in Mus musculus.","The series of events required for an organism to receive a visual stimulus, convert it to a molecular signal, and recognize and characterize the signal. Visual stimuli are detected in the form of photons and are processed to form an image.","The behavior of an organism in response to a visual stimulus.","Any process in an organism in which a change in behavior of an individual occurs in response to repeated exposure to a visual cue.","Any process that modulates the frequency, rate or extent of extraocular skeletal muscle development. Extraocular skeletal muscle development is the process whose specific outcome is the progression of the extraocular skeletal muscle over time, from its formation to the mature structure. The extraocular muscle is derived from cranial mesoderm and controls eye movements. The muscle begins its development with the differentiation of the muscle cells and ends with the mature muscle.","Any process that stops, prevents, or reduces the frequency, rate or extent of extraocular skeletal muscle development. Extraocular skeletal muscle development is the process whose specific outcome is the progression of the extraocular skeletal muscle over time, from its formation to the mature structure. The extraocular muscle is derived from cranial mesoderm and controls eye movements. The muscle begins its development with the differentiation of the muscle cells and ends with the mature muscle.","Any process that activates, maintains or increases the frequency, rate or extent of extraocular skeletal muscle development. Extraocular skeletal muscle development is the process whose specific outcome is the progression of the extraocular skeletal muscle over time, from its formation to the mature structure. The extraocular muscle is derived from cranial mesoderm and controls eye movements. The muscle begins its development with the differentiation of the muscle cells and ends with the mature muscle.","The series of events involved in visual perception in which a light stimulus is received and converted into a molecular signal.","The series of events during equilibrioception required for an organism to receive a visual stimulus, convert it to a molecular signal, and recognize and characterize the signal. Visual input plays an important role in the ability of an organism to perceive its orientation with respect to gravity.","A vestibular reflex by which a response to an angular acceleration stimulus begins with an afferent nerve impulse from a receptor in the semi-circular canal and ends with the compensatory action of eye muscles. Signaling never reaches a level of consciousness.","A vestibular reflex by which a response to a linear acceleration stimulus begins with an afferent nerve impulse from a receptor in the otolith and ends with the compensatory action of eye muscles. Signaling never reaches a level of consciousness.",null],["BP","BP","BP","BP","BP","BP","BP","BP","BP","BP","BP","BP"]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th>GO ID<\/th>\n      <th>GO Term<\/th>\n      <th>Definition<\/th>\n      <th>BP<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"pageLength":5,"lengthMenu":[5,15],"dom":"C<\"clear\">lfrtip","buttons":["colvis"],"order":[],"autoWidth":false,"orderClasses":false,"orderCellsTop":true,"responsive":true}},"evals":[],"jsHooks":[]}</script>
 </div>
 <div id="step-2-subset-genome-based-on-functions-of-interest" class="section level2">
 <h2>Step 2: Subset Genome based on Functions of Interest</h2>
-<p>Based on the gene ontology terms selected as a result of the search above, we pull:</p>
+<p>After reading through and doing some research on the gene ontology terms above, I select a specific term/function and then proceed to pull:</p>
 <ol style="list-style-type: decimal">
-<li><p>Relevant genes and annotation data from the human genome.<a href="#fn2" class="footnoteRef" id="fnref2"><sup>2</sup></a></p></li>
-<li><p>Probe data which includes the actual nucleotide sequences for each gene.<a href="#fn3" class="footnoteRef" id="fnref3"><sup>3</sup></a></p></li>
+<li><p>Relevant genes and annotation data from the human genome.<a href="#fn2" class="footnote-ref" id="fnref2"><sup>2</sup></a></p></li>
+<li><p>Probe data which includes the actual nucleotide sequences for each gene.<a href="#fn3" class="footnote-ref" id="fnref3"><sup>3</sup></a></p></li>
 </ol>
 <p>Below is a convenience function which takes a list of <code>GOID</code> strings as an argument and retrieves the related genes and functional annotation:</p>
 <pre class="r"><code>get_genes &lt;- function(go_ids){
@@ -117,9 +114,6 @@ searches$spine_search &lt;- search_go(&quot; spine |^spine&quot;)</code></pre>
       .predicate = is.character,
       .funs = funs(as_factor)
     ) %&gt;%
-    # mutate(
-    #   EVIDENCE = fct_relevel(EVIDENCE, c())
-    # ) %&gt;%
     inner_join(genome, by = c(&quot;PROBEID&quot; = &quot;Probe.Set.Name&quot;)) %&gt;%
     inner_join(go_tbl[c(1:2)], by = c(&quot;GO&quot; = &quot;go_id&quot;)) %&gt;%
     dplyr::select(GENENAME,SYMBOL,sequence,MAP,PATH,PROBEID,x,y,GO,GOTERM = Term,ONTOLOGY,EVIDENCE,EVIDENCE_TYPE) %&gt;%
@@ -128,7 +122,7 @@ searches$spine_search &lt;- search_go(&quot; spine |^spine&quot;)</code></pre>
   return(output)
   
 }</code></pre>
-<p>We can then filter the output by the strength of evidence or any other variable to select the specific gene and position that we want to use.<a href="#fn4" class="footnoteRef" id="fnref4"><sup>4</sup></a></p>
+<p>We can then filter the output by the strength of evidence or any other variable to select the specific gene and position that we want to use.<a href="#fn4" class="footnote-ref" id="fnref4"><sup>4</sup></a></p>
 <pre class="r"><code># Use named lists for the purpose of documentation
 vision_genes &lt;- 
   get_genes(
@@ -161,12 +155,12 @@ skin_genes &lt;-
 </div>
 <div id="step-3-select-a-specific-gene" class="section level2">
 <h2>Step 3: Select a Specific Gene</h2>
-<p>Out of all of the genes identified, we need to continue inward toward the needle in the haystack.</p>
+<p>Out of all of the genes identified, we need to continue inward toward the needle in the haystack. This may include:</p>
 <ul>
-<li>Filter by <a href="http://geneontology.org/page/guide-go-evidence-codes">evidence type</a></li>
-<li>Determine which precise function is the best fit for the poem (e.g. for the <code>vision_genes</code>, these include )</li>
+<li>Filtering by <a href="http://geneontology.org/page/guide-go-evidence-codes">evidence type</a></li>
+<li>Determining which precise gene function is the best fit for the poem (e.g. for the <code>vision_genes</code>, these include visual perception, detection of light stimulus involved in visual perception…)</li>
 </ul>
-<p>Based on the final selection of gene, we pass the name of the gene from the <code>SYMBOL</code> field (e.g. <code>&quot;RAX&quot;</code>) to a convenience function which will return the poetic patterns available based on the gene’s nucleotide sequence and accompanying base pairs.</p>
+<p>Based on the final selection of gene, we pass the name of the gene from the <code>SYMBOL</code> field (e.g. <code>"RAX"</code>) to a convenience function which will return the poetic patterns available based on the gene’s nucleotide sequence and accompanying base pairs.</p>
 <pre class="r"><code>get_patterns &lt;- function(gene_id){
   
   # Filter gene data based on selection
@@ -198,34 +192,31 @@ skin_genes &lt;-
     ) %&gt;%
     mutate_if(
       .predicate = is.character,
-      .funs = funs(as_factor)
+      .funs = list(~as_factor(.))
     ) %&gt;%
-    # mutate(
-    #   EVIDENCE = fct_relevel(EVIDENCE, c())
-    # ) %&gt;%
     inner_join(genome, by = c(&quot;PROBEID&quot; = &quot;Probe.Set.Name&quot;)) %&gt;%
     inner_join(go_tbl[c(1:2)], by = c(&quot;GO&quot; = &quot;go_id&quot;)) %&gt;%
     dplyr::select(GENENAME,SYMBOL,sequence,MAP,PATH,PROBEID,x,y,GO,GOTERM = Term,ONTOLOGY,EVIDENCE,EVIDENCE_TYPE) %&gt;%
     distinct() %&gt;%
-  # Arrange by position
-  arrange(x) %&gt;%
-  dplyr::select(sequence) %&gt;%
-  unnest_tokens(
-    nucleotide,
-    sequence,
-    token =  &quot;character_shingles&quot;,
-    n = 1
-  ) %&gt;%
-  # Define the other half of the base pair
-  mutate(
-    pair = recode(
+    # Arrange by position
+    arrange(x) %&gt;%
+    dplyr::select(sequence) %&gt;%
+    unnest_tokens(
       nucleotide,
-      `a` = &quot;t&quot;,
-      `t` = &quot;a&quot;,
-      `c` = &quot;g&quot;,
-      `g` = &quot;c&quot;
+      sequence,
+      token =  &quot;character_shingles&quot;,
+      n = 1
+    ) %&gt;%
+    # Define the other half of the base pair
+    mutate(
+      pair = recode(
+        nucleotide,
+        `a` = &quot;t&quot;,
+        `t` = &quot;a&quot;,
+        `c` = &quot;g&quot;,
+        `g` = &quot;c&quot;
+      )
     )
-  )
   
   # Define patterns
   tercet_purines &lt;-
@@ -301,29 +292,34 @@ skin_genes &lt;-
 </div>
 <div id="step-5-fill-the-pattern-with-words" class="section level2">
 <h2>Step 5: Fill the Pattern with Words</h2>
-<p>Identify patterns of words to stand in for each nucleotide. Some options for shared characteristics include:</p>
+<p>Finally, we need to replace the nucleotides (A, T, C, G) with some verbal/written patterns to use in the poem. So, we define patterns of words to stand in for each nucleotide. Some options for the types of word patterns we might use, based on their shared characteristics, include:</p>
 <ul>
-<li><code>letter_proportion</code>: above a certain proportion of their characters share a single letter – <code>vocal_proportion</code>: a concentration of similar vocal pattern (such as fricatives) – <code>cluster</code>: clustered together by similarity across multiple metrics, using <em>kmeans</em> – <code>rhyme</code>: rhyme based on Soundex or other algorithms</li>
-<li><code>category</code>: words from a given category (e.g. using the <em>Regressive Imagery Dictionary</em> classifications) – <code>regex</code>: matches a regular expression (e.g. any word beginning with <code>w</code> and containing an <code>o</code> or <code>u</code> in the middle before ending with the letter <code>d</code>). – Various other potential methods.</li>
+<li><code>letter_proportion</code>: words which have a certain proportion of their characters sharing the same letter</li>
+<li><code>vocal_proportion</code>: a concentration of similar vocal pattern (such as fricatives)</li>
+<li><code>cluster</code>: clustered together by similarity across multiple metrics, using <em>kmeans</em></li>
+<li><code>rhyme</code>: rhyme based on Soundex or other algorithms</li>
+<li><code>category</code>: words from a given category (e.g. using the <em>Regressive Imagery Dictionary</em> classifications)</li>
+<li><code>regex</code>: matches a regular expression (e.g. any word beginning with <code>w</code> and containing an <code>o</code> or <code>u</code> in the middle before ending with the letter <code>d</code>).</li>
+<li>Various other potential methods.</li>
 </ul>
 </div>
 <div id="appendix-other-options-for-packages" class="section level2">
 <h2>Appendix: Other options for Packages</h2>
-<p>There are various options to read in the human genome for use in constructing patterns, each with their own pros and cons. HEre are a few:</p>
+<p>If you’re a fan of this kind of thing, there are various other options to read in the human genome for use in constructing patterns, each with their own pros and cons. Here are a few:</p>
 <ul>
 <li>The <a href="10.18129/B9.bioc.org.Hs.eg.db">org.Hs.eg.db</a> package <em>Genome wide annotation for Human</em>, primarily based on mapping using Entrez Gene identifiers. This requires working with the data as a <code>biostrings</code> object, but does include association data which will be helpful in locating the nucleotide sequences for use in specific portions of the poem.</li>
 <li>The <a href="10.18129/B9.bioc.BSgenome.Hsapiens.UCSC.hg19">BSgenome.Hsapiens.UCSC.hg19</a> <em>Full genome sequences for Homo sapiens (UCSC version hg19)</em></li>
-<li>The <a href="https://ropensci.github.io/biomartr/index.html"><code>biomartr</code></a> package<a href="#fn5" class="footnoteRef" id="fnref5"><sup>5</sup></a>, which allows for retrieval of all available kingdoms stored in the <code>NCBI RefSeq</code>, <code>NCBI Genbank</code>, <code>ENSEMBL</code>, and <code>ENSEMBLGENOMES</code> sources. It also allows for download as either <code>biostrings</code> or <code>data.table</code> object.</li>
+<li>The <a href="https://ropensci.github.io/biomartr/index.html"><code>biomartr</code></a> package<a href="#fn5" class="footnote-ref" id="fnref5"><sup>5</sup></a>, which allows for retrieval of all available kingdoms stored in the <code>NCBI RefSeq</code>, <code>NCBI Genbank</code>, <code>ENSEMBL</code>, and <code>ENSEMBLGENOMES</code> sources. It also allows for download as either <code>biostrings</code> or <code>data.table</code> object.</li>
 <li>The <a href="https://github.com/ropensci/rentrez"><code>rentrez</code></a> package, which allows querying the NCBI Entrez Eutils API to search, download data from, and interact with databases.</li>
 </ul>
 </div>
 <div class="footnotes">
 <hr />
 <ol>
-<li id="fn1"><p>Carlson M (2018). GO.db: A set of annotation maps describing the entire Gene Ontology. R package version 3.6.0. DOI: <a href="10.18129/B9.bioc.GO.db" class="uri">10.18129/B9.bioc.GO.db</a><a href="#fnref1">↩</a></p></li>
-<li id="fn2"><p>For this, we use the <code>hgu133plus2.db</code> package, which allows us to query by any of the following fields: ACCNUM, ALIAS, ENSEMBL, ENSEMBLPROT, ENSEMBLTRANS, ENTREZID, ENZYME, EVIDENCE, EVIDENCEALL, GENENAME, GO, GOALL, IPI, MAP, OMIM, ONTOLOGY, ONTOLOGYALL, PATH, PFAM, PMID, PROBEID, PROSITE, REFSEQ, SYMBOL, UCSCKG, UNIGENE, UNIPROT. We’ll be using the <code>GO</code> field to match our <code>GOID</code>s to additional information. Notes from this site on <a href="http://genomicsclass.github.io/book/pages/bioc1_annoOverview.html">using GO a.k.a. gene ontology</a> for identifying functional areas is helpful, as is <a href="https://www.bioconductor.org/help/course-materials/2015/UseBioconductorFeb2015/A01.5_Annotation.html">this vignette on the Bioconductor site</a>.<a href="#fnref2">↩</a></p></li>
-<li id="fn3"><p>In the current code, I’m pulling the <em>Affymetrix Human Genome U133 Plus 2.0 Array annotation data</em> using the <a href="http://bioconductor.org/packages/release/data/annotation/html/hgu133plus2.db.html"><code>hgu133plus2.db</code> package</a>.<a href="#fnref3">↩</a></p></li>
-<li id="fn4"><p>Based on the GO documentation, “IEA is a weak association and is based on electronic information, no human curator has examined or confirmed this association… IEA is also the most common evidence code.” Which speaks to the tip-of-the-iceberg nature or our current knowledge.<a href="#fnref4">↩</a></p></li>
-<li id="fn5"><p>Drost HG, Paszkowski J. Biomartr: genomic data retrieval with R. <em>Bioinformatics</em> (2017) 33(8): 1216-1217. <a href="doi:10.1093/bioinformatics/btw821" class="uri">doi:10.1093/bioinformatics/btw821</a><a href="#fnref5">↩</a></p></li>
+<li id="fn1"><p>Carlson M (2018). GO.db: A set of annotation maps describing the entire Gene Ontology. R package version 3.6.0. DOI: <a href="10.18129/B9.bioc.GO.db">10.18129/B9.bioc.GO.db</a><a href="#fnref1" class="footnote-back">↩︎</a></p></li>
+<li id="fn2"><p>For this, we use the <code>hgu133plus2.db</code> package, which allows us to query by any of the following fields: ACCNUM, ALIAS, ENSEMBL, ENSEMBLPROT, ENSEMBLTRANS, ENTREZID, ENZYME, EVIDENCE, EVIDENCEALL, GENENAME, GO, GOALL, IPI, MAP, OMIM, ONTOLOGY, ONTOLOGYALL, PATH, PFAM, PMID, PROBEID, PROSITE, REFSEQ, SYMBOL, UCSCKG, UNIGENE, UNIPROT. We’ll be using the <code>GO</code> field to match our <code>GOID</code>s to additional information. Notes from this site on <a href="http://genomicsclass.github.io/book/pages/bioc1_annoOverview.html">using GO a.k.a. gene ontology</a> for identifying functional areas is helpful, as is <a href="https://www.bioconductor.org/help/course-materials/2015/UseBioconductorFeb2015/A01.5_Annotation.html">this vignette on the Bioconductor site</a>.<a href="#fnref2" class="footnote-back">↩︎</a></p></li>
+<li id="fn3"><p>In the current code, I’m pulling the <em>Affymetrix Human Genome U133 Plus 2.0 Array annotation data</em> using the <a href="http://bioconductor.org/packages/release/data/annotation/html/hgu133plus2.db.html"><code>hgu133plus2.db</code> package</a>.<a href="#fnref3" class="footnote-back">↩︎</a></p></li>
+<li id="fn4"><p>For instance, we may want to filter on the strength of evidence. Based on the GO documentation “IEA is a weak association and is based on electronic information, no human curator has examined or confirmed this association… IEA is also the most common evidence code.” Which speaks to the tip-of-the-iceberg nature or our current knowledge.<a href="#fnref4" class="footnote-back">↩︎</a></p></li>
+<li id="fn5"><p>Drost HG, Paszkowski J. Biomartr: genomic data retrieval with R. <em>Bioinformatics</em> (2017) 33(8): 1216-1217. <a href="doi:10.1093/bioinformatics/btw821" class="uri">doi:10.1093/bioinformatics/btw821</a><a href="#fnref5" class="footnote-back">↩︎</a></p></li>
 </ol>
 </div>
