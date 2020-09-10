@@ -8,42 +8,46 @@ tags: []
 meta_img: /images/image.jpg
 ---
 
-### The Lukewarm, Liars
+### The Lukewarm & the Liars
 
-There is a difference between not meaning what I say and saying something contrary to what I mean.  This apparently small distinction in terms yields a widely different result, sorts the insincere from liars, the lukewarm from the cold-hearted.  And the difference is due to a single element: certainty. In the first case one lacks certainty; in the second case one has certainty but does not share it.
+There is a difference between not meaning what I say and saying something contrary to what I mean.  This apparently small distinction yields a widely different result, sorts the insincere from liars, the lukewarm from the cold-hearted.  And the difference is due to a single element: certainty. In the first case one lacks certainty; in the second case one has certainty but does not share it.
 
-The first are the inhabitants of Limbo, that "train of souls, so long..." which Dante encounters mulling about hell's gates, and which Eliot witnesses on the daily commute across London Bridge.^[see Dante's *Inferno 3.46*, Eliot's *Burial of the Dead l. 63*]  A crowd large enough to include, on many days, me.  We confuse our own numbness as implying that the world is pins and needles.  If we cannot imagine a truth beyond perception, then such a world does not exist.
+The first are the inhabitants of Limbo, that "train of souls, so long..." which Dante encounters mulling about hell's gates, and which Eliot witnesses on the daily commute across London Bridge.^[see Dante's *Inferno 3.46*, and Eliot's *Burial of the Dead l. 63*]  A crowd large enough to include, on many days, me.  We confuse our own numbness as implying that the world is pins and needles.  If we cannot imagine a truth beyond perception, then such a world does not exist.
+
+In Limbo our words dissolve in our mouths.  If we explain our motives by making recourse to myths, they are stories made routine, institutional, and tame. The Ragnarök [of Marvel Studios](https://www.imdb.com/title/tt3501632/) rather than the Ragnarök of the Völuspá's harrowed poet, starving amid a [volcanic winter](https://en.wikipedia.org/wiki/Ragnar%C3%B6k#Volcanic_eruptions).
+
+Who hazards that certainty is tenable anymore; now that knowing has been reduced to a double-negative, failing to validate the null hypothesis?  Each day we are becoming more and more precise, more and more certain, regarding our uncertainty. Faltering far from perfect knowledge, we have been engraving a monument to our ignorance, etching ever more finely our limits, squinting to mark the finest filigreed detail. A temple to our inability to be gods.  A temple which, for all of its attention to the material, can never be inhabited by life^[cf. Haeckel's temple to science] because we insist on controlling it.  Because we fear our limits rather than honoring, adoring, what is beyond them.
 
 The second group are Liars, denizens of a more remote darkness: false counselors, politicians, traitors, marketing executives.  Dante finds them further in, approaching the central funnel of Hell, and even at the epicenter where Satan chomps perpetually on one who used a kiss to mask a killing.  The liar acts out of a fear that there is not enough for both of us.  If I must dissemble in order to control, then power is truer than truth.
 
-Who hazards that certainty is tenable anymore; now that knowing has been reduced to a double-negative, failing to validate the null hypothesis?  Each day we are becoming more and more precise, more and more certain, regarding our uncertainty. Faltering far from perfect knowledge, we are engraving a monument to our ignorance, etching ever more finely our limits, squinting to mark the finest filigreed detail. A temple to our inability to be gods.  A temple which, for all of its attention to the material, can never be inhabited by life.
-
-### In Limbo our myths are fictions
-
-In Limbo our words dissolve in our mouths.  We explain our motives with textbook myths: stories made routine, institutional, and tame. The Ragnarök [of Marvel Studios](https://www.imdb.com/title/tt3501632/) rather than the Ragnarök of the Völuspá's harrowed poet, starving amid a [volcanic winter](https://en.wikipedia.org/wiki/Ragnar%C3%B6k#Volcanic_eruptions).  
-
-In parallel to the Greek word for the act of *liturgy*, the "work of the people"^[The Greek λειτουργία (leitourgía) derives from λειτ- (leit-, from 'people') and -ουργός (-ourgós, from 'work')], Jane Harrison recounts that "among the Tarahumares of Mexico the word *nolavoa* means both *to work* and *to dance*." Far from betraying a sentimentality for the past, this participation in a collective story cements them in the present.  In fact, Harrison relates that "in extreme old age [a man] ceases to exist, because he cannot dance; his dance, and with it his social status, passes to another and a younger."^[Harrison, J. E.  *Ancient Art and Ritual*. New York: H. Holt & Co. 1913. p. 31]  
-
-Here in Limbo we lecture about the dance's context, choreography, etc.  We do not, however, dance.  We hold up our stories like a beaded timeline, strung from one end to another like books on a shelf or in a digitized collection.  We can mark the turns, climax, resolution; yet in order to do this we stand outside the story and it ceases to be ours.  It becomes a museum-piece: remarkable yet unbelievable.^[This is an aftermath of the death of tradition at the hands of history, the replacement of cyclical with linear time.  If time is linear we can only look backward at our stories.  We are irrevocably cut off from them.  If time is circular, we tread and re-tread it.  If spiral, our story proceeds but with themes woven in and out.]
-
-The liar may orchestrate the dance or even dance himself, but he believes in the power which this act gives him; not in the dance itself.  It remains a currency to gather rather than a current pulsing through.
-
+If certainty (or the lack of it) distinguishes these dispositions from one another, they are united by another trait: self-centeredness.  For those disposed to lie, the supreme good is self-interest, and all else can be twisted to achieve that end.  As for the lukewarm, self-interest tethers them to the meager comfort of what is known, and no external risk can tug them from it.  Both of these dispositions are within the gravitational pull of the self, the condition which St. Augustine refers to as *incurvatus in se*, or *curved in upon oneself*.
 
 ### A humble certainty
 
-Surrounded by marketing and punditry, we might be forgiven for thinking that 'certainty' involves the use of words for either manipulation or weaponization.  A gleaming-toothed money-back guarantee.  A manifest destiny.  Limbo-dwellers crave certainty, and liars throughout history have been all too willing to offer it.  We allow a shallow confidence to masquerade as a synonym for certainty: "You just have to have confidence", in what is not so clear.  Self-confidence, that long-con.
+Surrounded by marketing and punditry, we might be forgiven for thinking that 'certainty' involves the use of claims for either manipulation or weaponization.  A bleach-toothed money-back guarantee.  A manifest destiny.  Limbo-dwellers crave certainty, and liars throughout history have been all too willing to offer it.  We allow a shallow confidence to masquerade as a synonym for certainty. "You just have to have confidence", in what is not so clear.  Self-confidence, that long-con.
 
-We may be tempted by our suspicion of certainty to make the inverse assumption as well, but *un*-certainty is not the same as humility.  Humility concedes that one can only occupy one place and one focus at one time. One puts one's full weight into each step of the dance.  Humility entails that we acknowledge ourselves as partial, guttering out unless we join others.  The phrase "I'm partial to..." retains this flavor: of one's taste as tangible, peculiar, and firmly held.  
+We may be tempted by our suspicion of certainty to make the inverse assumption as well, but *un*-certainty is not the same as humility.  Humility concedes that one can only occupy one place and one focus at one time. One puts one's full weight into each step of the dance.  Humility entails that we acknowledge ourselves as partial, tentative, guttering out unless we join others.  The phrase "I'm partial to..." retains this flavor: of one's taste as tangible, peculiar, and firmly held.  
 
 To be certain is to embrace being partial.  Even the word, *partial*, holds the promise of a greater whole, and this whole hints at connection, an escape from solipsism's eclipse.
 
-Think of the Italian *certo*, used similarly to the word *sure*: as in 'sure-footed', or balanced upon what is here.  Settled, fixed.  And of course we can only ever be finite.  To be otherwise is a hallucination.  We are all blind-seers: seers, that is, of our blindnesses.  And we have contented ourselves with this dark panorama.
+Think of the Italian *certo*, used similarly to the word *sure*: as in 'sure-footed', balanced upon what is here.  Settled, fixed, near.  And of course we can only ever be finite.  To be otherwise is a hallucination.  We are all blind-seers: seers, that is, of our blindnesses.  And we have contented ourselves with this dark panorama.
 
 Certainty is kindred to presence.  I know *this*.  We have been taught that the Absolute is distant, that truer means farther.  Nothing could be further from the truth.
 
 It has to do with closeness - pressing one's face into a view, standing so close to the static that we are certain the world is black or white.
 
 The world is not grey, but granular, sifting black and white.  Uncertainty seeks a disembodied, broader view and then complains that it is blurry.
+
+### Practicing certainty
+
+In parallel to the Greek word for the act of *liturgy*, the "work of the people"^[The Greek λειτουργία (leitourgía) derives from λειτ- (leit-, from 'people') and -ουργός (-ourgós, from 'work')], Jane Harrison recounts that "among the Tarahumares of Mexico the word *nolavoa* means both *to work* and *to dance*." Dance here is a re-living of the cosmic story.  Far from betraying a sentimentality for the past, this participation in a collective story cements them in the present.  In fact, Harrison relates that "in extreme old age [a man] ceases to exist, because he cannot dance; his dance, and with it his social status, passes to another and a younger."^[Harrison, J. E.  *Ancient Art and Ritual*. New York: H. Holt & Co. 1913. p. 31]  
+
+In Limbo we might lecture about the dance's context, choreography, etc.  We do not, however, dance.  We hold up our stories like a beaded timeline, strung from one end to another like books on a shelf or in a digitized collection.  We can mark the turns, climax, resolution; yet in order to do this we stand outside the story and it ceases to be ours.  It becomes a museum-piece: remarkable yet unbelievable.^[This is an aftermath of the death of tradition at the hands of history, the replacement of cyclical with linear time.  If time is linear we can only look backward at our stories.  We are irrevocably cut off from them.  If time is circular, we tread and re-tread it.  If spiral, our story proceeds but with themes woven in and out.]
+
+The liar may orchestrate the dance or even dance himself, but he believes in the power which this act gives him; not in the dance itself.  It remains a currency to gather rather than a current pulsing through.  Each new fragment of truth or beauty is quickly weaponized, turned into a proof for why others' experiences or beliefs are less beautiful.
+
+
+
 
 ---
 
