@@ -396,3 +396,63 @@ does the act of attention required for definition open a rift, unleash the levee
 So that definition is a knot, of infinity flowing through itself.
 
 ---
+
+*from* Massimo Piatelli-Palmarini' intro to *Language and Learning: Debate between Piaget and Chomsky* (1980).
+
+He distinguishes between the following biological models for the creation of form:
+
+| Crystal                 | Flame                                      |
+|-------------------------|--------------------------------------------|
+| Invariance of structure | Consistent form despite internal agitation |
+| Self-organizing system  | Order from noise in environment            |
+| // Vulcan               | // Mercury                                 |
+| Built                   | Emergent property                          |
+
+Might a flower be a figure for the marriage of crystal and fire?
+
+---
+
+Our anonymous children.  
+So many die, not particularly  
+enlightened or exquisitely  
+loved. Outside gardens or in.  
+Their tedious suffering assumed  
+into statistical paradise.  
+
+---
+
+It was painful to transplant the filigreed logic of dreams,  
+into this gross world  
+using its brutish tools and armaments,  
+to drape new veins into my arms, of fungal tracery,  
+using only boxing gloves.
+
+---
+
+It seems that particular sentences or passsages of writing might usefully be seen as evolving, using a process similar to natural selection--such that the exigencies of a particular social or ideological ecosystem would activate the emphasis of certain words or passages in order to fit their needs.
+
+In this way of thinking, the 'fittest' writings would be those most flexible to match their environment and/or those with the greatest ability to shape their environment.
+
+---
+
+We are the earth's territory, 
+the young it devours through  
+their own ravenous kisses.  
+
+Velvet green mountains outside,  
+I am gasping pollen from your humid thighs
+
+Spring and all terrestrial stars 
+are in us  
+as breath created,  
+over and over, under the vines
+
+There are gods, yes, and their blood is in us  
+have chased its drops uncoiled into the labyrinth
+
+lace delicate enough to start a war  
+
+So mad the desire for delicacy, to protect.
+
+To hold the valley's mist on your tongue  
+though it melt
