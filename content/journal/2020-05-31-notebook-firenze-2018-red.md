@@ -338,3 +338,61 @@ As the central line of the tercet in terza rima forms the bounds of the next.
 
 "those old pagan gods still going to and fro on the earth, under all sorts of disguises"
 --Walter Pater, *Renaissance...*
+
+---
+
+"...the effect of a beautiful object kept constantly before the eye in a story or poem, of keeping sensation well awake, and giving a certain air of refinement to all scenes where it enters; with a heighteneing also of that sense of fate; which hangs so much of the shaping of human life of trivial events..."
+--Walter Pater, *Renaissance...*
+
+---
+
+swallow threading the airy alleys
+
+silence of flight, flight of silence
+
+---
+
+compactness/precision of utterance (or the working out of this)
+i.e. natural law or its working out in combination with other laws
+
+One cd figure out the 'rule' of Whitman's lines, but is their fecundity, their splay and breeding on the page, which brings joy.
+
+But for we who live downstream from so many algorithms, in the watershed of algorithms, drinking their oily waterfilm, the allure of fresh water, of the elegant simple law...
+
+it is a physical thirst.
+
+When I have tried to articulate a sense that ideas are unimportant, it is not this--
+
+it is that worthwhile ideas are discoveries, and thus approached with sacred awe, rather than gripped like tools--
+
+---
+
+Eternal life is terrible when viewed askance, like...
+
+|----------->
+
+...but immersed in perspective, it is a harmony, a symmetry unfolding into presence.
+
+Symmetry is beautiful, because it floats amid annhilation,
+if the edges of a thing are its annhilation,
+
+cf. Life's symmetry:
+
+birth |------------| death
+
+"the child is the father of the man" -- WW
+Shakes. 7 ages
+
+---
+
+definite, infinite 
+
+Is the act of definition a counter-motion to the infinite, or...
+
+does the act of attention required for definition open a rift, unleash the levees of another infinity, through the channel of a person?
+
+(and really it is the same infinity)
+
+So that definition is a knot, of infinity flowing through itself.
+
+---
