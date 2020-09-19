@@ -429,7 +429,7 @@ using only boxing gloves.
 
 ---
 
-It seems that particular sentences or passsages of writing might usefully be seen as evolving, using a process similar to natural selection--such that the exigencies of a particular social or ideological ecosystem would activate the emphasis of certain words or passages in order to fit their needs.
+It seems that particular sentences or passages of writing might usefully be seen as evolving, using a process similar to natural selection--such that the exigencies of a particular social or ideological ecosystem would activate the emphasis of certain words or passages in order to fit their needs.
 
 In this way of thinking, the 'fittest' writings would be those most flexible to match their environment and/or those with the greatest ability to shape their environment.
 
