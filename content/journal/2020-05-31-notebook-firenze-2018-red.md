@@ -456,3 +456,50 @@ So mad the desire for delicacy, to protect.
 
 To hold the valley's mist on your tongue  
 though it melt
+
+---
+
+von Humboldt: Imagination "soothes the deep wounds that reason sometimes creates."
+
+---
+
+Piazza Navona, 5.5.18
+
+Subduing animals, we become them.  Feathered hips clutch the swans, tentacled thighs strain against the coils.
+
+---
+
+Goethe's *Faust*: Knowledge cannot be wrenched from Nature by object, instrument of experiment alone.
+
+"We snatch in vain at Nature's veil  
+She is mysterious in broad daylight  
+No screws or levers could compel her to reveal  
+the secrets she has hidden from our sight."  
+
+---
+
+Principle beneath variety:
+
+- Plato's IDEA
+- Newton's LAWS
+
+Goethe and Humboldt in Yena, combining
+
+- subjective experience with reason
+- scientific data with subective perception and response
+
+Imagination and Rationality, call and response of facts and feelings
+
+Goethe's Ur-form of plants: the archetypal form underlying the varieties of flora.
+
+"The plant is always nothing but leaf"
+
+Not an act of classification, but a sensitivity to the unseen forces that form a thing.
+
+
+internal force |---> <---| external force
+
+the individual being is created by the interaction at the boundary of these
+
+---
+
