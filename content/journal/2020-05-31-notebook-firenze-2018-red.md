@@ -503,3 +503,48 @@ the individual being is created by the interaction at the boundary of these
 
 ---
 
+*Turn eterne*
+
+If we would stay long within this land  
+we must allow our wings to become stone,  
+
+must have a river for a gullet
+
+our names sunk there
+with antique barges
+
+for we are young as mornings  
+washings on the shore
+
+We must be notched
+with arches, coming and going from the sky
+
+and breasts, so many,  
+quarried from depths, alert as birds
+
+and valves to bring and bear away
+those who travel through us
+
+moss-crotched, patient in want, you perch above a bowl of holy water  
+Egyptian eyebrows, Baroque skin, a travertine skull
+
+you must keep, just off center, your heart
+
+a wound: an altar  
+
+a valved instrument 
+to lure and bear away
+
+through cavernous gates
+conveying centuries of travellers  
+into tunnels, lungs and dawns  
+reborn
+
+here they paint houses with the sun's revelations:  
+rust petal, blood-orange,  
+
+and tourists take pictures by the bleaching hour  
+sharing the colors of until.
+
+---
+
