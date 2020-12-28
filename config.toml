@@ -10,7 +10,7 @@ author = "J. Hagedorn"
 title = "J. Hagedorn"
 # disqusshortname = ""
 pluralizelisttitles = false
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "\\.knit\\.md$", "\\.utf8\\.md$", "_cache$"]
 
 [permalinks]
 blog = "blog/:slug/"
