@@ -8,16 +8,21 @@ tags:
 slug: genetic-structure-as-generative-poetic-form
 ---
 
-```{r load_pkgs,message=FALSE, warning=FALSE, paged.print=FALSE}
-library(tidyverse);library(DT); library(GO.db);library(tidytext)
-library(hgu133plus2probe); library(hgu133plus2.db)
+```{r setup,echo=FALSE}
 knitr::opts_chunk$set(echo=T, message=F, warning=F, error=F, include=T, paged.print=F)
-
-genome <- hgu133plus2probe 
-
 ```
 
-Part of the long poetic sequence I'm working on is a poem called 'I' (or maybe 'I-I'), which 
+Part of the long poetic sequence I'm working on is a poem called 'I' (or maybe 'I-I'), whose sections are each devoted to a theme related to a given gene, and structured based on the nucleotide sequence from that gene.  In order to create these poetic patterns, we need actual genetic sequence data to which patterning algorithms can be applied.
+
+Here, I'll lay out the steps used to gather and create these patterns:
+
+```{r load_pkgs,message=FALSE, warning=FALSE, paged.print=FALSE}
+library(tidyverse);library(DT); library(tidytext)
+library(GO.db);library(hgu133plus2probe);
+library(hgu133plus2.db)
+genome <- hgu133plus2probe 
+```
+
 
 ## Step 1: Find Genes that Perform Functions
 
@@ -33,9 +38,6 @@ search_go <- function(search_string){
   output <-
     go_tbl %>%
     dplyr::filter(str_detect(Term,search_string)) %>%
-    # Use line below if querying GO.db directly
-    # unlist(Term(GOTERM))[grep(pattern = search_string, x = unlist(Term(GOTERM)))] %>%
-    # dplyr::as_tibble() %>% dplyr::mutate(GOID = row.names(.)) %>% dplyr::select(GOID, GOTERM = value)
     dplyr::select(go_id,Term,Definition,Ontology) %>%
     dplyr::distinct()
     
@@ -44,7 +46,7 @@ search_go <- function(search_string){
 
 ```
 
-Let's define search terms for various topics of interest as regular expression statements, which we can then pass to the database, and save these in a list called `searches`.  Below are a handful of examples:
+Let's define search terms for various topics of interest as regular expressions, which we can then pass to the database, and save these in a list called `searches`.  Below are a handful of examples:
 
 ```{r go_search_terms}
 searches <- list()
@@ -55,7 +57,7 @@ searches$language_search <- search_go(" language |^langauge| speech |^speech")
 searches$spine_search <- search_go(" spine |^spine")
 ```
 
-We can then review the resulting tables to find the genes which are of the greatest interest for a given section of the poem, like so:
+We can then review the resulting tables to find the genes which are of greatest interest for a given section of the poem, like so:
 
 ```{r dt_output, echo=TRUE}
 searches$vision_search %>%
@@ -74,7 +76,7 @@ searches$vision_search %>%
 
 ## Step 2: Subset Genome based on Functions of Interest
 
-Based on the gene ontology terms selected as a result of the search above, we pull: 
+After reading through and doing some research on the gene ontology terms above, I select a specific term/function and then proceed to pull: 
 
 1. Relevant genes and annotation data from the human genome.^[For this, we use the `hgu133plus2.db` package, which allows us to query by any of the following fields: `r keytypes(hgu133plus2.db)`.  We'll be using the `GO` field to match our `GOID`s to additional information.  Notes from this site on [using GO a.k.a. gene ontology](http://genomicsclass.github.io/book/pages/bioc1_annoOverview.html) for identifying functional areas is helpful, as is [this vignette on the Bioconductor site](https://www.bioconductor.org/help/course-materials/2015/UseBioconductorFeb2015/A01.5_Annotation.html).]  
 
@@ -115,9 +117,6 @@ get_genes <- function(go_ids){
       .predicate = is.character,
       .funs = funs(as_factor)
     ) %>%
-    # mutate(
-    #   EVIDENCE = fct_relevel(EVIDENCE, c())
-    # ) %>%
     inner_join(genome, by = c("PROBEID" = "Probe.Set.Name")) %>%
     inner_join(go_tbl[c(1:2)], by = c("GO" = "go_id")) %>%
     dplyr::select(GENENAME,SYMBOL,sequence,MAP,PATH,PROBEID,x,y,GO,GOTERM = Term,ONTOLOGY,EVIDENCE,EVIDENCE_TYPE) %>%
@@ -128,7 +127,7 @@ get_genes <- function(go_ids){
 }
 ```
 
-We can then filter the output by the strength of evidence or any other variable to select the specific gene and position that we want to use.^[Based on the GO documentation, "IEA is a weak association and is based on electronic information, no human curator has examined or confirmed this association... IEA is also the most common evidence code."  Which speaks to the tip-of-the-iceberg nature or our current knowledge.]
+We can then filter the output by the strength of evidence or any other variable to select the specific gene and position that we want to use.^[For instance, we may want to filter on the strength of evidence.  Based on the GO documentation "IEA is a weak association and is based on electronic information, no human curator has examined or confirmed this association... IEA is also the most common evidence code."  Which speaks to the tip-of-the-iceberg nature or our current knowledge.]
 
 ```{r get_genes}
 # Use named lists for the purpose of documentation
@@ -165,10 +164,10 @@ skin_genes <-
 
 ## Step 3: Select a Specific Gene 
 
-Out of all of the genes identified, we need to continue inward toward the needle in the haystack.
+Out of all of the genes identified, we need to continue inward toward the needle in the haystack.  This may include:
 
-- Filter by [evidence type](http://geneontology.org/page/guide-go-evidence-codes)
-- Determine which precise function is the best fit for the poem (e.g. for the `vision_genes`, these include `r #unique(vision_genes$GOTERM)`)
+- Filtering by [evidence type](http://geneontology.org/page/guide-go-evidence-codes)
+- Determining which precise gene function is the best fit for the poem (e.g. for the `vision_genes`, these include `r head(unique(vision_genes$GOTERM))`...)
 
 Based on the final selection of gene, we pass the name of the gene from the `SYMBOL` field (e.g. `"RAX"`) to a convenience function which will return the poetic patterns available based on the gene's nucleotide sequence and accompanying base pairs.
 
@@ -205,34 +204,31 @@ get_patterns <- function(gene_id){
     ) %>%
     mutate_if(
       .predicate = is.character,
-      .funs = funs(as_factor)
+      .funs = list(~as_factor(.))
     ) %>%
-    # mutate(
-    #   EVIDENCE = fct_relevel(EVIDENCE, c())
-    # ) %>%
     inner_join(genome, by = c("PROBEID" = "Probe.Set.Name")) %>%
     inner_join(go_tbl[c(1:2)], by = c("GO" = "go_id")) %>%
     dplyr::select(GENENAME,SYMBOL,sequence,MAP,PATH,PROBEID,x,y,GO,GOTERM = Term,ONTOLOGY,EVIDENCE,EVIDENCE_TYPE) %>%
     distinct() %>%
-  # Arrange by position
-  arrange(x) %>%
-  dplyr::select(sequence) %>%
-  unnest_tokens(
-    nucleotide,
-    sequence,
-    token =  "character_shingles",
-    n = 1
-  ) %>%
-  # Define the other half of the base pair
-  mutate(
-    pair = recode(
+    # Arrange by position
+    arrange(x) %>%
+    dplyr::select(sequence) %>%
+    unnest_tokens(
       nucleotide,
-      `a` = "t",
-      `t` = "a",
-      `c` = "g",
-      `g` = "c"
+      sequence,
+      token =  "character_shingles",
+      n = 1
+    ) %>%
+    # Define the other half of the base pair
+    mutate(
+      pair = recode(
+        nucleotide,
+        `a` = "t",
+        `t` = "a",
+        `c` = "g",
+        `g` = "c"
+      )
     )
-  )
   
   # Define patterns
   tercet_purines <-
@@ -319,19 +315,19 @@ str(vision_patterns$couplet_amino$pattern)
 
 ## Step 5: Fill the Pattern with Words
 
-Identify patterns of words to stand in for each nucleotide. Some options for shared characteristics include:
+Finally, we need to replace the nucleotides (A, T, C, G) with some verbal/written patterns to use in the poem.  So, we define patterns of words to stand in for each nucleotide. Some options for the types of word patterns we might use, based on their shared characteristics, include:
 
-- `letter_proportion`: above a certain proportion of their characters share a single letter
-– `vocal_proportion`: a concentration of similar vocal pattern (such as fricatives)
-– `cluster`: clustered together by similarity across multiple metrics, using *kmeans*
-– `rhyme`: rhyme based on Soundex or other algorithms
+- `letter_proportion`: words which have a certain proportion of their characters sharing the same letter
+- `vocal_proportion`: a concentration of similar vocal pattern (such as fricatives)
+- `cluster`: clustered together by similarity across multiple metrics, using *kmeans*
+- `rhyme`: rhyme based on Soundex or other algorithms
 - `category`: words from a given category (e.g. using the *Regressive Imagery Dictionary* classifications)
-– `regex`: matches a regular expression (e.g. any word beginning with `w` and containing an `o` or `u` in the middle before ending with the letter `d`).
-– Various other potential methods.
+- `regex`: matches a regular expression (e.g. any word beginning with `w` and containing an `o` or `u` in the middle before ending with the letter `d`).
+- Various other potential methods.
 
 ## Appendix: Other options for Packages
 
-There are various options to read in the human genome for use in constructing patterns, each with their own pros and cons.  HEre are a few:
+If you're a fan of this kind of thing, there are various other options to read in the human genome for use in constructing patterns, each with their own pros and cons.  Here are a few:
 
 - The [org.Hs.eg.db](10.18129/B9.bioc.org.Hs.eg.db) package *Genome wide annotation for Human*, primarily based on mapping using Entrez Gene identifiers.  This requires working with the data as a `biostrings` object, but does include association data which will be helpful in locating the nucleotide sequences for use in specific portions of the poem.
 - The [BSgenome.Hsapiens.UCSC.hg19](10.18129/B9.bioc.BSgenome.Hsapiens.UCSC.hg19) *Full genome sequences for Homo sapiens (UCSC version hg19)*
