@@ -373,8 +373,8 @@ Eternal life is terrible when viewed askance, like...
 
 ...but immersed in perspective, it is a harmony, a symmetry unfolding into presence.
 
-Symmetry is beautiful, because it floats amid annhilation,
-if the edges of a thing are its annhilation,
+Symmetry is beautiful, because it floats amid annihilation,
+if the edges of a thing are its annihilation,
 
 cf. Life's symmetry:
 
@@ -516,7 +516,7 @@ with antique barges
 for we are young as mornings  
 washings on the shore
 
-We must be notched
+We must be notched/fretted
 with arches, coming and going from the sky
 
 and breasts, so many,  
@@ -536,9 +536,9 @@ a valved instrument
 to lure and bear away
 
 through cavernous gates
-conveying centuries of travellers  
-into tunnels, lungs and dawns  
-reborn
+conveying centuries of travelers  
+reborn to tunnels, lungs and dawns  
+
 
 here they paint houses with the sun's revelations:  
 rust petal, blood-orange,  
