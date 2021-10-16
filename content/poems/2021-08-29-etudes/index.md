@@ -193,8 +193,54 @@ To be eaten, as to eat.
 *
 
 
-The sea absorbs our feelings, hopes, imaginings.  
-How strange it suffers from our negligence.  
+The sea absorbs our feelings, hopes, imaginings,  
+all but our negligence.  
+
+
+*
+
+
+Is desire the price of beauty?  
+
+Here my only past  
+is your face, creased with reactions.  
+
+Apart from this, there is only away.  
+
+
+*
+
+
+Before you know it,  
+the sand in the wave's wall  
+is the shore.  
+
+
+*
+
+
+My words will be lost,  
+sure as the furious  
+airplay of swallows  
+juts and chirps between  
+the deep peaks.  
+
+
+*
+
+
+Midwest: a sky sutured  
+with phonewires and toothpicks,  
+
+A budgeted beauty,  
+mowing the interrupted plains.
+
+
+*
+
+
+Death exudes fear, which latches onto sin:  
+power or pleasure, control or abandon.
 
 
 *
