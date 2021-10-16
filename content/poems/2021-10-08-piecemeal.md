@@ -1,8 +1,8 @@
 ---
 title: Piecemeal
 author: J. Hagedorn
-date: '2021-08-29'
-slug: etudes
+date: '2021-10-08'
+slug: piecemeal
 meta_img: /images/image.jpg
 ---
 
@@ -20,7 +20,7 @@ the ear in the throat's shell.
 *
   
 
-riven, arrive
+Riven, arrive.
 
 
 
@@ -32,7 +32,7 @@ allude, allure,
 
 strive the path into being,  
 hunger until you taste  
-like animals.  
+like an animal.  
 
 
 *
@@ -41,8 +41,7 @@ like animals.
 Do nothing and things  
 will be transmuted,  
 
-especially  
-the phalanx of your doings:  
+especially the phalanx of your doings:  
 
 abyss for god-gestures
 
@@ -51,8 +50,7 @@ abyss for god-gestures
 
 
 Alert to scents behind stars, behind    
-
-twintwisting alphabets, leaf-etched messages,  
+twintwisting alphabets, leaf-etched messages--  
 
 Mindfold, the deerdark eye  
 
@@ -121,8 +119,7 @@ waver, even while we stay.
 The receipt is a song,  
 in call and response:  
 
-sustenance........ spent energy  
-fleet desire...... leaky sacrifice
+Desire ........ Cost  
 
 
 *
@@ -183,9 +180,9 @@ to be anything.
 *
 
 
-To be known, touched  
-by breeze and the sun  
-in the sand.
+To be a-  
+part, touched  
+by the sun in the sand.
 
 To be eaten, as to eat.
 
@@ -219,11 +216,10 @@ is the shore.
 *
 
 
-My words will be lost,  
+My words will fade,  
 sure as the furious  
 airplay of swallows  
-juts and chirps between  
-the deep peaks.  
+between the deep peaks.  
 
 
 *
