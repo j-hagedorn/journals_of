@@ -548,3 +548,178 @@ sharing the colors of until.
 
 ---
 
+S. Caecilia in Trastevere
+
+Beyond the courtyard, fountain, past vast doors, down 
+the geometric marble aisle, beneath the circular heavens 
+and the organ's syrupy tone  
+
+in the center of the made world is a pale, cowering woman  
+with her throat slit.  
+
+Why have so many people filed through these doors to visit her?
+ Why do the mosaic lambs align, stage center, with the mark of death? Why were the doors built at all?  Why steal the Roman pillars and the colored shards?
+ 
+As a monument to the central, sensual truth, that to conquer the fear of death is more than emperoros or civilizations can muster.
+
+The monument is built both in homage, and as a way of distancing ourselves.
+
+To take in all of life in one swallow  
+is more than we can bring ourselves to taste.
+
+We distance by lifting up.
+
+revere, vertical, revert  
+
+Continuing with our meager fear, even at the feet of the revelation.
+
+(Eventually the Church became fearful of wounds, of life's verge, and would not follow martyrs but produce them.  Across the river, G. Bruno was burned in the name of infinity)
+
+---
+
+It bears asking whether knowledge is, in fact, a thing that can be democratized.  Can an old growth forest be democratized?  Can wine with terroir?
+
+[File under: Medium // Message]
+
+The reduction of words to Unicode & their ubiquitous availability has been touted as a "democratization of knowledge."  Words/text are the containers of thought, and thus there is now no formal difference between:
+
+- an illuminated manuscript
+- the words scrawled by Pascal into his coat pocket
+- the menu at a local restaurant
+- a bill posted on the federal government's website
+
+---
+
+*Strains*
+
+rough | live  
+smooth | dead  
+heat-killed smooth | live  
+rough & heat-killed smooth | dead  
+
+Griffiths experiment (1928)  
+
+- transfer of traits from dead bacteria's DNA to live, non-virulent DNA
+- even when killed, the DNA transforms the living
+
+We are made up of the past, our surroundings.  They live in us.  
+
+Boveri-Sutton chromosome theory-- found that chromosomes combined in a similar way to the heritable traits observed by Mendel Morgan (1911) showed that chromosomes are the physical LOCATION for traits.
+
+Symbols-- encoding for traits...
+
+Chromosomes... made up of {DNA, proteins}
+
+*Transformation principle* (Griffiths experiment): DNA is the ingredient that transforms *when* you mix one strain with another. (Avery et al. 1944)
+
+DNA's work in transformation, where it can communicate the traits of the dead to the living, seems an echo of the "collective unconscious" impulse we have sensed, some sub-sub-conscious cellular intuition, that tells us to:
+
+- procreate (make children, make art)
+- using what is at hand (it is these bodies we have, these colors, these tropes)
+
+"Vita brevis, ars longa"  
+"A friend to men..", an ally.  
+"The communication / of the dead is tongued with fire beeyond the language of the living." - *Little Gidding*  
+"We are born with the dead: See, they return and bring us with them" - *Little Gidding*  
+
+Just as art requires copying, reading, writing, so with transcription.
+
+---
+
+a. Heritable traits (Mendel)
+b. are based on chromosomes (Sutton, Boveri Morgan)
+c. whose transformative language is DNA (Griffith, Avery)
+d. whose structure is a double helix (Watson, Crick, Franklin)
+
+---
+
+The dead transmit themselves to us, their minds into our minds, so that we are seeing this oak tree, this grassblade, through their eyes.
+
+What forms do they use, to rise into us?  The word/sentence/epigram, catalyzed by epiphany?
+
+Wm. Burroughs thought of the word as a virus, though I am tempted to view it as an appendage-- or an ark we store ourselves in as seeds-- or as mycelleum, a network which transcends and unites us, ushers us into and after death.
+
+---
+
+C.S. Lewis speaks about morality being comprised of three separate orientations, which must be balanced:
+
+1. Social fair play
+2. Individual character
+3. Goal, or destination
+
+These three are strikingly similar to the rules provided by Reynolds for his 'boids' programmed to simulate swarm behavior.  Which is to say that they "work" at a basic mathematical level to preserve structure and balance individualism and coherence.
+
+---
+
+Walter Pater paints DaVinci as being suspended between the dueling impulses of  
+
+CURIOSITY <> DESIRE FOR BEAUTY
+
+On the one hand, to see thoe impulses as conflicting requires an assumption about the nature of reality-- that it will not reward curiosity with grandeur.  That at the end of the tunnel which the scalpels opens in the cadaver, there is not some flower.
+
+The explorer in me wants to object to this, but I know also that the drive to discover hungers past beauties-- devours vistas as provisional.
+
+It may be that Pater, when juxtaposing these two pulls in Leonardo, has in mind a notion of beauty as equilibrium-- composition, proportion and peace.
+
+If, as Poe said, only that which is in proportion to the person can be called beautiful, then a curiosity which drives us into the maw of the infinite or infinitesimal (or any hard, tactile sublimity) will not be beautiful (if by beauty we mean ratio and harmony).
+
+---
+
+...but can't motion itself be beautiful, and in proportion?  PACING has a grace (not only stillness, but also time has a symmetry--which is what makes music paradoxically approach silence)
+
+This is part of why I love written poetry, because it hugs the divide between spatial (page) and temporal (oral).
+
+---
+
+Kierkegaard: "It is wholesome to let things hinge on the arbitrary"  
+
+Poetic form, which while not random is nonetheless external... it is arbitrariness pored over, inhabited, and granted a meaning which is ultimately the purpose of the form.
+
+What seems arbitrary is often the occasion for *epiphany*.
+
+One is born into a set of circumstances so complex that they may appear arbitrary, e.g. religious upbringing, race, gender, etc.) yet it is the way we work with these constraints which forms life in its beauty.
+
+*Arbiter*: an external control // *religio*, marriage embracing limits.
+
+Our arms and hands should be enough to tell us that the only thing we embrace are limitations.
+
+and we can only embrace these incompletely (cf. Proust's lament that love desires to embrace all of time, or Michelangelo's slaves which embrace the ideal only by coming up short of shape).
+
+The sense of the arbitrary as requiring participation is wrapped up in its etymology-- to go and see.  Which is why "arbiter" = "judge", or one who goes to observe something which cannot be ascertained from afar, & as we know (even at the quantum level) the act of observing a thing changes it.  In this case, investing it with an interpretation.
+
+Arbitrariness is randomness inhabited, made a home.
+
+We cannot help but make the random personal.
+
+---
+
+Gaeta
+
+blanket of black mollusks  
+sea-rock pocked with salted rain  
+rock become banches by erasure, erosion  
+
+not the fingers of want, but the blank  
+spaces between, of plenty
+
+---
+
+The challenge of phrasing is how to attain precision without succumbing to the illusion that one has attained reality.  To grasp, and in grasping, release-- like climbing or walking a rope, where the step/attainment must be paired with momentum, or else one falls off.
+
+To nourish the notion, like a wild swift alighting on the windowsill.  Not caging it.
+
+Snakes sipping milk from a bowl outside your door.
+
+One grain short of a seashore, stop.
+
+---
+
+Groundlessness
+
+- treating each ground as provisional
+- avoiding closure, tricking death
+- defeat of hades
+
+---
+
+The internet as harbinger of teleportation, as attention on the present word is diminished due to the presence of a hyperlink, so our attention to a scenic vista would be diminished if we had a teleporter.
