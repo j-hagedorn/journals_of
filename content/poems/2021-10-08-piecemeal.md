@@ -16,13 +16,9 @@ the place of its hearing:
 breath-ballast forged toward  
 the ear in the throat's shell.  
 
-
 *
-  
 
 Riven, arrive.
-
-
 
 *
   
@@ -57,15 +53,14 @@ Mindfold, the deerdark eye
 
 *
 
-
+Grass-split
 and then
 
-skystalks  
+skystalks the  
 kestrels climb
 
 
 *
-
 
 This plodding omniscience, not  
 to be complete until  
@@ -77,22 +72,18 @@ time, forget.
 
 *
 
-
 We are earth's  
-young it devours through  
+young it devours with  
 their own ravenous kisses.  
 
 
 *
 
-
-Goldenrod, your smiling stride  
+Goldenrod. Your smiling stride  
 beside me.  So much light,  
 I can only cast shadows inward.  
 
-
 *
-
 
 Only what is "mine"  
 must be repented  
@@ -102,25 +93,21 @@ with rhythm-rutted words, smoothed across tongues,
 what newly beckons  
 me never to arrive.
 
-
 *
 
-
-Pulse is a quality  
+Pulse, a quality  
 of stars and hearts.  
 
-We come and go.  We  
-waver, even while we stay.
+We come and go.  
+We waver, even while we stay.
 
 
 *
 
-
-The receipt is a song,  
-in call and response:  
+Each receipt's scroll  
+a song, call and response:  
 
 Desire ........ Cost  
-
 
 *
 
@@ -182,7 +169,7 @@ to be anything.
 
 To be a-  
 part, touched  
-by the sun in the sand.
+by that sun in the sand.
 
 To be eaten, as to eat.
 
@@ -190,7 +177,7 @@ To be eaten, as to eat.
 *
 
 
-The sea absorbs our feelings, hopes, imaginings,  
+The sea absorbs our feelings, hopes, imaginings...  
 all but our negligence.  
 
 
@@ -207,7 +194,6 @@ Apart from this, there is only away.
 
 *
 
-
 Before you know it,  
 the sand in the wave's wall  
 is the shore.  
@@ -215,18 +201,16 @@ is the shore.
 
 *
 
-
-My words will fade,  
-sure as the furious  
-airplay of swallows  
+My words fade, sure  
+as the furious  
+airplay of starlings  
 between the deep peaks.  
-
 
 *
 
 
 Midwest: a sky sutured  
-with phonewires and toothpicks,  
+with wires and toothpicks,  
 
 A budgeted beauty,  
 mowing the interrupted plains.
