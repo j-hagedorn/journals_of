@@ -10,3 +10,4 @@ HUGO_VERSION = '0.100.2'
 [context.production.environment]
 HUGO_VERSION = '0.100.2'
 HUGO_ENV = 'production'
+HUGO_ENABLEGITINFO = "true"
