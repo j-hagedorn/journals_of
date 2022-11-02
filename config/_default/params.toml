@@ -17,12 +17,12 @@ enableCodeCopy = false
 # robots = ""
 
 [header]
-  layout = "basic" # valid options: basic, hamburger, custom
+  layout = "hamburger" # valid options: basic, hamburger, custom
 
 [footer]
   showCopyright = true
   showThemeAttribution = false
-  showAppearanceSwitcher = false
+  showAppearanceSwitcher = true
   showScrollToTop = true
 
 [homepage]
@@ -30,7 +30,7 @@ enableCodeCopy = false
   showRecent = false
 
 [article]
-  showDate = true
+  showDate = false
   showDateUpdated = false
   showAuthor = true
   showBreadcrumbs = true
