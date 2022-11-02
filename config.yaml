@@ -1,10 +1,13 @@
 theme: congo
-defaultContentLanguage: en
-enableRobotsTXT: yes
-paginate: 10
-summaryLength: 0
-outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON
+taxonomies:
+  tag: tags
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+      
+ignoreFiles:
+  - \.Rmd$
+  - \.Rmarkdown$
+  - _cache$
