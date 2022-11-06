@@ -1,0 +1,33 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "Journals of"
+# logo = "img/wall.png"
+# description = "My awesome website"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "Joshua Hagedorn"
+  image = "img/sea.jpg"
+  # headline = "I'm only human"
+  # bio = "A little bit about you"
+  links = [
+  #   { email = "mailto:hello@your_domain.com" },
+  #   { link = "https://link-to-some-website.com/" },
+     { github = "https://github.com/j-hagedorn" },
+  #   { google = "https://www.google.com/" },
+  #   { instagram = "https://instagram.com/username" },
+  #   { linkedin = "https://linkedin.com/in/username" },
+  #   { medium = "https://medium.com/username" },
+     { orcid = "https://orcid.org/0000-0001-8026-7562" },
+  #   { patreon = "https://www.patreon.com/username" },
+  #   { reddit = "https://reddit.com/user/username" },
+  #   { researchgate = "https://www.researchgate.net/profile/username" },
+  #   { twitter = "https://twitter.com/username" },
+   ]
