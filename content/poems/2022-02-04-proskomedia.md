@@ -6,67 +6,66 @@ slug: proskomedia
 meta_img: /images/image.jpg
 ---
 
-προσκομιδή
-
-
+προσκομιδή  
+<br>
 Past the sky-shellac, where ancients  
 pictured viscous waters, *it* is empty.  
 It barely is.  
-
+<br>
 A lone atom glides there, mutely  
 hails its nearest neighbor centuries away  
 hairless as a diagram until  
 they hisce and spindle and congeal  
 from next to nothing into sympathy.  
-
+<br>
 Lives emerge through each other, plaited,  
 sheathed into their generations--we who  
 can do nothing but tiptoe, intent,  
 whose ground is elsewhere--a tug  
 embrangling our lusts and sorrows  
 up the hissing sweep of radiance.  
-
+<br>
 ⁕  ⁕  ⁕  
-
+<br>
 The vasts accrete between and within  
 us even now and we cannot  
 traverse them or do otherwise.  
-
+<br>
 Words never said, or said askew  
 (*I resent you*, *I love you*)  
 Nights where a glacier of sheets  
 horizoned the bed, our clenched forms  
 islands knotted on the far rims.  
-
+<br>
 I filled that space with shards  
 of me that you might love  
 and gnawed my fingers, rushing through  
 the feast of days as though  
 anxious to become a ghost, or  
 fully appear, a mild-flavored air.  
-
+<br>
 You await, these decades, my arrival.  
-
+<br>
 Pounding my chest, your teeth against  
 my collarbone, your eyes across  
 the unrelenting room.  You hold me  
 in your body, honey and clove:  
 a humid fire, ember of flesh  
 on which my ashes tremble, rest.  
-
+<br>
 These signs and thoughts not mine:  
 mine only to surrender, a whisper  
 made resonous, carried on your tongue.  
-
+<br>
 Gather me in your decisive hands.  
-
+<br>
 ⁕  ⁕  ⁕  
-
+<br>
 Before I could see, I needed  
 to be seen.  Beheld so carefully  
 the bruises ripened, turned to birthmarks,  
 their depths summoned up.  I'm here.  
-
+<br>
 Faces arise from atoms again  
 # wanting to be known
 again again again--eyestalks of snails,  
