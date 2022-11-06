@@ -1,0 +1,13 @@
+# Refer to the theme docs for more details about each of these parameters.
+# https://jpanther.github.io/congo/docs/getting-started/
+
+baseURL = "https://j-hagedorn.com/"
+defaultContentLanguage = "en"
+
+enableRobotsTXT = true
+groupByYear = false
+paginate = 10
+summaryLength = 0
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
