@@ -46,7 +46,7 @@ So what kind of tools enable one to approach the sublime?  I want the answer to 
 
 In the case of Romantic-era scientists, no.  And these scientists are among the best examples we have of experimental mystics.
 
-![*Cyanometer*](/img/journal/cyanometer.jpg){width=50%}
+![Cyanometer](/journal/2018-04-02-tools-toward-sublimity_files/cyanometer.jpg){width=50%}
 
 ### The weight of sight
 
