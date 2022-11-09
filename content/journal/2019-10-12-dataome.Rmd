@@ -4,9 +4,6 @@ author: J. Hagedorn
 date: '2019-10-12'
 slug: dataome
 categories: []
-tags:
-  - data
-meta_img: /images/image.jpg
 ---
 
 Maybe my interest derives from a life saturated by the Christian notion of the *Word made flesh*.  Maybe it comes from a desire to reconcile my fascination with symbols and simultaneously with the ungovernable sea of stuff surrounding me.  Perhaps from other strands whose weaving-needles clack at the base of my cerebellum.  I'm not sure.  But I've always been drawn to ways of thinking about words which inhabit an uneasy space between symbolic and raw material.
@@ -15,7 +12,7 @@ The notion of the word as virus in Burroughs,^[see Burroughs, W.S. [Electronic R
 
 In the paragraphs which follow, I won't be advancing any new theory, at least not deliberately: just hacking a path through some abstract ideas and hopefully getting clarity on how to live under their canopy. 
 
-### Contexts of Knowledge: Internal and External
+## Contexts of Knowledge: Internal and External
 
 There are various ways of conceptualizing the 'stuff' of symbolized human thought, but I can start with a simple distinction: whether it is inside or outside of me.  
 
@@ -24,7 +21,7 @@ There are various ways of conceptualizing the 'stuff' of symbolized human though
 
 These are not mutually exclusive; in fact, they exist alongside each other every day.  I take information from the internet, think about it (*internal*), and write something on the internet in response (*external*). This is also not a distinction between 'good' or 'bad'; a medicine (*pharmakon*) can be both healing agent and poison, and both possibilities are alive in it at any moment.  Words are pulsing with this power: we access it, take it into ourselves, and generate more. 
 
-### External: The Placental Garden Library
+## External: The Placental Garden Library
 
 And what we collectively generate remains with us.  References to created artifacts having their own life, independent of the biological existence of their makers, have been around for a long time. Recall Horace’s "Life is short, art is long."  But contrasting art with life doesn't do justice to their inter-penetration: the ways in which art insinuates itself into life, which in turn pollinates other art, and so on.  Shakespeare’s sonnet 18 gets closer to articulating this symbiosis, with its closing promise that "so long lives this, and this gives life to thee."  Anything that *lives*, whether literally or figuratively, requires organization and maintenance, requires energy.
 
@@ -42,7 +39,7 @@ We can lay out the relation between these external sources of nourishment in the
 
 These are objects that we can point to, and they are also redolent with myth.  There are echoes of these images among various world-founding myths which frame creation as a separation of chaos from cosmos, such as the story of the Garden of Eden.  In this account the first habitation of humans is not made by them but fashioned with love and care by Another: an Ur-garden, similar to a placenta, or womb.^[The symbolism of the altar of an Orthodox church as both Eden and womb, with the Theotokos as the sky, is a powerful merging of these symbols.]  The initial act is one of ordering, or creating a place where things are nourished and protected.  All of our making of gardens, whether the palacial or backyard variety, is an image of this ordering.  Similarly, the coagulation of strains of thoughts in books, and the sorting of those books in libraries, is an apprenticeship to the ongoing creation of meaning by Reality.
 
-### Internal: Eating Living Medicine
+## Internal: Eating Living Medicine
 
 Information enters into us and changes us, shaping our actions and our bodies: what we decide to ingest or tattoo on ourselves, where we live, who we consider 'safe' or 'dangerous'.  Information is not inert, not a pale pharmaceutical product.  It is closer to the 'plant allies' which we keep in our gardens and which constitute our food and medicine: living things we rely on in any interactive partnership.  In his *Aids to Reflection*, the poet Samuel Taylor Coleridge advises: "accustom yourself to reflect on the words you use, hear, or read, their birth, derivation and history.  For if words are not THINGS, they are LIVING POWERS, by which the things of most importance to mankind are actuated, combined, and humanized."^[Aids to Reflection, p. 70.] 
 
