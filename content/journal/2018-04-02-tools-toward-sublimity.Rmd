@@ -7,7 +7,7 @@ categories: []
 tags: []
 ---
 
-<h3>Why so serious?</h3>
+## Why so serious?
 
 Looking at the way *Self*, *Nature* and the *Sublime* are framed in Romantic-era science, it is intriguing to see how (even in fields supposedly untinged by subjectivity), the medium marinades the message.  It is difficult to imagine any peer-reviewed journal today, for instance, voicing these lines from William Herschel:^[See [Darwin, G. H. (1912). Sir William Herschel. Science.](https://archive.org/stream/jstor-1637819/1637819#page/n9/mode/2up/search/luxuriant+garden)]
 
