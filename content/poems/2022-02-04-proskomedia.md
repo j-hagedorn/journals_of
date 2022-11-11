@@ -67,7 +67,7 @@ the bruises ripened, turned to birthmarks,
 their depths summoned up.  I'm here.  
 <br>
 Faces arise from atoms again  
-# wanting to be known
+wanting to be known
 again again again--eyestalks of snails,  
 the smiling gums of wooly dogs--  
 come from the human-scented distances,  
