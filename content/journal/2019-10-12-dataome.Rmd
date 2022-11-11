@@ -1,5 +1,5 @@
 ---
-title: Consuming Knowledge (Part 1)
+title: Consuming Knowledge
 author: J. Hagedorn
 date: '2019-10-12'
 slug: dataome
