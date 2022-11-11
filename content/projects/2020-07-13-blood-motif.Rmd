@@ -19,7 +19,7 @@ knitr::opts_chunk$set(
   fig.width=6,fig.asp = 0.618,dpi=400,echo=FALSE,message=FALSE,warning=FALSE
 )
 
-motifs <- read_csv("../../static/projects/2020-07-13-blood-motif_files/tmi.csv")
+motifs <- read_csv("2020-07-13-blood-motif_files/tmi.csv")
 source("https://raw.githubusercontent.com/j-hagedorn/mythos/master/prep/motif_network.R")
 
 search_term <- regex("blood|bleed",ignore_case = T)
