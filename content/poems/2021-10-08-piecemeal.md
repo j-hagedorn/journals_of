@@ -6,22 +6,21 @@ slug: piecemeal
 meta_img: /images/image.jpg
 ---
 
-<span style='color: white;'>.</span>
-
-
-
 A word is sound seeking  
 the place of its hearing:  
 
 breath-ballast forged toward  
 the ear in the throat's shell.  
 
+
 *
 
+  
 Riven, arrive.
 
+
 *
-  
+
 
 To do the opposite of covet:  
 allude, allure,  
@@ -105,9 +104,10 @@ We waver, even while we stay.
 *
 
 Each receipt's scroll  
-a song, call and response:  
+is a song, call and response:  
 
 Desire ........ Cost  
+
 
 *
 
