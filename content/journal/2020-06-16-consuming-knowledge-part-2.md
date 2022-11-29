@@ -1,28 +1,26 @@
 ---
-title: Consuming Knowledge (Part 2)
+title: Consuming Knowledge
 author: J. Hagedorn
 date: '2020-06-16'
-slug: consuming-knowledge-part-2
+slug: consuming-knowledge
 categories: []
-tags:
-  - data
-  - notes
-meta_img: /images/image.jpg
 ---
 
-### Where We're From
+### First Fruits
 
-How deeply are the roots of knowing and bodily being entwined?  To investigate, ask: "*What am I without my thoughts?*"  Much of the contemporary Western mindset has been influenced by the Cartesian dictum "I think, therefore I am", which places a giant equals sign between thinking and being.  This formulation has had visceral consequences, leading to the dehumanization of individuals with lower *IQ scores* and even to forced sterility and extermination campaigns of the early 20th century, in both the United States and fascist Europe.  Reflecting on the effects of these in his essay "Learning from the Tyrants", E.M. Cioran points to Adolf Hitler as: 
+How deeply are the roots of knowing and bodily being entwined?  To investigate, ask: "*What am I without my thoughts?*"  
 
-"*..important not so much in himself as in what he heralds, the rough draft of our future... precursor of that grand-scale despot who will succeed in unifying the world by science, destined not to deliver but to enslave us.  This was understood long ago, it will be understood again one day.  We are born to exist, not to know; to be, not to assert ourselves.  Knowledge, having irritated and stimulated our appetite for power, will lead us inexorably to our ruin.  It is Genesis, not our dreams and our systems, that has perceived our condition.*"^[Cioran, E.M. "Learning from the Tyrants." *History and Utopia.* trans. Richard Howard. University of Chicago Press, 1987.]
+Descartes' "I think, therefore I am" places a giant equals sign between thinking and being.  This formulation has had visceral consequences, including the dehumanization of individuals with lower *IQ scores* and even the forced sterility and extermination campaigns of the early 20th century, in both the United States and fascist Europe.  Reflecting on the effects of these in his essay "Learning from the Tyrants", E.M. Cioran depicts Hitler as: 
 
-By revisiting this story, this myth from our collective childhood, we might even now perceive our condition.  Cioran reads the "tree of the knowledge of good and evil" from the Genesis myth not as a moral trespass, but as opening up a deluge of both truth and the turning away from truth, of good and its twisting. Similarly, theologians from early antiquity interpret knowledge not as something prohibited, but as something requiring wisdom if we are to be innoculated against its danger.
+> "*..important not so much in himself as in what he heralds, the rough draft of our future... precursor of that grand-scale despot who will succeed in unifying the world by science, destined not to deliver but to enslave us.  This was understood long ago, it will be understood again one day.  We are born to exist, not to know; to be, not to assert ourselves.  Knowledge, having irritated and stimulated our appetite for power, will lead us inexorably to our ruin.  It is Genesis, not our dreams and our systems, that has perceived our condition.*"^[Cioran, E.M. "Learning from the Tyrants." *History and Utopia.* trans. Richard Howard. University of Chicago Press, 1987.]
 
-Each time we partake of knowledge, we eat again from that primordial tree.  Each headline, each poem, every book and piece of clickbait.  Exposing ourselves to both good and evil, yet barely able any longer to differentiate between the two, which have been cross-bred through so many successive generations.  The tree of knowledge mingles good and evil without providing any ability to distinguish between them.  Partaking of this knowledge, one moves from a curated version of the world (*the garden*) to the unfiltered world (*the forest/wilderness*): an image reflecting our condition as children, arising into the confusion of the world, and as parents preparing children to move into the uncurated wilderness.
+By revisiting this story, the Genesis myth from the West's collective childhood, we might even now perceive our condition.  Cioran reads the "tree of the knowledge of good and evil" from the Genesis myth not as a moral trespass, but as opening up a deluge of both truth and the turning away from truth, of good and its twisting. Similarly, theologians from early antiquity interpret knowledge not as something prohibited, but as something requiring wisdom if we are to be inoculated against its danger.
+
+Each time we partake of knowledge, we eat again from that primordial tree.  Each headline, each poem, every book and piece of click-bait.  Exposing ourselves to both good and evil, yet barely able to differentiate between them any longer, cross-bred as they have been over so many successive generations.  The tree of knowledge mingles good and evil without providing any ability to distinguish them.  Partaking of this knowledge, one moves from a curated version of the world (*the garden*) to the unfiltered world (*the forest/wilderness*): an image reflecting our condition as children, arising into the confusion of the world, and as parents preparing children to move into the uncurated wilderness.
 
 Yet it is not merely the content of knowledge which is true or false; the issue is not that some false ideas got mixed in with the true ones.  It is knowledge itself which creates an inauthentic relationship of the person to the world.  The paragraphs which you traversed to arrive at this sentence contain views of the world which are blurred by the motion of cadence and obscured through the false familiarity of idiom. The view of knowledge as a set of analogies which one might hold in one's hand or set upon a table is a phantasm.
 
-It is the placing of this phantasm over the beautiful body of the world which expels us from the garden.  Even before the fiery seraphim is placed at the gate to bar them from re-entry, knowledge has placed a gauze between these primordial humans and the world around them.  Recovering paradise does not merely consist of sorting all of the `TRUE` and `FALSE`, or `GOOD` and `EVIL`, notions into the correct bins.  I must part the fog of my own thoughts to encounter Reality, to stand in the presence of beauty.  As Milosz writes:^[Milosz, Czeslaw.  "One More Day". *Unnattainable Earth*. trans. Robert Hass.  Harper Collins, 1986.]
+It is the placing of this phantasm over the beautiful body of the world which expels us from the garden.  Even before the fiery seraphim is placed at the gate to bar them from re-entry, knowledge has placed a gauze between these primordial humans and the world around them.  Recovering paradise does not merely consist of sorting all of the `TRUE` and `FALSE`, or `GOOD` and `EVIL`, notions into the correct bins.  I must pierce the fog of my own thoughts to encounter Reality, to stand in the presence of beauty.  As Milosz writes:^[Milosz, Czeslaw.  "One More Day". *Unnattainable Earth*. trans. Robert Hass.  Harper Collins, 1986.]
 
 > And though the good is weak, beauty is very strong.  
 Nonbeing sprawls, everywhere it turns into ash whole expanses of being,  
