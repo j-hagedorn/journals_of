@@ -3,6 +3,8 @@ title: Personality and Virtue
 author: J. Hagedorn
 date: '2023-08-15'
 bibliography: ["spiral.bib"]
+csl: https://www.zotero.org/styles/chicago-fullnote-bibliography
+suppress-bibliography: true
 slug: []
 description: ''
 ---
@@ -13,26 +15,32 @@ The days slip away.  I will never see yesterday again, and I'm continually tipto
     
 Circle, line: these are partial figures we've often fused together to depict our experience, since neither seems adequate by itself.  Change is possible, but the new grows from the old.  Each adult is formed from the body of a child.  Tomorrow I will still be me, but I can unlock the closed cycle of my habits and choose what is good.  Recognizable, but transformed. *Life is a spiral*.
     
-Preparing myself, I shuffle the small deck of questions I've nearly worn out with partial answers:  [Who am I?](#who-am-i?) [What do I want to become?](#what-do-i-want-to-become?) [How do I change myself?](#how-do-i-change-myself?)  There's no reason to listen to my slow rehearsal, except that the answers are not mine: they're a playlist of other, lovely voices.
+Preparing myself, I shuffle the small deck of questions I've nearly worn out with partial answers:  [Who am I?](#who) [What do I want to become?](#what) [How do I change myself?](#how)  There's no reason to listen to my slow rehearsal, except that the answers are not mine: they're a playlist of other, lovely voices.
 
-## Who am I?
+## Who am I? {#who}
 
 ### A Little World in Motion
 
 "*I am a little world made cunningly / Of elements and an angelic sprite*" writes John Donne,^[See [Holy Sonnet 5](https://www.poetryfoundation.org/poems/44108/holy-sonnets-i-am-a-little-world-made-cunningly)] gesturing toward our smallness and our vastness, our physicality and what is intangible in us.  Even that intangible part of us seems to be composed of reflections: ^[As one of Donne's contemporaries notes, the "*mind a mirror is of heavenly sights, / A brief wherein all marvels summed lie*".  See [Look Home](https://www.poetry.com/poem/31924/look-home) by Robert Southwell.] though there is one reality, we each walk around in our "own worlds" and participate in each others' "worlds".  
 
-In *A Foray into the Worlds of Animals and Humans*, @jakobvonuexkullForayWorldsAnimals describes how the internal world of any organism, including humans, is made up.  He names this subjective world an Umwelt (*surroundworld*) since it is focused outward, created and reshaped by each of us when we interact with reality. This cycle shows how it works in action:
+In *A Foray into the Worlds of Animals and Humans*, @jakobvonuexkullForayWorldsAnimals2010 describes how the internal world of any organism, including humans, is made up.  He names this subjective world an Umwelt (*surroundworld*) since it is focused outward, created and reshaped by each of us when we interact with reality. This cycle shows how it works in action:
 
 ![](images/umwelt.png){width=80%}
 
 The beauty of the Umwelt model is that it explains a lot, and simply. It pares down the bewildering array of experience into two realms: *inside* of me, and *outside* of me. In it, all experiences are shown as pathways between the inner world and outer reality: the narrow routes by which we *sense* the outer world (coming in), and by which we *affect* it (going out).
 
+Staggering and complex as our experiences are, they move through us along this pathway.  But the path is not a circle, endlessly playing the same loop over and over again: it's a spiral.  The world changes, and calls me to change.  Sunsets may be the same as when I was a kid, but I *sense* them differently.  I change myself, and even the vast world, a little bit at a time.
+
+I am not a closed loop.  Everything that I experience (each kiss, each poem, each peach) is just a portion of a circle, calling out into a world too great for me to control (*thus the diagram's dotted lines*). Merely to exist requires much going right (luck, or grace, whatever one calls it), which means that we are continually vulnerable. Open-ended: a cove, a stage.  
+
 This cycle weaving together inner and outer worlds depicts a dance that has been engaged by philosophies and religions across cultures and ages: Atman and Brahman^[अयम् आत्मा ब्रह्म
-*ayam ātmā brahma*, roughly translated "the self is connected to the deep foundation of reality", from the [Brihadaranyaka Upanishad 4.4.5](https://archive.org/details/Brihadaranyaka.Upanishad.Shankara.Bhashya.by.Swami.Madhavananda/page/712/mode/2up). The Upanishads also include the notion that all creatures are connected to this deep foundation, (सर्वं खल्विदं ब्रह्म, *sarvam* *khalvidam* *brahma*), see [Chandogya Upanishad 3.14.1](https://archive.org/details/upanishads01ml/page/48/mode/2up)], the knower and the known, I and Thou [@buberThou2000], the individual soul and the Empyrean.
+*ayam ātmā brahma*, roughly translated "the self is connected to the deep foundation of reality", from the [Brihadaranyaka Upanishad 4.4.5](https://archive.org/details/Brihadaranyaka.Upanishad.Shankara.Bhashya.by.Swami.Madhavananda/page/712/mode/2up). The Upanishads also include the notion that all creatures are connected to this deep foundation, (सर्वं खल्विदं ब्रह्म, *sarvam* *khalvidam* *brahma*), see [Chandogya Upanishad 3.14.1](https://archive.org/details/upanishads01ml/page/48/mode/2up)], the knower and the known, I and Thou [@buberThou2000], the individual soul and the Empyrean^[For Dante, entering heaven can be seen as approaching this unity between self and other: "*In this flash of insight, all “I”s are one: each is everything and nothing. This was the revelation experienced by Moses on Mount Sinai, which prompted him to tell the Israelites: “I AM sent me to you.”*". [@moevsMetaphysicsDanteComedy2005], p. 31].
+
+  
 
 
-## What do I want to become?
+## What do I want to become? {#what}
 
-## How do I change myself?
+## How do I change myself? {#how}
 
 ## Works Referenced Here
