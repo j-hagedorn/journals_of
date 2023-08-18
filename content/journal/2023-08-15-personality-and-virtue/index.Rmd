@@ -9,7 +9,7 @@ slug: []
 description: ''
 ---
 
-The days revolve.  I awake again into myself.  I walk the familiar orbit of habits and tensions tracing back to my childhood.  To my parents, to their childhoods. And so on.  *Life is a circle.*  
+The days revolve.  I wake again into myself.  I walk the familiar orbit of habits and tensions tracing back to my childhood.  To my parents, to their childhoods. And so on.  *Life is a circle.*  
     
 The days slip away.  I will never see yesterday again, and I'm continually tiptoe on the verge of an undiscovered moment.  *Life is a line.*  
     
@@ -34,9 +34,9 @@ The beauty of the Umwelt model is that it explains a lot, and simply. It pares d
 
 Staggering and complex as our experiences are, they move through us along this pathway.  But the path is not a closed circle, endlessly playing the same loop over and over again: it's a spiral.  The world changes, and calls me to change.  Sunsets may be the same as when I was a kid, but I *sense* them differently.  I change myself, and even the vast world, a little bit at a time.
 
-The spiral, that elegant fusion of circle and line, acknowledges repetition while allowing transformation.  And it's worth noting that I can change for better or for worse, which we acknowledge when we talk about a *vicious cycle* (or its more recent sibling, the *virtuous cycle*).^[While it seems that early usage of 'vitious cycle' goes [back to 1608](https://english.stackexchange.com/questions/375811/origin-of-vicious-circle-and-vicious-cycle), both terms began to be used more widely only in the 20th century, [according to Google Ngram Viewer](https://books.google.com/ngrams/graph?content=virtuous+cycle%2Cvicious+cycle&year_start=1800&year_end=2019&corpus=en-2019&smoothing=0)]  The spiral is vicious when it closes me off into an inner world which becomes antagonistic to others.  It is virtuous when it beckons me out to gather and learn from the world beyond, in order to share with others.    The shape echoes our experience of day-to-day life, making changes and choices within the constraints of our minds, bodies and environments.
+The spiral, that elegant fusion of circle and line, acknowledges repetition while allowing transformation.  And it's worth noting that I can change for better or for worse, which we acknowledge when we talk about a *vicious cycle* (or its more recent sibling, the *virtuous cycle*).^[While it seems that early usage of 'vitious cycle' goes [back to 1608](https://english.stackexchange.com/questions/375811/origin-of-vicious-circle-and-vicious-cycle), both terms began to be used more widely only in the 20th century, [according to Google Ngram Viewer](https://books.google.com/ngrams/graph?content=virtuous+cycle%2Cvicious+cycle&year_start=1800&year_end=2019&corpus=en-2019&smoothing=0)]  A spiral is vicious when it closes me off into an inner world which becomes antagonistic to others.  It is virtuous when it beckons me out to gather and learn from the world beyond, in order to share with others.
 
-The world rushes in and I have a choice, again and again and again.  If a little change is possible each time I move through this cycle, then a question presents itself: what is the shape I want to make?  
+The world rushes in and I have a choice, moment-by-moment, day-after-day.  If a little change is possible each time I move through this cycle, then a question presents itself: what is the shape I want to make?  
 
 And as a prelude to answering that gigantic question, it may help to look around and ask: what are some of the the shapes that people trace as they experience the world, make choices, and act on them?
 
@@ -44,7 +44,11 @@ And as a prelude to answering that gigantic question, it may help to look around
 
 ### Same Difference
   
+No one else has the same story as me.  Down to the spelling of my genetic code, I'm unique.  But others' stories resonate with me.  Even my body is written with the same language as yours: we're the same.
 
+The traits that my family, friends and colleagues recognize as 'me' describe patterns of interactions they've had with me.  Those patterns are the various ways that I interact with the world, and they're basically my unique remix of the kinds of interactions that others have with the world.
+
+Over time, people have drafted various descriptions of the ways in which humans interact with the world.  One of the most recent attempts  
 
 ## What do I want to become? {#what}
 
