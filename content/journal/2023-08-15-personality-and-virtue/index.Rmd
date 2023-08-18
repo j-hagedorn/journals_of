@@ -38,7 +38,7 @@ The spiral, that elegant fusion of circle and line, acknowledges repetition whil
 
 The world rushes in and I have a choice, moment-by-moment, day-after-day.  If a little change is possible each time I move through this cycle, then a question presents itself: what is the shape I want to make?  
 
-And as a prelude to answering that gigantic question, it may help to look around and ask: what are some of the the shapes that people trace as they experience the world, make choices, and act on them?
+As a prelude to answering that question, it may help to look around and ask: what are some of the the shapes that people trace as they experience the world, make choices, and act on them?
 
 <!-- I am not a closed loop.  Everything that I experience (each kiss, each poem, each peach) is just a segment of a fuller circle: each of my actions a gesture out into an immense world.   And the world is too great for me to control (*thus the diagram's dotted lines*), so that just to exist requires much going right (luck, fortune, or grace, whatever one calls it).  A person cannot be walled off, so we are continually vulnerable: open to the world outside ourselves and depending on it.   -->
 
@@ -46,9 +46,15 @@ And as a prelude to answering that gigantic question, it may help to look around
   
 No one else has the same story as me.  Down to the spelling of my genetic code, I'm unique.  But others' stories resonate with me.  Even my body is written with the same language as yours: we're the same.
 
-The traits that my family, friends and colleagues recognize as 'me' describe patterns of interactions they've had with me.  Those patterns are the various ways that I interact with the world, and they're basically my unique remix of the kinds of interactions that others have with the world.
+The collection of traits that my family, friends and colleagues recognize as 'me' describe patterns of interactions they've had with me.  Those patterns are the various ways that I interact with the world, and they're basically my unique remix of the kinds of interactions that others have with the world.
 
-Over time, people have drafted various descriptions of the ways in which humans interact with the world.  One of the most recent attempts  
+Over time, people have attempted to classify the ways in which humans interact with the world, from the ancient models of the *four humors*^[Echoes of this model come down into modern science, as in the work of Hans Eysenck (1916–97). "If one crosses Eysenck’s extraversion–introversion dimension with the emotional stability emotional lability dimension, four cells emerge that correspond to the Greek model of Hippocrates and Galen", according to @dumontHistoryPersonalityPsychology2010] or the *triguna*^[For a crosswalk of Indian Ayurvedic models and modern psychology, see: @srivastavaConceptPersonalityIndian2012] to modern neuropsychology.  One of the more recent versions of this effort has resulted in trait models of personality. ^[[@dumontHistoryPersonalityPsychology2010], p. 150]  A trait is a repeated pattern which guides how a person interprets the flow of sensations and reacts to them.  For example, if I typically react to the flow of sensations from a crowded party with enthusiasm, I'm engaging a trait that we call *extraversion*.  If I shy away from asserting myself at the party, I'm exhibiting the flipside of that trait (i.e. *introversion*).
+
+![](images/umwelt_party.png){width=80%}
+
+Researchers have 
+
+![](images/factors.png){width=80%}
 
 ## What do I want to become? {#what}
 
