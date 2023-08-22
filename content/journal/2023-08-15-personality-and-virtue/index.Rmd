@@ -9,6 +9,12 @@ slug: []
 description: ''
 ---
 
+```{r}
+library(tidyverse); library(readxl)
+knitr::opts_chunk$set(echo = F, warning = F, message = F)
+```
+
+
 The days revolve.  I wake again into myself.  I walk the familiar orbit of habits and tensions tracing back to my childhood.  To my parents, to their childhoods. And so on.  *Life is a circle.*  
     
 The days slip away.  I will never see yesterday again, and I'm continually tiptoe on the verge of an undiscovered moment.  *Life is a line.*  
@@ -58,6 +64,17 @@ If these 'word-based' attributes point to something real about us, it would be s
 
 
 ![](images/factors.png){width=80%}
+
+```{r}
+
+# https://ipip.ori.org/newIndexofScaleLabels.htm
+
+traits <- 
+  read_excel("data/TedoneItemAssignmentTable30APR21.xlsx") %>%
+  filter(instrument == "BFAS")
+
+```
+
 
 ## What do I want to become? {#what}
 
