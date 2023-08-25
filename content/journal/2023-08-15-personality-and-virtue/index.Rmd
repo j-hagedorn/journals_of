@@ -9,7 +9,7 @@ slug: []
 description: ''
 ---
 
-```{r}
+```{r message=FALSE, warning=FALSE, echo = FALSE}
 library(tidyverse); library(readxl)
 knitr::opts_chunk$set(echo = F, warning = F, message = F)
 ```
@@ -58,20 +58,34 @@ Over time, people have attempted to classify the ways in which humans interact w
 
 ![](images/umwelt_party.png){width=80%}
 
-Beginning with the available stock of phrases available in our speech and writing, researchers have tested whether the various descriptions we apply to each other can be distilled to a handful of common traits transcending cultures and languages.  This way, descriptions such as "she is dutiful" and "she is diligent" and "she is detail-oriented" could all be seen as pointing to an underlying character trait of "conscientiousness."  These researchers have found five or maybe six basic dimensions which explain the incredible variety of personalities that we encounter in others.  
+Beginning with the available stock of phrases available in our speech and writing, researchers have tested whether the various descriptions we apply to each other can be distilled to a handful of common traits transcending cultures and languages.  This way, descriptions such as "she is dutiful" and "she is diligent" and "she is detail-oriented" could all be seen as pointing to an underlying character trait of "conscientiousness."  These researchers have found five or maybe six basic dimensions which explain the incredible variety of personalities that we encounter in others.^[The two most popular trait models are known as the Five-Factor Model (FFM) and HEXACO.  The FFM uses the acronym OCEAN as a mnemmonic for the traits: *Openness to Experience*, *Conscientiousness*, *Extraversion*, *Agreeableness*, and *Neuroticism*.  HEXACO itself is an acronym, and adds an additional trait of *Honesty-Humility* to the other five, which it renames as: *Emotionality*, *eXtraversion*, *Agreeableness* (versus Anger), *Conscientiousness*, and *Openness to Experience*.]
 
-If these 'word-based' attributes point to something real about us, it would be strange if we could not trace their presence within the fabric of our bodies. And so we have dug deeper, and neurological studies of the brain have found relationships between our longstanding descriptions of ourselves, and the material structures of our bodies: the brain and the nerves that weave our bodies together.
+If these 'word-based' attributes point to something real about us, it would be strange if we could not trace their presence within the fabric of our bodies. And so we have dug deeper, and neurological studies of the brain [@alkalayBiologicalBasisFFM2022] have found relationships between our longstanding descriptions of ourselves, and the material structures of our bodies: the brain and other nerves that weave our bodies together.
 
+The furthest distillation of personality traits finds two basic tendencies: *stability* and *plasticity*.^[For the original study deriving these meta-traits from a community survey, see: [@deyoungHigherorderFactorsBig2006]. Later studies such as [@alkalayBiologicalBasisFFM2022], indicate that *stability* is based in the FTI Serotonin system (i.e. cautious/norm compliant), while *plasticity* is based in the dopamine and related norepinephrine system (i.e. curious/energetic).] A motion which holds us together, and a motion that impels us to explore the world.  A circle and a line.
 
 ![](images/factors.png){width=80%}
 
-```{r}
+The table above shows how these two tendencies play out across the five factors of personality, as well as the essential aspects [@deyoungFacetsDomains102007] of each of those factors.  There are many more descriptions clustered under each of these, but this gives a sense of the space in which our temperaments situate themselves.
+
+```{r eval=FALSE, include=FALSE}
 
 # https://ipip.ori.org/newIndexofScaleLabels.htm
 
-traits <- 
-  read_excel("data/TedoneItemAssignmentTable30APR21.xlsx") %>%
-  filter(instrument == "BFAS")
+traits <- read_excel("data/TedoneItemAssignmentTable30APR21.xlsx") 
+
+factors <- traits %>% filter(instrument == "NEO5-20")
+
+tst <-
+  factors %>%
+  select(text, factor = label, key) %>%
+  left_join(
+    traits %>% 
+      filter(instrument != "NEO5-20") %>% 
+      select(text, aspect = label),
+    by = "text"
+  ) %>%
+  filter(key == 1)
 
 ```
 
