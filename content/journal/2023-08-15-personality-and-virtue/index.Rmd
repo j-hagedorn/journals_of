@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = F, warning = F, message = F)
 
 The days revolve.  I wake again into myself.  I walk the familiar orbit of habits and tensions tracing back to my childhood.  To my parents, to their childhoods. And so on.  *Life is a circle.*  
     
-The days slip away.  I will never see yesterday again, and I'm continually tiptoe on the verge of another undiscovered moment.  *Life is a line.*  
+The days slip away.  I will never see yesterday again, and I'm continually tiptoe on the verge of another undiscovered moment.  *Life is a line.*^[The line I refer to here does not need to be straight: it is a figure for outward motion, leaving stability and balance for exploration.]  
     
 Circle, line: these are partial figures we've often fused together to depict our experience, since neither seems adequate by itself.  Change is possible, but the new grows from the old.  Each adult is formed from a child.  Tomorrow I will still be me, but I can unlock the closed cycle of my habits and choose what is good.  Recognizable, but transformed. *Life is a spiral*.
     
