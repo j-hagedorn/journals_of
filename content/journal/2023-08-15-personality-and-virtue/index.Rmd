@@ -94,18 +94,21 @@ My personality is rooted in my body, and can't be untangled.  Did my shyness lea
 
 My body moves about and takes the bruises of my habits: eyes wrinkled by concentration, liver fattened by immoderation, legs muscled from exploration. While we might display the personality as a simple five-sided shape, it lives in the curls and winding of our guts, the watery lightning of our brains.  
 
-__They have a spiral shape.__  Distilling personality traits down, we find two basic tendencies: *stability* and *plasticity*.^[For the original study deriving these meta-traits from a community survey, see: [@deyoungHigherorderFactorsBig2006]. Later studies such as [@alkalayBiologicalBasisFFM2022], indicate that *stability* is based in the FTI Serotonin system (i.e. cautious/norm compliant), while *plasticity* is based in the dopamine and related norepinephrine system (i.e. curious/energetic).] A motion which holds us together, and a motion that impels us to explore the world.  A circle and a line.
+__They have a spiral shape.__  Distilling personality traits down, we find two basic tendencies: *stability* and *plasticity*.^[For the original study deriving these meta-traits from a community survey, see: [@deyoungHigherorderFactorsBig2006]. Later studies such as [@alkalayBiologicalBasisFFM2022], indicate that *stability* is based in the FTI Serotonin system (i.e. cautious/norm compliant), while *plasticity* is based in the dopamine and related norepinephrine system (i.e. curious/energetic).] A motion which holds us together, and a motion that impels us to explore the world.  A circle and a line.^[Identifying these two basic gestures is not the same as engaging in the cliché that there are "two types of people".  There is no utterly 'plastic' person and no utterly 'stable' person. Neither could survive. It is only in the middle space of these tendencies, in their balance, that equilibrium is found. ]
 
 ![](images/factors.png){width=80%}
 
-
 The table above shows how these two tendencies play out across the five factors of personality, as well as the essential aspects [@deyoungFacetsDomains102007] which comprise those factors.  There are many more descriptions clustered under each of these, but this list gives a sense of the space in which our temperaments situate themselves.  This tension is crucial, valuing coherence (*in the circle of stability*) and also the need for movement (*in the line which jolts us toward change*).
 
-For some people, extroversion is the lever that pushes them out of the rut of stability. I honor this in fact, and frequently wish that I was oriented more towards extroversion.  For me, though, change comes through the route of *openness to experience*.
+Of the two personality factors which allow for plasticity, *extroversion* and *openness*, one is focused on affecting the world and the other is focused on sensing the world. We need these tendencies in order to grow, and we need the other factors to balance that growth. Without that balance, a person would become unstable, glutting themselves on experiences and then seek to influence others to generate new experiences, with no accountability or self-control.
 
-I can feel the tug of plasticity almost tangibly sometimes: headed into depression, midwinter, or even in the middle of a situation. It's a feeling of almost existential claustrophobia. I am moving around a closed circle, or stuck in the boxes of my calendar appointments. Trapped by the stability produced by *conscientiousness*, by *agreeing* with the various social pacts I have consented to, I long to explore.
+For some people, extroversion is the lever that pushes them out of the rut of stability. I honor this, and frequently wish that I was oriented more towards extroversion.  For me, though, change tends to come through the route of *openness to experience*.
 
-<!-- Make it personal -->
+![*Illustration from Darwin’s 'On the Movements and Habits of Climbing Plants'*](images/darwin_climbing_plants.jpg){width=80%}
+
+I can feel the tug of plasticity almost tangibly sometimes: headed into depression, midwinter, or even in the middle of a situation. It's a feeling of almost existential claustrophobia. I am moving around a closed circle, or stuck in the boxes of my calendar appointments. Trapped by the stability produced by *conscientiousness*, by *agreeing* with the various social pacts I have consented to, I long to explore.  Sometimes this can be satisfied with a bit of reading, and sometimes I want to wake up on another side of the planet.   Each of these inclinations can lean toward escapism, though my motivation is slightly different: not to escape myself, but to rekindle my sense that each small thing is open to possibility.
+
+When I have *conscientiously* broken down all of the activities in my life into tasks, the world can come to seem all surface: a series of closed lids and locked doors. If I *can* find a way to open those doors, even the most mundane objects or activities become suffused with wonder. While it is not quite extroversion, the doors of reality most often open through the form of a living human person who breaks down the walls of my habitual sight.  
 
 ```{r eval=FALSE, include=FALSE}
 
