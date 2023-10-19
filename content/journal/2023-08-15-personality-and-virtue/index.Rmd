@@ -1,12 +1,12 @@
 ---
-title: The Shape of Personality
-author: J. Hagedorn
-date: '2023-08-15'
-bibliography: ["spiral.bib"]
-csl: https://www.zotero.org/styles/chicago-fullnote-bibliography
-suppress-bibliography: true
+title: "The Shape of Personality"
+author: "J. Hagedorn"
+date: "2023-08-15"
+suppress-bibliography: yes
 slug: []
 description: ''
+bibliography: spiral.bib
+csl: "https://www.zotero.org/styles/chicago-fullnote-bibliography"
 ---
 
 ```{r message=FALSE, warning=FALSE, echo = FALSE}
@@ -15,38 +15,38 @@ knitr::opts_chunk$set(echo = F, warning = F, message = F)
 ```
 
 
-The days revolve.  I wake again into myself.  I walk the familiar orbit of habits and tensions tracing back to my childhood.  To my parents, to their childhoods. And so on.  *Life is a circle.*  
+The days revolve.  I wake again into myself.  I walk the familiar orbit of habits and tensions tracing back to my childhood.  To my parents, to their childhoods. And so on.  *Life is a circle.* 
+
+The days slip away.  I'll never see yesterday again, and I continually tiptoe on the verge of another undiscovered moment.  *Life is a line.*^[The line doesn't need to be straight: it's a motion outward, leaving stability and balance for exploration.]  
     
-The days slip away.  I will never see yesterday again, and I continually tiptoe on the verge of another undiscovered moment.  *Life is a line.*^[The line I refer to here does not need to be straight: it is a figure for outward motion, leaving stability and balance for exploration.]  
+Circle, line: neither seems quite right, so we fuse them to depict our experience.  Change is possible, but the new can only grow from the old.  Each adult is formed from a child.  Tomorrow I will still be me, but I can unlock the closed cycle of my habits and choose what is good.  Recognizable, but transformed. *Life is a spiral*.
     
-Circle, line: we've often fused these figures to depict our experience, since neither seems adequate by itself.  Change is possible, but the new can only grow from the old.  Each adult is formed from a child.  Tomorrow I will still be me, but I can unlock the closed cycle of my habits and choose what is good.  Recognizable, but transformed. *Life is a spiral*.
-    
-It's morning again, and I shuffle through the small deck of questions I've nearly worn out with partial answers:  [Who am I?](#who) [What do I want to become?](#what) [How do I change myself?](#how)  There's no reason to listen to my slow rehearsal, except that the answers are not mine: they're a playlist of other voices' music.  What do those voices say?  That this impulse to become beautiful and good is real, knit into the fabric of our bodies and minds.
+It's morning again, and I shuffle through the small deck of questions I've nearly worn out with partial answers:  [Who am I?](#who) [What do I want to become?](#what) [How do I change myself?](#how)  What do the answers hint?  That this impulse to become beautiful and good is real, knit into the fabric of our bodies and minds.
 
 ## Who am I? {#who}
 
 ### A Little World in Motion
 
-"*I am a little world made cunningly / Of elements and an angelic sprite*" writes John Donne,^[See [Holy Sonnet 5](https://www.poetryfoundation.org/poems/44108/holy-sonnets-i-am-a-little-world-made-cunningly)] gesturing toward our smallness and our vastness, our physicality and what is intangible in us.  Even that intangible part of us seems to be composed of reflections: ^[As one of Donne's contemporaries notes, the "*mind a mirror is of heavenly sights, / A brief wherein all marvels summed lie*".  See [Look Home](https://www.poetry.com/poem/31924/look-home) by Robert Southwell.] though there is one reality, we each walk around in our "own worlds" and participate in each others' "worlds".  
+Though there is one reality, we each walk around in our 'own worlds.' "*I am a little world made cunningly / Of elements and an angelic sprite*" writes John Donne,^[See [Holy Sonnet 5](https://www.poetryfoundation.org/poems/44108/holy-sonnets-i-am-a-little-world-made-cunningly)] gesturing toward our smallness and our vastness, our physicality and what is intangible in us.  Even that intangible part of us seems to be composed of reflections: we are mirrors of the world.^[As one of Donne's contemporaries notes, the "*mind a mirror is of heavenly sights, / A brief wherein all marvels summed lie*".  See [Look Home](https://www.poetry.com/poem/31924/look-home) by Robert Southwell.]  
 
 __Many great traditions have addressed this question.__  Our daily round, circulating between inner and outer worlds, is a dance that has been depicted by philosophies and religions across cultures and ages: Atman and Brahman^[अयम् आत्मा ब्रह्म
 *ayam ātmā brahma*, roughly translated "the self is connected to the deep foundation of reality", from the [Brihadaranyaka Upanishad 4.4.5](https://archive.org/details/Brihadaranyaka.Upanishad.Shankara.Bhashya.by.Swami.Madhavananda/page/712/mode/2up). The Upanishads also include the notion that all creatures are connected to this deep foundation, (सर्वं खल्विदं ब्रह्म, *sarvam* *khalvidam* *brahma*), see [Chandogya Upanishad 3.14.1](https://archive.org/details/upanishads01ml/page/48/mode/2up)], the knower and the known, I and Thou [@buberThou2000], the individual soul and the Empyrean^[For Dante, entering heaven can be seen as approaching this unity between self and other: "*In this flash of insight, all “I”s are one: each is everything and nothing. This was the revelation experienced by Moses on Mount Sinai, which prompted him to tell the Israelites: “I AM sent me to you.”*". [@moevsMetaphysicsDanteComedy2005], p. 31].
 
 <!-- Make it personal -->
 
-__It is founded in our biology, our bodies.__  In *A Foray into the Worlds of Animals and Humans*, @jakobvonuexkullForayWorldsAnimals2010 describes how the internal world of any organism, including humans, is made up.  He names this subjective world an Umwelt (*surroundworld*) since it is focused outward, created and reshaped by each of us when we interact with reality. A simple picture shows how it works in action:
+__It is written in our biology, our bodies.__  In *A Foray into the Worlds of Animals and Humans*, @jakobvonuexkullForayWorldsAnimals2010 describes how the internal world of any organism, including humans, is made up.  He names this subjective world an Umwelt (*surroundworld*) since it is focused outward, created and reshaped by each of us when we interact with reality. A simple picture shows how it works in action:
 
 ![](images/umwelt.png){width=80%}
 
-__Each person unites the inner and outer world.__  The beauty of the Umwelt model is that it explains a lot, and simply. It pares down the bewildering array of experience into two realms: *inside* of me, and *outside* of me. In it, all experiences are shown as pathways between the inner world and outer reality: the narrow routes by which we *sense* the outer world (coming in), and by which we *affect* it (going out).  This loop describes all of our relationships with others: we listen and speak, we take and give.
+__Each person unites the inner and outer world.__  The *Umwelt* model explains a lot, and simply. It pares down the bewildering array of experience into two realms: *inside* of me, and *outside* of me. In it, all experiences are shown as pathways between the inner world and outer reality: the narrow routes by which we *sense* the outer world (coming in), and by which we *affect* it (going out).  This loop describes all our relationships with others: we listen and speak, we take and give.
 
 <!-- Make it personal -->
 
-__We grow in place, within limits.__  Staggering and complex as our experiences are, they move through us along this pathway.  But the path is not a closed circle, endlessly playing the same loop over and over again: it's more like a spiral.  The world changes, and calls me to change.  Sunsets may be the same as when I was a kid, but I *sense* them differently.  I change myself, and even the ungovernable world, a little bit at a time.
+__We grow in place, within limits.__  Staggering as our experiences are, they move through us along this simple path.  The path is not a closed circle, endlessly playing the same loop over and over again: it's more like a spiral.  The world changes and calls me to change.  Sunsets may be the same as when I was a kid, but I *sense* them differently.  I change myself, and even the ungovernable world, a little bit at a time.
 
 <!-- Make it personal -->
 
-__We can grow into beauty, or diminish.__  The spiral, that elegant fusion of circle and line, acknowledges repetition while allowing transformation.  And it's worth noting that I can change for better or for worse, and we acknowledge this when we talk about a *vicious cycle* (or its more recent sibling, the *virtuous cycle*).^[While it seems that early usage of 'vitious cycle' goes [back to 1608](https://english.stackexchange.com/questions/375811/origin-of-vicious-circle-and-vicious-cycle), both terms began to be used more widely only in the 20th century, [according to Google Ngram Viewer](https://books.google.com/ngrams/graph?content=virtuous+cycle%2Cvicious+cycle&year_start=1800&year_end=2019&corpus=en-2019&smoothing=0)]  A spiral is vicious when it closes me off into an inner world which becomes antagonistic to others.  It is virtuous when it beckons me out to gather and learn from the world beyond, in order to share with others.
+__We can grow into beauty, or diminish.__  The spiral is an elegant fusion of circle and line,  repetition and transformation.  And I can change for better or for worse; we acknowledge this when we talk about a *vicious cycle* (or its more recent sibling, the *virtuous cycle*).^[While it seems that early usage of 'vitious cycle' goes [back to 1608](https://english.stackexchange.com/questions/375811/origin-of-vicious-circle-and-vicious-cycle), both terms began to be used more widely only in the 20th century, [according to Google Ngram Viewer](https://books.google.com/ngrams/graph?content=virtuous+cycle%2Cvicious+cycle&year_start=1800&year_end=2019&corpus=en-2019&smoothing=0)]  A spiral is vicious when it seals me into an inner world, antagonistic to others.  It is virtuous when it beckons me out to gather, learn from, and share with others.
 
 <!-- Make it personal -->
 
@@ -60,11 +60,11 @@ What are some of the the shapes that other people trace as they experience the w
   
 No one else has the same story as me.  Down to the spelling of my genetic code, I'm unique.  But others' stories resonate with me.  Even my body is written with the same language as yours: we're the same.
 
-The collection of traits that my family, friends and colleagues recognize as 'me' describe patterns of interactions they've had with me.  Those patterns are the various ways that I interact with the world, my own specific remix of the kinds of interactions that others have with the world.
+The collection of traits that my family, friends and colleagues recognize as 'me' describes patterns of interactions they've had with me.  Those patterns are the various ways that I interact with the world, my own specific remix of the kinds of interactions that others have with the world.
 
-I'll use examples from my life since I have them at hand, not because they're particularly laudable or exemplary.  It comforts me to know that I'm one slice from the broad spectrum of personhood.^[While there are certainly some unhealthy patterns, it's important to start by saying that beauty and health exist within a range, and that we are not trying to optimize personality to meet some secret combination lock of what is 'best'.]
+I'll use examples from my life since I have them at hand, not because they're particularly laudable or exemplary.  It comforts me to know that I'm only one slice from the broad spectrum of personhood.^[While there are certainly some unhealthy patterns, it's important to start by saying that beauty and health exist within a range, and that we are not trying to optimize personality to meet some secret combination lock of what is 'best'.]
 
-__We engage the world through patterns of action, called traits.__ Over time, people have classified the ways in which humans interact with the world, from the ancient models of the *four humors*^[Echoes of this model come down into modern science, as in the work of Hans Eysenck (1916–97). "If one crosses Eysenck’s extroversion–introversion dimension with the emotional stability emotional lability dimension, four cells emerge that correspond to the Greek model of Hippocrates and Galen", according to @dumontHistoryPersonalityPsychology2010] or the *triguna*^[For a crosswalk of Indian Ayurvedic models and modern psychology, see: @srivastavaConceptPersonalityIndian2012] to modern neuropsychology.  One of the more recent versions of this effort has resulted in trait models of personality.^[See [@dumontHistoryPersonalityPsychology2010], p. 150] Beginning with the available stock of phrases available in our speech and writing, researchers have investigated whether the various descriptions we apply to each other can be distilled to a handful of common traits transcending cultures and languages.  This way, descriptions such as "she is dutiful" and "she is diligent" and "she is detail-oriented" might all be seen as pointing to an underlying character trait of "conscientiousness."  A trait is a repeated pattern which reveals how you interpret the flow of sensations and react to them.  For example, if you typically react to the flow of sensations from a crowded party with enthusiasm, you're displaying a trait we call *extroversion*.  If you shy away from asserting yourself at the party, you're exhibiting the flip side of that trait (i.e. *introversion*).  The table below gives a simplified take on how these two sides of a single trait would navigate the same scenario (i.e. a party):
+__We engage the world through patterns of action, called traits.__ Over time, people have classified the ways in which humans interact with the world, from the ancient models of the *four humors*^[Echoes of the four humors come down into modern science, as in the work of Hans Eysenck (1916–97). "If one crosses Eysenck’s extroversion–introversion dimension with the emotional stability emotional lability dimension, four cells emerge that correspond to the Greek model of Hippocrates and Galen", according to @dumontHistoryPersonalityPsychology2010] or the *triguna*^[For a crosswalk of Indian Ayurvedic models and modern psychology, see: @srivastavaConceptPersonalityIndian2012] to modern neuropsychology.  One of the more recent versions of this effort has resulted in trait models of personality.^[See [@dumontHistoryPersonalityPsychology2010], p. 150] Beginning with the available stock of phrases available in our speech and writing, researchers have investigated whether the various descriptions we apply to each other can be distilled to a handful of common traits transcending cultures and languages.  This way, descriptions such as "she is dutiful" and "she is diligent" and "she is detail-oriented" might all be seen as pointing to an underlying character trait of "conscientiousness."  A trait is a repeated pattern which reveals how you interpret the flow of sensations and react to them.  For example, if you typically react to the flow of sensations from a crowded party with enthusiasm, you're displaying a trait we call *extroversion*.  If you shy away from asserting yourself at the party, you're exhibiting the flip side of that trait (i.e. *introversion*).  The table below gives a simplified take on how these two sides of a single trait would navigate the same scenario (i.e. a party):
 
 |                  |                  Introverted|                  Extroverted| 
 |:-----------------|----------------------------:|----------------------------:|
