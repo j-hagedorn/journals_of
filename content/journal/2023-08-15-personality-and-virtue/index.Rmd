@@ -34,7 +34,11 @@ __Many great traditions have addressed this question.__  Our daily round, circul
 
 <!-- Make it personal -->
 
-__It is written in our biology, our bodies.__  In *A Foray into the Worlds of Animals and Humans*, @jakobvonuexkullForayWorldsAnimals2010 describes how the internal world of any organism, including humans, is made up.  He names this subjective world an Umwelt (*surroundworld*) since it is focused outward, created and reshaped by each of us when we interact with reality. A simple picture shows how it works in action:
+__Our worlds arise from our bodies.__  In *A Foray into the Worlds of Animals and Humans*, @jakobvonuexkullForayWorldsAnimals2010 describes how the subjective world of any organism emerges from the perceptions and actions enabled by its body.  He names this subjective world an Umwelt, or *surroundworld*.
+
+Rather than describe the idea using a creature as baffling as a human, he provides a sketch using one of our familiar companions: the tick.^[The description which follows is a severely paraphrased and shortened version of the description given by @jakobvonuexkullForayWorldsAnimals2010 (pp. 44-52), which is worth reading in its entirety.  I cannot imagine a more beautiful reverie being written about a tick than the one he writes.]  Eyeless, the pregnant tick follows a sensitivity to light in her skin and climbs to the tip of a branch.  Time slows and halts, moments, years... until the odor of butyric acid wafts up from the skin glands of some passing mammal, and signals the tick to leap. If she falls onto something cold, her sense of temperature tells her to climb back up.  If she falls on a warm body, the tick uses her sense of touch to find a hair-free spot to bore her head into the flesh.  After gorging on blood, she falls to the ground, lays her eggs, and dies.  Reality is infinitely vast, but the tick's subjective world has three beacons directing it: light-sense, butyric acid, warmth.  And each of these senses is tied to an action: light-sense...climb, butyric acid...jump, warmth...burrow.
+
+Though humans are vastly more complex than ticks, our subjective worlds are still a far cry from the complexity of reality.  A simplified picture shows how our simplified realities work in action:
 
 ![](images/umwelt.png){width=80%}
 
