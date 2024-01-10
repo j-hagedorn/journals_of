@@ -62,7 +62,18 @@ __We need to pare down the list.__  Out of the whole array of values which we co
 
 __In with the good, out with the bad.__ We can start with a most basic impulse, at the root of everything from our healthcare regimens to our religious rituals: the principle of "in with the good, out with the bad."^[On the subject of religious rituals, Jane Ellen Harrison writes that from the earliest examples, rites have concerned themselves with the "riddance of whatever is conceived to be hostile, and the enhancement of whatever is conceived of as favorable to human life". See: [@harrisonEpilegomenaStudyGreek2017]]  Our goal is to embody what is good and remove what is bad, leaving just good stuff.  I’ll follow Aristotle and call this state "flourishing".
 
-__It has to work for others, too.__
+### Flourishing together
+
+Before we begin to call some values generally beneficial (or "healthy") and others generally detrimental (or "unhealthy"), it's important to answer "Beneficial *for whom*?"  After all, I can do many things that benefit me, but harm others or neglect them.
+
+__It has to work for others, too.__ - I'm going to move forward with a definition of flourishing that is communal, one which seeks to recover from individualism and "the shipwreck of the singular."^[The phrase is George Oppen's, from his masterful serial poem *Of Being Numerous*, where he defines the stance of modern-day truth-seekers as: "Obsessed, bewildered / By the shipwreck / Of the singular / We have chosen the meaning / Of being numerous." @georgeoppenSelectedPoems2003]
+
+Aspiring to flourish as a community, beyond the narrow vessel of the individual "self", is a principal which should orient human life. There is reason enough to adopt such a principal based on its prevalence across religious and cultural traditions, though one could just as easily make a claim for the evolutionary benefits of such an approach.
+
+Once we move beyond "bare survival" (*i.e. zero-sum games*), cooperation allows communities to flourish.  It permits strategies such as improvisation, cultural transmission, and collective tools and rules.^[According to [@curryMappingMoralityCompass2019a], "Natural selection can favour genes for cooperation – that is, genes for evolutionarily-stable phenotypic strategies designed to achieve superior equilibria in nonzerosum interactions – and has done throughout the history of life."  The highly social disposition of human beings has "made it possible for humans to attempt to improve upon natural selection’s solutions by inventing evolutionarily-novel solutions – ‘tools and rules’ – for further bolstering cooperation."]
+
+We need each other.  Which is another way of saying "I am not enough."  I rely on others for my existence, and I want give back; I long to become something which crests above the bounds of the "tiny my-ness"^[To use the term Milosz uses, in the poem of that name. @miloszUnattainableEarth1987] I was given at birth.  It's as though I was granted this self as a ladder, to climb up its rungs and into a wider world: to transcend it.
+
 
 ### Remove the bad
 
