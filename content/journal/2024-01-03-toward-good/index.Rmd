@@ -124,4 +124,27 @@ We've seen that people's darker tendencies move away from certain values, but th
 
 ## Keep the good
 
+There are many reasons to pursue what is good and beautiful, but in keeping with the approach I've tried to take so far, I'll be relying mostly on sociological and psychological research.^[Admittedly, social science is a latecomer to  areas of basic human concern, so it often echoes sentiments from poets, philosophers, and spiritual teachers, and sometimes I can't help but bring those voices in to humanize the more "systematic" approach.  While I think the case made by these studies provides a clarity that is beautiful on its own terms, it seems foolish to refuse the insights of more mature traditions of inquiry.]
+
+A couple of influential recent theories suggest that moral rules provide us with an evolutionary advantage, helping communities to navigate complicated coordination problems.  The first of these is *Moral Foundations Theory*, which seeks to undo some of the Enlightenment and colonial-era thinking about morality by simply asking people from a wide array of cultures and social classes to define it.^["The first step in mapping the moral domain of any culture, we believe, should therefore be to list and count the norms that get the most attention. What norms and norm violations do people gossip about? What norms are broken and punished in myths and folk tales? When people reject or criticize other members of their community, or when they express shock at the practices of another community, which norms are involved?" in @haidtMoralMindHow2008 (p. 7)] As a result, they identified five areas of moral concern, which could be clearly linked to adaptive challenges of a social creature such as humans, and which elicited clear moral emotions across multiple cultures. ^[[@haidtMoralMindHow2008] documents "five sets of concerns, each linked to an adaptive challenge and to one or more moral emotions..." and shares that "the five foundations we identified are harm/care, fairness/reciprocity, ingroup/loyalty, authority/respect, and purity/sanctity."]  These 'moral foundations' are: (1) care for others, (2) fairness, (3) loyalty to group, (4) respect for authority, and (5) purity/sanctity.
+
+The other theory, *Morality-as-Cooperation*, seeks to explain why we call certain actions good by imagining that the function of morality is to promote cooperation.  It calls out several common types of cooperation: (1) sharing resources with family, (2) coordinating for mutual advantage, (3) social exchange, (4) resolving conflict through bravery, (5) resolving conflict through respect, (6) dividing resources, and (7) owning resources.^[See @curryMappingMoralityCompass2019a, which lists the areas of cooperation as "(1) the allocation of resources to kin (Hamilton, 1963); (2) coordination to mutual advantage (Lewis, 1969); (3) social exchange (Trivers, 1971); and ... conﬂict resolution through contests featuring displays of (4) hawkish and (5) dove-ish traits (Maynard Smith & Price, 1973); (6) division (Skyrms, 1996); and (7) possession (Gintis, 2007)."]
+
+The table below shows which values are more likely to lead to cooperation and collective flourishing, based on these theories and studies based on them:
+
+| Value            | SVS                           | MAC          | MFT               |
+|------------------|-------------------------------|--------------|-------------------|
+| Dependability    | Benevolence (*Dependability*) | Mutualism    | Ingroup           |
+| Caring           | Benevolence (*Caring*)        | Reciprocity  | Care, Fairness    |
+| Non-Judgment     | Universalism (*Tolerance*)    | *N/A*        | *N/A*             | 
+| Justice          | Universalism (*Concern*)      | Fairness     | Fairness          |
+| Cosmos           | Universalism (*Nature*)       | *N/A*        | *N/A*             |
+| Humility         | Humility                      | *N/A*        | *N/A*             |
+| Restraint        | Conformity (*Interpersonal*)  | *N/A*        | *N/A*             |
+| Conformity       | Conformity (*Rules*)          | Deference    | Authority, Purity |
+| Tradition        | Tradition                     | Deference    | Authority, Purity |
+| Others' Safety   | Security (*Societal*)         | Kin altruism, Mutualism, Reciprocity | Ingroup, Fairness |
+| Personal Safety  | Security (*Personal*)         | *N/A*        | Purity            |
+| Resources        | Power (*Resources*)           | Property     | *N/A*             |
+
 
