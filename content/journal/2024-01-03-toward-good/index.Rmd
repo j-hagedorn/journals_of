@@ -26,29 +26,29 @@ What I've been calling a desire, a longing, a goal, the scale refers to as a 'va
 
 __Values are broad goals that guide our lives.__ Or, put a bit more specifically, they are "trans-situational goals, varying in importance, that serve as guiding principles in the life of a person or other social entity".^[@schwartzMeasuringRefinedTheory2022]  Individual people can have values, but so can families, communities, organizations, or other groups. 
 
-Below is the full list of values defined in the Schwartz Value Scale (SVS), with simpler terms provided in the first column, which I intend to use in this discussion moving forward:^[The shorter name concocted by me is followed by the longer one provided by Schwartz, and the definition drawn directly from [@schwartzMeasuringRefinedTheory2022]]
+Below is the full list of values defined in the Schwartz Value Scale (SVS), with simpler terms sometimes substituted, which I intend to use in this discussion moving forward:^[In the following cases, the names used in this table replace *those provided by Schwartz*: Justice (*Universalism-Concern*), Stewardship (*Universalism-Nature*), Conformity (*Conformity-Interpersonal*), Compliance (*Conformity-Rules*), Others' Safety (*Security-Societal*), Personal Safety (*Security-Personal*), Appearance (*Face*), Pleasure (*Hedonism*), Free Action (*Self-Direction-Action*), Free Thought (*Self-Direction-Thought*). The definitions are drawn from [@schwartzMeasuringRefinedTheory2022]]
 
-| Value          | SVS Term                   | Definition         | 
-|----------------|----------------------------|--------------------|
-| Dependability  | Benevolence-Dependability  | Being a reliable and trustworthy member of the in-group | 
-| Caring         | Benevolence-Caring         | Devotion to the welfare of in-group members |
-| Non-Judgment   | Universalism-Tolerance     | Acceptance and understanding of those who are different from oneself |
-| Justice        | Universalism-Concern       | Commitment to equality, justice, and protection for all people |
-| Cosmos         | Universalism-Nature        | Preservation of the natural environment |
-| Humility       | Humility                   | Recognizing one’s insignificance in the larger scheme of things |
-| Restraint      | Conformity-Interpersonal   | Avoidance of upsetting or harming other people |
-| Conformity     | Conformity-Rules           | Compliance with rules, laws, and formal obligations |
-| Tradition      | Tradition                  | Maintaining and preserving cultural, family, or religious traditions |
-| Others' Safety | Security-Societal          | Safety and stability in the wider society |
-| Personal Safety| Security-Personal          | Safety in one’s immediate environment |
-| Appearance     | Face | Security and power through maintaining one’s public image and avoiding humiliation |
-| Resources      | Power-Resources            | Power through control of material and social resources |
-| Dominance      | Power-Dominance            | Power through exercising control over people |
-| Achievement    | Achievement                | Personal success through demonstrating competence according to social standards |
-| Pleasure       | Hedonism                   | Pleasure and sensuous gratification for oneself |
-| Stimulation    | Stimulation                | Excitement, novelty, and challenge in life |
-| Free Action    | Self-Direction-Action      | The freedom to determine one’s own actions |
-| Free Thought   | Self-Direction-Thought     | The freedom to cultivate one’s own ideas and abilities |
+| Value          | Definition         | 
+|----------------|--------------------|
+| Dependability  | Being a reliable and trustworthy member of the in-group | 
+| Caring         | Devotion to the welfare of in-group members |
+| Tolerance      | Acceptance and understanding of those who are different from oneself |
+| Justice        | Commitment to equality, justice, and protection for all people |
+| Stewardship    | Preservation of the natural environment |
+| Humility       | Recognizing one’s limitations in the larger scheme of things |
+| Conformity     | Avoidance of upsetting or harming other people |
+| Compliance     | Compliance with rules, laws, and formal obligations |
+| Tradition      | Maintaining and preserving cultural, family, or religious traditions |
+| Others' Safety | Safety and stability in the wider society |
+| Personal Safety| Safety in one’s immediate environment |
+| Appearance     | Security and power through maintaining one’s public image and avoiding humiliation |
+| Resources      | Power through control of material and social resources |
+| Dominance      | Power through exercising control over people |
+| Achievement    | Personal success through demonstrating competence according to social standards |
+| Pleasure       | Pleasure and sensuous gratification for oneself |
+| Stimulation    | Excitement, novelty, and challenge in life |
+| Free Action    | The freedom to determine one’s own actions |
+| Free Thought   | The freedom to cultivate one’s own ideas and abilities |
 
 __These values are related to each other.__  The brilliance of this model is that all values are laid out in a [circular continuum](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9131418/figure/fig1-1073191121998760/), so that each blends into the next.  This means that values which are next to each other on the continuum are more highly correlated.  For instance, if you value *conformity* to rules, you are more likely to also value cultural *tradition*.  Values that are opposite each other on the wheel are less related; so that people valuing *conformity* are less likely to value *free action*.
 
@@ -105,14 +105,14 @@ So which values tend toward darkness?
 
 _Darkness is a movement toward self-enhancing values._  These values include pleasure, stimulation, achievement, resources, dominance^[According to [@perssonDarkValuesDark2015], these appear to be the 'common core' of dark tendencies: "Hedonism, Stimulation, Achievement, and Power appear to be the primary values held by those high on the Dark Triad traits." (p. 5)  Since their study used the older version of the SVS, I've unpacked "power" into its two components from the later, expanded version found in [@schwartzMeasuringRefinedTheory2022]], and appearance.^[Although the value of *face*, which I've re-named *appearance*, didn't enter into the SVS until after some of the studies we're referencing, there seems to be reason to include it based on the work of @truhanManyFacesDark2021.  There, it appears in relationship to narcissism in the term "acclaim-seeking" (p. 25)]  The table below summarizes the values associated with *dark triad* personality profiles, as well as which profiles embrace those values:
 
-| Value | SVS | Dark Trait |
-|-------|-----|------------|
-| Stimulation | Stimulation | Machiavellianism, Narcissism, Psychopathy |
-| Pleasure | Hedonism | Machiavellianism, Psychopathy |
-| Achievement | Achievement | Machiavellianism, Narcissism, Psychopathy |
-| Dominance | Power (Dominance) | Machiavellianism, Narcissism, Psychopathy |
-| Resources | Power (Resources) | Machiavellianism, Narcissism, Psychopathy |
-| Appearance | Face | Narcissism |
+| Value       | Dark Trait |
+|-------------|------------|
+| Stimulation | Machiavellianism, Narcissism, Psychopathy |
+| Pleasure    | Machiavellianism, Psychopathy |
+| Achievement | Machiavellianism, Narcissism, Psychopathy |
+| Dominance   | Machiavellianism, Narcissism, Psychopathy |
+| Resources   | Machiavellianism, Narcissism, Psychopathy |
+| Appearance  | Narcissism |
 
 A value is a consistently-made choice.  So, as darkness gravitates toward the values above, it  also tends away from a number of other values.
 
@@ -136,19 +136,19 @@ The other theory, *Morality-as-Cooperation*, seeks to explain why we call certai
 
 The table below shows which values are more likely to lead to cooperation and collective flourishing, based on these theories and studies based on them:
 
-| Value            | SVS                           | MAC          | MFT               |
-|------------------|-------------------------------|--------------|-------------------|
-| Dependability    | Benevolence (*Dependability*) | Mutualism    | Ingroup           |
-| Caring           | Benevolence (*Caring*)        | Reciprocity  | Care, Fairness    |
-| Non-Judgment     | Universalism (*Tolerance*)    | *N/A*        | *N/A*             | 
-| Justice          | Universalism (*Concern*)      | Fairness     | Fairness          |
-| Cosmos           | Universalism (*Nature*)       | *N/A*        | *N/A*             |
-| Humility         | Humility                      | *N/A*        | *N/A*             |
-| Restraint        | Conformity (*Interpersonal*)  | *N/A*        | *N/A*             |
-| Conformity       | Conformity (*Rules*)          | Deference    | Authority, Purity |
-| Tradition        | Tradition                     | Deference    | Authority, Purity |
-| Others' Safety   | Security (*Societal*)         | Kin altruism, Mutualism, Reciprocity | Ingroup, Fairness |
-| Personal Safety  | Security (*Personal*)         | *N/A*        | Purity            |
-| Resources        | Power (*Resources*)           | Property     | *N/A*             |
+| Value            | MAC          | MFT               |
+|------------------|--------------|-------------------|
+| Dependability    | Mutualism    | Ingroup           |
+| Caring           | Reciprocity  | Care, Fairness    |
+| Tolerance        | *N/A*        | *N/A*             | 
+| Justice          | Fairness     | Fairness          |
+| Stewardship      | *N/A*        | *N/A*             |
+| Humility         | *N/A*        | *N/A*             |
+| Conformity       | *N/A*        | *N/A*             |
+| Compliance.      | Deference    | Authority, Purity |
+| Tradition        | Deference    | Authority, Purity |
+| Others' Safety   | Kin altruism, Mutualism, Reciprocity | Ingroup, Fairness |
+| Personal Safety  | *N/A*        | Purity            |
+| Resources        | Property     | *N/A*             |
 
 
