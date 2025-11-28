@@ -2,9 +2,6 @@
 title: Prayer at a Wedding
 author: J. Hagedorn
 date: '2025-11-24'
-slug: []
-categories: []
-tags: []
 description: ''
 ---
 
