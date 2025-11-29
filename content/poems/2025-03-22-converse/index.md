@@ -32,7 +32,7 @@ date: '2025-03-22'
   
 ---
 
-2. 
+2.
   
   Without a medium there can be no sound.  
   
@@ -159,6 +159,20 @@ date: '2025-03-22'
   
   rather, having trusted distance less  
   than contact.  
+  
+---
+
+10.
+  
+  My moments so precisely crammed,  
+  
+  what will it take for me to give  
+  myself to those yawning gulfs  
+  
+  — sail-thin?  
+  
+  To open up a measured word  
+  to the blanks it breathes?  
   
 ---
 
