@@ -155,7 +155,7 @@ date: '2025-03-22'
   seed of a dark fruit  
   
   is a pact I have made with earth,  
-  with growing death—through death,  
+  with growing death — through death,  
   
   rather, having trusted distance less  
   than contact.  
