@@ -6,48 +6,43 @@ slug: turn-eterne
 meta_img: /images/image.jpg
 ---
 
-If we would linger long within this land  
-we must permit our wings to petrify,  
+(*to C.*)
 
-must take a river for a gullet
-our antique sunken names among the barges.
-
-For we are young as morning's  
-washings onto shore.
-
-We must become fretted
-with arches, traversed by sky
-
-and breasts, so many,  
-quarried from depths, alert as birds
-
-and valves to bring and bear away
-those who travel through us
-
-moss-crotched, patient in want, you perch above a bowl of holy water  
-Egyptian eyebrows, Baroque skin, a travertine skull
-
-you must keep, just off center, your heart
-
-a wound: an altar  
-
-a valved instrument 
-to lure and bear away
-
-through cavernous gates
-conveying centuries of travelers  
-reborn to tunnels, lungs and dawns  
-
-
-here they paint houses with the sun's revelations:  
-rust petal, blood-orange,  
-
-and tourists take pictures by the bleaching hour  
-sharing the colors of until.
-
-the city is eternal because you are not
-you are a portion of its eternity
-
-shout to tilt the song
-to anthem on the lips
-of flower-sellers, washing tomorrow's pavement
+  To linger long upon this land  
+  we must allow our wings to petrify,  
+  
+  I must allow a river to become my gullet,  
+  name sunk among the barges, to recite:  
+  
+  *We are still young as morning's*  
+  *washings on the bank.*  
+  
+  Here they paint houses with the sun:  
+  rust petal, blood-orange.  
+  
+  We must ascend the streets, become   
+  fretted with arches, traversed by sky.  
+  
+  Let's go out. To your travertine skull, apply   
+  Egyptian eyebrows, Baroque skin.  
+  
+  Be quick as a canto or a photograph.  
+  The city is eternal because you are not.  
+  
+  Tomorrow we can wake and wash   
+  dark pavement in the bleaching hours.  
+  
+  Moss-crotched, patient, you can perch   
+  above a bowl of holy water,  
+  
+  yielding your many breasts:   
+  quarried from earth, alert as birds.  
+  
+  Can visit the chancel where you laid   
+  your heart askew: a wound and altar.  
+  
+  Listen as the flower-seller's tune  
+  tilts into an anthem in the city's lips:  
+  
+  *We are still young as night,*   
+  *a swift noise in an ancient blindness.*  
