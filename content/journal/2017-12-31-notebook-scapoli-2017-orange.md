@@ -23,7 +23,7 @@ if one more caged beast escapes?
 Scapoli, 2017.
 Haunted by the thought that I have pulled my children across an ocean, running away from a toxic culture that seems to be an allergy peculiar to me.  That perhaps my ceaseless pulling is not heroic at all: not an act of saving them but of holding them back from happiness.  That I am a tether, holding their brightness close to me because I do not have my own.
 
-I feel mostly solitary here, no different than ever.  Except that each moment is buoyed by an undercurrent - centuries of human attention pored over the radiating stone streets, the arches vaulting each sequent courtyard's haven.  And beyond, the mountains.  Eons-old, the dizzy escarpments and chloropyll-clotted ridges.
+I feel mostly solitary here, no different than ever.  Except that each moment is buoyed by an undercurrent - centuries of human attention pored over the radiating stone streets, the arches vaulting each sequent courtyard's haven.  And beyond, the mountains.  Eons-old, the dizzy escarpments and chlorophyll-clotted ridges.
 
 At home among the aged accumulations, as among the distilled richness of poems or oil paintings.  
 
@@ -181,7 +181,7 @@ By using them to control others?  In the monastery, one 'took on' the clock (or 
 
 Now, however, it would seem almost absurd to speak about having a choice of whether to abide by the clock.
 
-[Except in small towns, perhaps, where people are known and have a grace for the unnevenness of time.]
+[Except in small towns, perhaps, where people are known and have a grace for the unevenness of time.]
 
 Today the impulse toward the sacred is often an impulse away from rules, abstractions, bureaucracies.  It pulses toward the physical ground of our being.  To touch the dirt of ones death and stay there with it.
 
@@ -233,7 +233,7 @@ American culture sets itself so vehemently against Islam because it sees there i
 ----
 
 Curl around this tree
-amond the decorative landscaping of the strip mall
+among the decorative landscaping of the strip mall
 and feel for its history
 
 ----
@@ -322,7 +322,7 @@ Plus, the sky is full of brains.
 
 ----
 
-Is there an essential differnce between the choice of (a) Products, (b) Roads?
+Is there an essential difference between the choice of (a) Products, (b) Roads?
 
 We speak about consumerism, but do not wholly consume the things we buy; do not take them into ourselves mindfully and let them change us.  If only we did...
 
@@ -837,7 +837,7 @@ Faced with complexity, we focus and separate.
 Research:
 
 - gestalt
-- chiarascuro
+- chiaroscuro
 - definition by difference
 - Augustine and Piaget on perception, differentiation
 
@@ -870,7 +870,7 @@ it brings forth much fruit" (ICXC, John 12:24)
 
 "If sick men dream of marriage it is a foreboding of death... all the accompaniments of marriage are the same as those of death" - Artemidorus
 
-Greek for 'initiation' == 'fulfilment', NOT 'entering',
+Greek for 'initiation' == 'fulfillment', NOT 'entering',
 the implication being that we leave a space because we have filled it,
 that all about our current homes are entrances we grow into
 
@@ -952,7 +952,7 @@ Beauty will save the world, but maybe not us.
 
 ---
 
-C. says that it is too late to change the trajectory of our lives, to build new foundations, & I feel like I am living in the long anemic shadow of my past choices: the meagre, fearful me that I have been trying to crawl from underneath..
+C. says that it is too late to change the trajectory of our lives, to build new foundations, & I feel like I am living in the long anemic shadow of my past choices: the meager, fearful me that I have been trying to crawl from underneath..
 
 I am compelled to live, full-bodied and dark-blooded in the shallowshadows he has left.
 
