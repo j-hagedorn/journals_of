@@ -62,7 +62,7 @@ date: '2026-01-19'
   by means of another body, whether  
   
   the appetite is a special power,  
-  whether "gift" is a personal name?
+  whether "gift" is a personal name.
 
   The last end is called happiness, as the reaching   
   of the end is called the end.   
