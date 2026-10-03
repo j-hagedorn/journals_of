@@ -136,7 +136,7 @@ We know the never-resting mind
 cannot be held.  Sit with me.  
 
 Fractals are limitless, yet don't *exist*  
-until a viewer clicks and zooms.
+until you click and zoom.
 
 It is the approach which ever  
 incites infinity, reaching to uncover it.
@@ -229,7 +229,7 @@ purports to explain  *...I will put*
 The theme is an ascetic one,  
 of growing thinner to thicken Reality.
 
-It says the more precipituous foothold  
+It says the more precipitous foothold  
 yields a greater view.  It says,  
 
 perspective requires that we cannot touch.  
