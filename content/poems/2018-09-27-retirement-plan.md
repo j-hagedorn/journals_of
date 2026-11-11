@@ -3,9 +3,6 @@ title: Retirement Plan
 author: J. Hagedorn
 date: '2015-09-23'
 slug: retirement-plan
-categories: []
-tags: []
-meta_img: /images/image.jpg
 ---
 
 *for Nadia*

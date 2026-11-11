@@ -3,7 +3,7 @@ title: Creases (Latesummer)
 author: J. Hagedorn
 date: '2014-01-13'
 slug: creases-latesummer
-meta_img: /images/image.jpg
+draft: true
 ---
 
 With our last polaroids we took pictures of <font size="2">LIGHT</font> and <font size="2">DARKNESS</font>  

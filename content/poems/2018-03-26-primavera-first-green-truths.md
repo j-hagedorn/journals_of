@@ -2,15 +2,7 @@
 title: Primavera (First green truths)
 author: J. Hagedorn
 date: '2018-03-26'
-slug: primavera-first-green-truths
-categories: []
-tags: []
-meta_img: /images/image.jpg
----
-
-> *...and morning came and showed Snow the prism hidden in his sharded heart.  And Snow thought to himself:*  
-> *"How can one become light without first embodying each color?"*  
-
+draft: true
 ---
 
 On earth we hold finches in our infant fingers,  

@@ -2,8 +2,7 @@
 title: The Dark Reactions
 author: J. Hagedorn
 date: '2019-09-06'
-slug: the-dark-reactions
-meta_img: /images/image.jpg
+draft: true
 ---
 
 

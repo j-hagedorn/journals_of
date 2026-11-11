@@ -4,6 +4,7 @@ author: J. Hagedorn
 date: '2021-08-29'
 slug: turn-eterne
 meta_img: /images/image.jpg
+draft: true
 ---
 
 (*to C.*)
