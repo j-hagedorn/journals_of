@@ -3,8 +3,7 @@ title: The Light Reactions
 author: J. Hagedorn
 date: '2019-06-18'
 slug: the-light-reactions
-categories: []
-meta_img: /images/image.jpg
+draft: true
 ---
 
   
@@ -100,7 +99,7 @@ beside, between.
 
 Rehearse this subtle  
 syllabary, lilt  
-this weathered tempestry.  
+the weathered tempestry.  
 
 
 Hold on and on,  

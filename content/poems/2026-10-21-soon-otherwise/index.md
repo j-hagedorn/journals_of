@@ -3,8 +3,7 @@ title: Soon otherwise
 author: J. Hagedorn
 date: '2026-10-21'
 slug: []
-categories: []
-tags: []
+draft: true
 description: ''
 ---
 

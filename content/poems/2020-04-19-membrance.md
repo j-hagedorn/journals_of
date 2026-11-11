@@ -4,7 +4,6 @@ author: J. Hagedorn
 date: '2020-04-19'
 slug: membrance
 draft: true
-meta_img: /images/image.jpg
 ---
 
 

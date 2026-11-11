@@ -2,8 +2,7 @@
 title: Creases (Autumn)
 author: J. Hagedorn
 date: '2014-01-13'
-slug: creases-autumn
-meta_img: /images/image.jpg
+draft: true
 ---
 
 Novemberous, the body a warm sliver  

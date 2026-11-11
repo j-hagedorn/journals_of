@@ -4,6 +4,7 @@ author: J. Hagedorn
 date: '2021-10-08'
 slug: piecemeal
 meta_img: /images/image.jpg
+draft: true
 ---
 
 A word is sound seeking  
@@ -16,12 +17,6 @@ the ear in the throat's shell.
 *
 
   
-Riven, arrive.
-
-
-*
-
-
 To do the opposite of covet:  
 allude, allure,  
 

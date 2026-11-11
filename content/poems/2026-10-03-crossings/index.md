@@ -3,8 +3,7 @@ title: Crossings
 author: J. Hagedorn
 date: '2026-10-03'
 slug: []
-categories: []
-tags: []
+draft: true
 description: ''
 ---
 

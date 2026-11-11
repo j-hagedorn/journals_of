@@ -2,10 +2,7 @@
 title: The Construction of the Heavens
 author: 'J. Hagedorn / Wm. Herschel'
 date: '2017-11-10'
-slug: the-construction-of-the-heavens
-categories: []
-tags: []
-meta_img: /images/image.jpg
+draft: true
 ---
 
 Make some use of this.  
